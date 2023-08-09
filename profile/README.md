@@ -14,4 +14,4 @@ The club is for children aged 9 to 12, and we run twice a month in Wokingham lib
 
 These pages contain repositories for lots of the projects we have developed as well as some background information. One section, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub), lists the projects we created while the code club was operating online, during the coronavirus restrictions. For each of the online sessions we created a summary video afterwards, and the links to all these videos can be found in this repository.
 
-For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io).
+For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io), or see the list of all repositories below.
