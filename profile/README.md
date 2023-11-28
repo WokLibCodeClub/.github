@@ -16,5 +16,5 @@ These pages contain repositories for lots of the projects we have developed as w
 
 For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io), or see the list of all repositories below (click on the panel that says "View all repositories" to see the complete list).
 
-Saturday 2nd December 2023: link for Scratch Where am I project:
+**Saturday 2nd December 2023**: link for Scratch Where am I project:
 [https://scratch.mit.edu/projects/921340257/](https://scratch.mit.edu/projects/921340257/)
