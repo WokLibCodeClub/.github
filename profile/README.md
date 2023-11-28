@@ -15,3 +15,6 @@ The club is for children aged 9 to 12, and we run twice a month in Wokingham lib
 These pages contain repositories for lots of the projects we have developed as well as some background information. One section, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub), lists the projects we created while the code club was operating online, during the coronavirus restrictions. For each of the online sessions we created a summary video afterwards, and the links to all these videos can be found in this repository.
 
 For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io), or see the list of all repositories below (click on the panel that says "View all repositories" to see the complete list).
+
+Saturday 2nd December 2023: link for Scratch Where am I project:
+[https://scratch.mit.edu/projects/921340257/](https://scratch.mit.edu/projects/921340257/)
