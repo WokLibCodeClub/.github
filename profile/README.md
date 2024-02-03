@@ -16,7 +16,12 @@ These pages contain repositories for lots of the projects we have developed as w
 
 For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io), or see the list of all repositories below (click on the panel that says "View all repositories" to see the complete list).
 
-Our next sessions will be on Saturday 3rd February 2024 at Wokingham Library.
+Our next sessions will be on Saturday 24th February 2024 at Wokingham Library.
 
 Starter project for TurtleIt!
+
 [https://trinket.io/python/2dc2b8f72f](https://trinket.io/python/2dc2b8f72f)
+
+Link to code for TurtleIt! at the end of 3rd February 2024 session:
+
+[https://trinket.io/python/3d0b6e9461](https://trinket.io/python/3d0b6e9461)
