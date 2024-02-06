@@ -20,10 +20,14 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Our next sessions will be on Saturday 24th February 2024 at Wokingham Library.
 
-Starter project for TurtleIt!
-
-[https://trinket.io/python/2dc2b8f72f](https://trinket.io/python/2dc2b8f72f)
+#### Python
+At the next Python session we will continue building the code for a simple turtle-squashing game. If you missed the session on 3rd February 2024 you can see our code as it was at the end of that session here:
 
 Link to code for TurtleIt! at the end of 3rd February 2024 session:
 
 [https://trinket.io/python/3d0b6e9461](https://trinket.io/python/3d0b6e9461)
+
+The link to the trinket starter project for TurtleIt! is here:
+
+[https://trinket.io/python/2dc2b8f72f](https://trinket.io/python/2dc2b8f72f)
+
