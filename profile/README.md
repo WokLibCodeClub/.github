@@ -26,7 +26,7 @@ In the Python session we will start coding a simple version of a game called Spa
 
 Here is an example of what the game might look like:
 
-![alt text]([lineC./Onodeclub/raw/master/spaceracedemo.gif](https://github.com/WokLibCodeClub/OnlineCodeclub/spaceracedemo.gif) "Demo of Space Race")
+![alt text](https://github.com/WokLibCodeClub/OnlineCodeclub/spaceracedemo.gif) "Demo of Space Race")
 
 although our game will be a bit simpler, with rocks only coming from one side.
 
