@@ -34,7 +34,7 @@ There is a starter project in trinket and the link is:
 
 [trinket.io/python3b8a6c8a96](https://trinket.io/python/3b8a6c8a96)
 
-We have a lot to get through in the session, so please try to be there, logged in, in time to start coding at 10.45am.
+We have a lot to get through in the session, so please try to be there, logged in, in time to start coding at 11.45am.
 
 
 
