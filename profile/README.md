@@ -28,6 +28,8 @@ Here is an example of what the game might look like:
 
 ![alt text](https://github.com/WokLibCodeClub/OnlineCodeclub/raw/master/spaceracedemo.gif "Demo of Space Race")
 
+![alt_text[(./OnlineCodeclub/blob/master/spaceracedemo.gif)
+
 although our game will be a bit simpler, with rocks only coming from one side.
 
 There is a starter project in trinket and the link is:
