@@ -20,3 +20,11 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Our next sessions will be on Saturday 2nd March 2024 at Wokingham Library.
 
+#### Python
+
+In the Python session we will start coding a simple version of a game called Space Race.
+
+Here is an example of what the game might look like:
+
+
+
