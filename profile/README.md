@@ -18,11 +18,15 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ### Next sessions
 
-Our next sessions will be on Saturday 2nd March 2024 at Wokingham Library.
+Our next sessions will be on Saturday 23rd March 2024 at Wokingham Library.
 
 #### Python
 
-In the Python session we will start coding a simple version of a game called Space Race.
+In the Python session we will finish coding our simple Space Race game by adding multiple asteroids.
+
+If you missed the last session you can find the code as it was at the end of 2nd March 2024 at
+
+[trinket.io/python/1cafd6bb1a](https://trinket.io/python/1cafd6bb1a)
 
 Here is an example of what the game might look like:
 
@@ -32,9 +36,13 @@ although our game will be a bit simpler, with rocks only coming from one side.
 
 There is a starter project in trinket and the link is:
 
-[trinket.io/python3b8a6c8a96](https://trinket.io/python/3b8a6c8a96)
+[trinket.io/python/3b8a6c8a96](https://trinket.io/python/3b8a6c8a96)
 
 We have a lot to get through in the session, so please try to be there, logged in, in time to start coding at 11.45am.
 
+If you want to try and code the complete game, with rocks coming from both directions you can find the instructions here:
 
+
+
+If you are going to do this it would be best to start a completely new Python project. Don't try to adapt the simple version, as there are a lot of things which are different.
 
