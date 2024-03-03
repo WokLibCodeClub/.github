@@ -28,21 +28,21 @@ If you missed the last session you can find the code as it was at the end of 2nd
 
 [trinket.io/python/1cafd6bb1a](https://trinket.io/python/1cafd6bb1a)
 
+We have a lot to get through in the session, so please try to be there, logged in, in time to start coding at 11.45am.
+
 Here is an example of what the game might look like:
 
 ![alt text](https://github.com/WokLibCodeClub/OnlineCodeclub/raw/master/spaceracedemo.gif "Demo of Space Race")
 
-although our game will be a bit simpler, with rocks only coming from one side.
+although our game is simpler, with rocks only coming from one side.
 
-There is a starter project in trinket and the link is:
+If you want to look at the starter project for the Simple Space Race the link is:
 
 [trinket.io/python/3b8a6c8a96](https://trinket.io/python/3b8a6c8a96)
 
-We have a lot to get through in the session, so please try to be there, logged in, in time to start coding at 11.45am.
-
 If you want to try and code the complete game, with rocks coming from both directions you can find the instructions here:
 
-
+[Space Race for Python](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/space_race.md)
 
 If you are going to do this it would be best to start a completely new Python project. Don't try to adapt the simple version, as there are a lot of things which are different.
 
