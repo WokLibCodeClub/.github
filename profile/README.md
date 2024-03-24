@@ -24,6 +24,8 @@ Our next sessions will be on Saturday 27th April 2024 at Wokingham Library.
 
 In the Python session we will be starting sessions for Python beginner coders. At the same time we will have some Python challenges for the more experienced coders to tackle. Experienced coders can also work on projects from the Raspberry Pi website or their own projects if they wish, and the volunteers will be on hand to help.
 
+The link to the Python Challenges will appear here just before the next session!
+
 Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
 
 #### Previous Python projects
