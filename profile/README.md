@@ -18,29 +18,31 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ### Next sessions
 
-Our next sessions will be on Saturday 23rd March 2024 at Wokingham Library.
+Our next sessions will be on Saturday 27th April 2024 at Wokingham Library.
 
 #### Python
 
-In the Python session we will finish coding our simple Space Race game by adding multiple asteroids.
+In the Python session we will be starting sessions for Python beginner coders. At the same time we will have some Python challenges for the more experienced coders to tackle. Experienced coders can also work on projects from the Raspberry Pi website or their own projects if they wish, and the volunteers will be on hand to help.
 
-If you missed the last session you can find the code as it was at the end of 2nd March 2024 at
+Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
 
-[trinket.io/python/1cafd6bb1a](https://trinket.io/python/1cafd6bb1a)
+#### Previous Python projects
 
-We have a lot to get through in the session, so please try to be there, logged in, in time to start coding at 11.45am.
+In the last couple of months we have completed a couple of Python games. Here are the links to the code for the finished games:
 
-Here is an example of what the game might look like:
+##### TurtleIt!
 
-![alt text](https://github.com/WokLibCodeClub/OnlineCodeclub/raw/master/spaceracedemo.gif "Demo of Space Race")
+a turtle (or frog) squashing game, which we finished on 23 February 2024. Finished code at
 
-although our game is simpler, with rocks only coming from one side.
+[trinket.io/python/5586c04f33](https://trinket.io/python/5586c04f33)
 
-If you want to look at the starter project for the Simple Space Race the link is:
+##### Simple Space Race
 
-[trinket.io/python/3b8a6c8a96](https://trinket.io/python/3b8a6c8a96)
+a game to move a rocket from bottom to top of the screen and avoid being hit by asteroids, finished on 23 March 2024. Finished code at
 
-If you want to try and code the complete game, with rocks coming from both directions you can find the instructions here:
+[trinket.io/python/949b023cda](https://trinket.io/python/949b023cda)
+
+If you want to build the full **Space Race** game, with rocks coming from both directions you can find the instructions here:
 
 [Space Race for Python](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/space_race.md)
 
