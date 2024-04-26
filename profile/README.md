@@ -20,6 +20,14 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Our next sessions will be on Saturday 27th April 2024 at Wokingham Library.
 
+#### Scratch
+
+We will be working on a project called *Don't Fall In* during the session.
+
+If anyone is interested in entering a national Scratch competition there is one called **Young Coders Competition** which is running at the moment. Unfortunately the deadline is only a couple of weeks away - entries need to be in by 10 May 2024. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
+
+If anyone wants to enter you will have to do it through the library Code Club, and the volunteers will submit all the entries, so let us know on Saturday, or any other time by contacting Sarah Jenkins at Wokingham Library.
+
 #### Python
 
 In the Python session we will be starting sessions for Python beginner coders. At the same time we will have some *Python Challenges* for the more experienced coders to tackle. Experienced coders can also work on projects from the Raspberry Pi website or their own projects if they wish, and the volunteers will be on hand to help.
