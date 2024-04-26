@@ -26,7 +26,7 @@ We will be working on a project called *Don't Fall In* during the session.
 
 If anyone is interested in entering a national Scratch competition there is one called **Young Coders Competition** which is running at the moment. Unfortunately the deadline is only a couple of weeks away - entries need to be in by 10 May 2024. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
 
-If anyone wants to enter you will have to do it through the library Code Club, and the volunteers will submit all the entries, so let us know on Saturday, or any other time by contacting Sarah Jenkins at Wokingham Library.
+If anyone wants to enter (and you can enter individually or as a team) you will have to do it through the library Code Club, and the volunteers will submit all the entries, so let us know on Saturday, or any other time by contacting Sarah Jenkins at Wokingham Library.
 
 #### Python
 
