@@ -34,8 +34,6 @@ In the Python session we will be starting sessions for Python beginner coders. A
 
 The link to the *Python Challenges* is [https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
 
-During the beginners' session we will open a trinket project to use for coding. The link is [trinket.io/python/559a5a8971](https://trinket.io/python/559a5a8971)
-
 Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
 
 #### Previous Python projects
