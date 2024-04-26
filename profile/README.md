@@ -36,7 +36,7 @@ The link to the *Python Challenges* will appear here just before the next sessio
 
 During the beginners' session we will open a trinket project to use for coding. The link is
 
-[trinket.io/python/2bf41e12e2](https://trinket.io/python/2bf41e12e2)
+[trinket.io/python/559a5a8971](https://trinket.io/python/559a5a8971)
 
 Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
 
