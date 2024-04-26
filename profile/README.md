@@ -32,7 +32,7 @@ If anyone wants to enter (and you can enter individually or as a team of 2 to 6 
 
 In the Python session we will be starting sessions for Python beginner coders. At the same time we will have some *Python Challenges* for the more experienced coders to tackle. Experienced coders can also work on projects from the Raspberry Pi website or their own projects if they wish, and the volunteers will be on hand to help.
 
-The link to the *Python Challenges* will appear here just before the next session!
+The link to the *Python Challenges* is [https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
 
 During the beginners' session we will open a trinket project to use for coding. The link is [trinket.io/python/559a5a8971](https://trinket.io/python/559a5a8971)
 
