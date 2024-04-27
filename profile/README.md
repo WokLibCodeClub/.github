@@ -24,7 +24,7 @@ Our next sessions will be on Saturday 4th May 2024 at Wokingham Library.
 
 We will continue working on the platform project called *Don't Fall In*. The project instructions are at [https://projects.raspberrypi.org/en/projects/dont-fall-in](https://projects.raspberrypi.org/en/projects/dont-fall-in)
 
-If you are interested in entering the **Young Coders Competition** let the volunteers know at the session and we will set up an entry for you. You don't need to have your project finished for our session on 4th May, but you will need to finish it before the deadline of 10th May. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
+If you are interested in entering the **Young Coders Competition** let the volunteers know at the session and we will set up an entry for you. You don't need to have your project finished for our session on 4th May, but you will need to finish it before the deadline of 10th May. We will submit your entry when you tell us it is finished. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
 
 #### Python
 
@@ -35,10 +35,6 @@ For our new Python coders we will continue learning the basics of Python, by wri
 For more experience Python coders we suggest you continue solving our *Python Challenges* which you can find at this link:
 
 [https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
-
-In the Python session we will be starting sessions for Python beginner coders. At the same time we will have some *Python Challenges* for the more experienced coders to tackle. Experienced coders can also work on projects from the Raspberry Pi website or their own projects if they wish, and the volunteers will be on hand to help.
-
-The link to the *Python Challenges* is 
 
 Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
 
