@@ -18,21 +18,27 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ### Next sessions
 
-Our next sessions will be on Saturday 27th April 2024 at Wokingham Library.
+Our next sessions will be on Saturday 4th May 2024 at Wokingham Library.
 
 #### Scratch
 
-We will be working on a project called *Don't Fall In* during the session.
+We will continue working on the platform project called *Don't Fall In*. The project instructions are at [https://projects.raspberrypi.org/en/projects/dont-fall-in](https://projects.raspberrypi.org/en/projects/dont-fall-in)
 
-If anyone is interested in entering a national Scratch competition there is one called **Young Coders Competition** which is running at the moment. Unfortunately the deadline is only a couple of weeks away - entries need to be in by 10 May 2024. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
-
-If anyone wants to enter (and you can enter individually or as a team of 2 to 6 students) you will have to do it through the library Code Club, and the volunteers will submit all the entries, so let us know in person on Saturday, or any other time by contacting Sarah Jenkins at Wokingham Library.
+If you are interested in entering the **Young Coders Competition** let the volunteers know at the session and we will set up an entry for you. You don't need to have your project finished for 4th May, but you will need to finish it before the deadline of 10th May. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
 
 #### Python
 
+For our new Python coders we will continue learning the basics of Python, by writing code for an Age Calculator. If you would like to check up on the code we wrote during the last session you can find the code (with a lot of Python comments added to explain what we were doing) at this link:
+
+[trinket.io/python/05d317e0a9](https://trinket.io/python/05d317e0a9)
+
+For more experience Python coders we suggest you continue solving our *Python Challenges* which you can find at this link:
+
+[https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
+
 In the Python session we will be starting sessions for Python beginner coders. At the same time we will have some *Python Challenges* for the more experienced coders to tackle. Experienced coders can also work on projects from the Raspberry Pi website or their own projects if they wish, and the volunteers will be on hand to help.
 
-The link to the *Python Challenges* is [https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
+The link to the *Python Challenges* is 
 
 Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
 
