@@ -24,7 +24,7 @@ Our next sessions will be on Saturday 4th May 2024 at Wokingham Library.
 
 We will continue working on the platform project called *Don't Fall In*. The project instructions are at [https://projects.raspberrypi.org/en/projects/dont-fall-in](https://projects.raspberrypi.org/en/projects/dont-fall-in)
 
-If you are interested in entering the **Young Coders Competition** let the volunteers know at the session and we will set up an entry for you. You don't need to have your project finished for 4th May, but you will need to finish it before the deadline of 10th May. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
+If you are interested in entering the **Young Coders Competition** let the volunteers know at the session and we will set up an entry for you. You don't need to have your project finished for our session on 4th May, but you will need to finish it before the deadline of 10th May. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
 
 #### Python
 
