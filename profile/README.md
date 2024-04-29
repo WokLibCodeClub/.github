@@ -32,6 +32,15 @@ For our new Python coders we will continue learning the basics of Python, by wri
 
 [trinket.io/python/05d317e0a9](https://trinket.io/python/05d317e0a9)
 
+*Naming variables*
+
+- Variable names can only include the lower case letters a-z, the upper case letters A-Z, the numbers 0-9 and the underscore _ character.
+
+- Variable names must begin with a letter or the underscore character, never a number; and they can't have any spaces in them.
+
+- It's a good idea to avoid calling variables with the same name as a Python function, like <code>print</code> 
+
+
 For more experience Python coders we suggest you continue solving our *Python Challenges* which you can find at this link:
 
 [https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
