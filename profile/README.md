@@ -28,7 +28,9 @@ If you are interested in entering the **Young Coders Competition** let the volun
 
 #### Python
 
-For our new Python coders we will continue learning the basics of Python, by writing code for an Age Calculator. If you would like to check up on the code we wrote during the last session you can find the code (with a lot of Python comments added to explain what we were doing) at this link:
+##### For our new Python coders:
+
+We will continue learning the basics of Python, by writing code for an Age Calculator. If you would like to check up on the code we wrote during the last session you can find the code (with a lot of Python comments added to explain what we were doing) at this link:
 
 [trinket.io/python/05d317e0a9](https://trinket.io/python/05d317e0a9)
 
@@ -45,7 +47,9 @@ For our new Python coders we will continue learning the basics of Python, by wri
 and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield
 
 
-For more experience Python coders we suggest you continue solving our *Python Challenges* which you can find at this link:
+##### For more experience Python coders 
+
+We suggest you continue solving our *Python Challenges* which you can find at this link:
 
 [https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
 
