@@ -44,10 +44,10 @@ We will continue learning the basics of Python, by writing code for an Age Calcu
 
 - In addition there are some prohibited words (called keywords) that you absolutely ***can't*** use for variable names. These are:
 
-and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield
+<code>and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield</code>
 
 
-##### For more experience Python coders 
+##### For more experience Python coders:
 
 We suggest you continue solving our *Python Challenges* which you can find at this link:
 
