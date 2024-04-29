@@ -38,7 +38,11 @@ For our new Python coders we will continue learning the basics of Python, by wri
 
 - Variable names must begin with a letter or the underscore character, never a number; and they can't have any spaces in them.
 
-- It's a good idea to avoid calling variables with the same name as a Python function, like <code>print</code> 
+- It's a good idea to avoid calling variables with the same name as a Python function, like <code>print</code> or <code>input</code> or <code>name</code>.
+
+- In addition there are some prohibited words (called keywords) that you absolutely ***can't*** use for variable names. These are:
+
+and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield
 
 
 For more experience Python coders we suggest you continue solving our *Python Challenges* which you can find at this link:
