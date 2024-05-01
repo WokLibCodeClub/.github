@@ -46,6 +46,9 @@ We will continue learning the basics of Python, by writing code for an Age Calcu
 
 <code>and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield</code>
 
+If we have time to start looking at Python turtle graphics, then there is a trinket project you might want to look at. The link is
+
+[trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
 
 ##### For more experience Python coders:
 
