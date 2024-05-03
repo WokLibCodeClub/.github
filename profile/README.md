@@ -22,7 +22,7 @@ Our next sessions will be on Saturday 4th May 2024 at Wokingham Library.
 
 #### Scratch
 
-We will continue working on the platform project called *Don't Fall In*. The project instructions are at [https://projects.raspberrypi.org/en/projects/dont-fall-in](https://projects.raspberrypi.org/en/&nbsp;&nbsp;projects/dont-fall-in)
+We will continue working on the platform project called *Don't Fall In*. The project instructions are at [https://projects.raspberrypi.org/en/projects/dont-fall-in](https://projects.raspberrypi.org/en/projects/dont-fall-in)
 
 If you are interested in entering the **Young Coders Competition** let the volunteers know at the session and we will set up an entry for you. You don't need to have your project finished for our session on 4th May, but you will need to finish it before the deadline of 10th May. We will submit your entry when you tell us it is finished. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
 
@@ -58,7 +58,7 @@ You may also be interested in a list of all the named colours available in Pytho
 
 We suggest you continue solving our *Python Challenges* which you can find at this link:
 
-[https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
+&nbsp;&nbsp;[https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
 
 Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
 
@@ -70,17 +70,17 @@ In the last couple of months we have completed a couple of Python games. Here ar
 
 a turtle (or frog) squashing game, which we finished on 23 February 2024. Finished code at
 
-[trinket.io/python/5586c04f33](https://trinket.io/python/5586c04f33)
+&nbsp;&nbsp;[trinket.io/python/5586c04f33](https://trinket.io/python/5586c04f33)
 
 ##### Simple Space Race
 
 a game to move a rocket from bottom to top of the screen and avoid being hit by asteroids, finished on 23 March 2024. Finished code at
 
-[trinket.io/python/949b023cda](https://trinket.io/python/949b023cda)
+&nbsp;&nbsp;[trinket.io/python/949b023cda](https://trinket.io/python/949b023cda)
 
 If you want to build the full **Space Race** game, with rocks coming from both directions you can find the instructions here:
 
-[Space Race for Python](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/space_race.md)
+&nbsp;&nbsp;[Space Race for Python](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/space_race.md)
 
 If you are going to do this it would be best to start a completely new Python project. Don't try to adapt the simple version, as there are a lot of things which are different.
 
