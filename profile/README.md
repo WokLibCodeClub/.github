@@ -46,7 +46,7 @@ We will continue learning the basics of Python, by writing code for an Age Calcu
 
 - In addition there are some prohibited words (called keywords) that you absolutely ***can't*** use for variable names. These are:
 
-<code>and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield</code>
+- <code>and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield</code>
 
 If we have time to start looking at Python turtle graphics, then there is a trinket project you might want to look at. The link is
 
