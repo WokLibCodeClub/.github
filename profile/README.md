@@ -50,6 +50,10 @@ If we have time to start looking at Python turtle graphics, then there is a trin
 
 [trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
 
+You may also be interested in a list of all the named colours available in Python, which can be found at
+
+[w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
+
 ##### For more experience Python coders:
 
 We suggest you continue solving our *Python Challenges* which you can find at this link:
