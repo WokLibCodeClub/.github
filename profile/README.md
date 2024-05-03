@@ -22,7 +22,7 @@ Our next sessions will be on Saturday 4th May 2024 at Wokingham Library.
 
 #### Scratch
 
-We will continue working on the platform project called *Don't Fall In*. The project instructions are at [https://projects.raspberrypi.org/en/projects/dont-fall-in](https://projects.raspberrypi.org/en/projects/dont-fall-in)
+We will continue working on the platform project called *Don't Fall In*. The project instructions are at [https://projects.raspberrypi.org/en/projects/dont-fall-in](https://projects.raspberrypi.org/en/&nbsp;&nbsp;projects/dont-fall-in)
 
 If you are interested in entering the **Young Coders Competition** let the volunteers know at the session and we will set up an entry for you. You don't need to have your project finished for our session on 4th May, but you will need to finish it before the deadline of 10th May. We will submit your entry when you tell us it is finished. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
 
@@ -32,7 +32,7 @@ If you are interested in entering the **Young Coders Competition** let the volun
 
 We will continue learning the basics of Python, by writing code for an Age Calculator. If you would like to check up on the code we wrote during the last session you can find the code (with a lot of Python comments added to explain what we were doing) at this link:
 
-[trinket.io/python/05d317e0a9](https://trinket.io/python/05d317e0a9)
+&nbsp;&nbsp;[trinket.io/python/05d317e0a9](https://trinket.io/python/05d317e0a9)
 
 *Naming variables*
 
@@ -48,11 +48,11 @@ We will continue learning the basics of Python, by writing code for an Age Calcu
 
 If we have time to start looking at Python turtle graphics, then there is a trinket project you might want to look at. The link is
 
-[trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
+&nbsp;&nbsp;[trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
 
 You may also be interested in a list of all the named colours available in Python, which can be found at
 
-[w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
+&nbsp;&nbsp;[w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
 
 ##### For more experience Python coders:
 
