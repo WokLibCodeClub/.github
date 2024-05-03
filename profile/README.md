@@ -28,6 +28,8 @@ If you are interested in entering the **Young Coders Competition** let the volun
 
 #### Python
 
+Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
+
 ##### For our new Python coders:
 
 We will continue learning the basics of Python, by writing code for an Age Calculator. If you would like to check up on the code we wrote during the last session you can find the code (with a lot of Python comments added to explain what we were doing) at this link:
@@ -59,8 +61,6 @@ You may also be interested in a list of all the named colours available in Pytho
 We suggest you continue solving our *Python Challenges* which you can find at this link:
 
 &nbsp;&nbsp;[https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
-
-Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
 
 #### Previous Python projects
 
