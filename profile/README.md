@@ -18,13 +18,11 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ### Next sessions
 
-Our next sessions will be on Saturday 4th May 2024 at Wokingham Library.
+Our next sessions will be on Saturday 25th May 2024 at Wokingham Library.
 
 #### Scratch
 
 We will continue working on the platform project called *Don't Fall In*. The project instructions are at [https://projects.raspberrypi.org/en/projects/dont-fall-in](https://projects.raspberrypi.org/en/projects/dont-fall-in)
-
-If you are interested in entering the **Young Coders Competition** let the volunteers know at the session and we will set up an entry for you. You don't need to have your project finished for our session on 4th May, but you will need to finish it before the deadline of 10th May. We will submit your entry when you tell us it is finished. You can find details of the competition at [https://codingcompetition.org/](https://codingcompetition.org/).
 
 #### Python
 
@@ -32,9 +30,13 @@ Please try to be there, logged in to your trinket account, in time to start codi
 
 ##### For our new Python coders:
 
-We will continue learning the basics of Python, by writing code for an Age Calculator. If you would like to check up on the code we wrote during the last session you can find the code (with a lot of Python comments added to explain what we were doing) at this link:
+We will start exploring turtle graphics in Python, and get our turtles to draw shapes on the screen. If we have time we will start coding a game called *Catch the ball*. For this game you will need to open the starter project which is [trinket.io/python/0e429f731b](https://trinket.io/python/0e429f731b)
 
-&nbsp;&nbsp;[trinket.io/python/05d317e0a9](https://trinket.io/python/05d317e0a9)
+The trinket project which showed the x and y coordinates for the point where the mouse was clicked is at [trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835).
+
+The web page which shows all the named colours available in Python is at [w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp). You can choose any of these colours in a graphics programme by simply putting the colour name, as it appears on this page, inside quotes: for example ```"NavajoWhite"```.
+
+At the last session on 4th May 2024 we wrote the code for a simple *Age Calculator* which introduced the Python ```if``` block - a very important part of Python programming. If you want to look at the code we wrote on the screen you can find it at [trinket.io/python/0e429f731b](https://trinket.io/python/0e429f731b)
 
 *Naming variables*
 
@@ -47,14 +49,6 @@ We will continue learning the basics of Python, by writing code for an Age Calcu
 - In addition there are some prohibited words (called keywords) that you absolutely ***can't*** use for variable names. These are:
 
 > <code>and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield</code>
-
-If we have time to start looking at Python turtle graphics, then there is a trinket project you might want to look at. The link is
-
-&nbsp;&nbsp;[trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
-
-You may also be interested in a list of all the named colours available in Python, which can be found at
-
-&nbsp;&nbsp;[w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
 
 ##### For more experience Python coders:
 
