@@ -34,7 +34,7 @@ We will start exploring turtle graphics in Python, and get our turtles to draw s
 
 The trinket project which showed the x and y coordinates for the point where the mouse was clicked is at [trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835).
 
-The web page which shows all the named colours available in Python is at [w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp). You can choose any of these colours in a graphics programme by simply putting the colour name, as it appears on this page, inside quotes: for example ```"NavajoWhite"```.
+The web page which shows all the named colours available in Python is at [w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp). You can choose any of these colours in a graphics programme by simply putting the colour name, as it appears on this page, inside quotes: for example ```"AntiqueWhite"```.
 
 At the last session on 4th May 2024 we wrote the code for a simple *Age Calculator* which introduced the Python ```if``` block - a very important part of Python programming. If you want to look at the code we wrote on the screen you can find it at [trinket.io/python/0e429f731b](https://trinket.io/python/0e429f731b)
 
