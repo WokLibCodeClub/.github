@@ -22,6 +22,8 @@ Our next sessions will be on Saturday 25th May 2024 at Wokingham Library.
 
 #### Scratch
 
+Please try to be there, logged in to your trinket account, in time to start coding at 10.30am.
+
 We will continue working on the platform project called *Don't Fall In*. The project instructions are at [https://projects.raspberrypi.org/en/projects/dont-fall-in](https://projects.raspberrypi.org/en/projects/dont-fall-in)
 
 #### Python
