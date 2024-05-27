@@ -60,7 +60,7 @@ We also discussed the rules for how to *name variables*:
 
 **Week 2**
 
-We extended the ideas of variables, and doing maths and wrote a programme to calculated someone's age given the year they were born. We had to learn the Python ```if``` block to make this work. The code for the *Age Calculator* is at [trinket.io/python/1c40b6db37](https://trinket.io/python/1c40b6db37).
+We extended the ideas of variables, and doing maths and wrote a programme to calculated someone's age given the year they were born. We had to learn the Python ```if``` block to make this work for everyone. The code for the *Age Calculator* is at [trinket.io/python/1c40b6db37](https://trinket.io/python/1c40b6db37).
 
 **Week 3**
 
