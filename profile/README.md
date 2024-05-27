@@ -68,6 +68,8 @@ We extended the ideas of variables, and doing maths and wrote a programme to cal
 
 We started doing Python graphics using the *turtle* library and wrote code to get the turtle to draw a regular polygon with any number of sides. The code we wrote in Week 3 is at [trinket.io/python/7407d0a2eb](https://trinket.io/python/7407d0a2eb)
 
+The web page which shows all the named colours available in Python is at [w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp). You can choose any of these colours in a graphics programme by simply putting the colour name, as it appears on this page, inside quotes: for example ```"AntiqueWhite"```.
+
 The trinket project which showed the x and y coordinates for the point where the mouse was clicked is at [trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835).
 
 ##### For more experience Python coders:
