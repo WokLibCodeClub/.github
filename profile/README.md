@@ -26,7 +26,7 @@ Please try to be there, logged in to your Scratch account, in time to start codi
 
 There will be lots of choice for projects this week - those that started a project to animate their name may want to continue with that; for anyone still working on the platform project called *Don't Fall In*, they will be able to complete it; and for anyone else we can choose from a variety of projects on the Raspberry Pi website, or from anywhere else!
 
-*Advanced warning*: for the last two sessions of the term (22 June, and 6 July) we have borrowed a set of bbc micro:bits to experiment with, so we will be writing code for those.
+*Advanced warning*: for the last two sessions of the term (22 June, and 6 July) we have borrowed a set of BBC micro:bits to experiment with, so we will be writing code for those.
 
 #### Python
 
