@@ -46,8 +46,6 @@ Here are links to code which we wrote during the first three weeks of this cours
 
 We wrote some first Python code, introducing the basic functions ```print()``` and ```input()```. We also introduced Python *libraries*, which have to be imported. The code from the first week can be found at [trinket.io/python/05d317e0a9](https://trinket.io/python/05d317e0a9)
 
-The web page which shows all the named colours available in Python is at [w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp). You can choose any of these colours in a graphics programme by simply putting the colour name, as it appears on this page, inside quotes: for example ```"AntiqueWhite"```.
-
 We also discussed the rules for how to *name variables*:
 
 - Variable names can only include the lower case letters a-z, the upper case letters A-Z, the numbers 0-9 and the underscore _ character.
