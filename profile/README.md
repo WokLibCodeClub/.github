@@ -1,13 +1,3 @@
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 These are the github pages of the Wokingham Library Code Club, located in Wokingham, UK.
 
 The club is for children aged 9 to 12, and we run twice a month in Wokingham library, on the first and fourth Saturday, with one session for Scratch projects and another for Python projects.
@@ -25,9 +15,6 @@ Our next sessions will be on Saturday 22nd June 2024 at Wokingham Library.
 ![Image of bbc micro:bit](https://github.com/WokLibCodeClub/resources/blob/main/bbc%20microbit.png)
 
 For both sessions, for the last two dates of the term, we will be coding using the popular BBC micro:bit mini-computers. 
-
-
-In the Scratch session  In the Python session we will be coding using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library, and allows for much more complex programming than with block coding.
 
 There is a facility called [micro:bit classroom](https://classroom.microbit.org/) which we haven't tried yet but which may make it easier for students to save their code. Use this link in the classes if we decide to use this.
 
@@ -52,10 +39,6 @@ We will be coding the BBC micro:bits using Python, at the website [python.microb
 We finished our quick introduction to Python coding by coding a simple game called *Catch the ball*.
 
 Here are some useful links for the four sessions of this short course.
-
-*Previous weeks in the introduction to Python series*
-
-Here are links to code which we wrote during the first three weeks of this course:
 
 **Week 1**
 
@@ -93,37 +76,8 @@ You can find the starter project for the *Catch the ball* game at [trinket.io/py
 
 The code as it was at the end of the session is at [trinket.io/python/da871a6618](https://trinket.io/python/da871a6618).
 
+##### Challenges for more experience Python coders:
 
-##### For more experience Python coders:
-
-We suggest you have a last go at solving our *Python Challenges* which you can find at this link:
+We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
 
 &nbsp;&nbsp;[https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
-
-##### *Advanced warning*:
-
-For the last two sessions of the term (22 June, and 6 July) we have borrowed a set of BBC micro:bits to experiment with, so we will be writing Python code for those. If you have seen BBC micro:bits before but with Scratch-type coding you will find out that there's a whole lot more you can do with them if you write Python code instead!
-
-
-#### Previous Python projects
-
-In the last couple of months we have completed a couple of Python games. Here are the links to the code for the finished games:
-
-##### TurtleIt!
-
-a turtle (or frog) squashing game, which we finished on 23 February 2024. Finished code at
-
-&nbsp;&nbsp;[trinket.io/python/5586c04f33](https://trinket.io/python/5586c04f33)
-
-##### Simple Space Race
-
-a game to move a rocket from bottom to top of the screen and avoid being hit by asteroids, finished on 23 March 2024. Finished code at
-
-&nbsp;&nbsp;[trinket.io/python/949b023cda](https://trinket.io/python/949b023cda)
-
-If you want to build the full **Space Race** game, with rocks coming from both directions you can find the instructions here:
-
-&nbsp;&nbsp;[Space Race for Python](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/space_race.md)
-
-If you are going to do this it would be best to start a completely new Python project. Don't try to adapt the simple version, as there are a lot of things which are different.
-
