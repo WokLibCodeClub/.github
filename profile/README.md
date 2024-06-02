@@ -20,25 +20,38 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Our next sessions will be on Saturday 22nd June 2024 at Wokingham Library.
 
+***IT'S MICROBIT TIME!!!!!!***
+
 ![Image of bbc micro:bit](https://github.com/WokLibCodeClub/resources/blob/main/bbc%20microbit.png)
+
+For both sessions, for the last two dates of the term, we will be coding using the popular BBC micro:bit mini-computers. 
+
+
+In the Scratch session  In the Python session we will be coding using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library, and allows for much more complex programming than with block coding.
+
+There is a facility called [micro:bit classroom](https://classroom.microbit.org/) which we haven't tried yet but which may make it easier for students to save their code. Use this link in the classes if we decide to use this.
 
 #### Scratch
 
-Please try to be there, logged in to your Scratch account, in time to start coding at 10.30am.
+Please try to be there in time to start coding at 10.30am.
 
-There will be lots of choice for projects this week - those that started a project to animate their name may want to continue with that; for anyone still working on the platform project called *Don't Fall In*, they will be able to complete it; and for anyone else we can choose from a variety of projects on the Raspberry Pi website, or from anywhere else!
+We will be learning coding  with the BBC micro:bit using the website [makecode.microbit.org/](https://makecode.microbit.org/) which offers a block coding language very similar to Scratch. 
 
-*Advanced warning*: for the last two sessions of the term (22 June, and 6 July) we have borrowed a set of BBC micro:bits to experiment with, so we will be writing code for those.
+If you already have a Google or a Microsoft account you will be able to create an account on the makecode website, which will make it easier to save your code, but don't worry if you can't do this - we will make it possible for you to save your code in any event.
+
+If anyone would prefer to continue working on Scratch projects and not on the BBC micro:bits, then that's fine, but, be warned, the volunteers will be spending most of their time on micro:bits.
 
 #### Python
 
-Please try to be there, logged in to your trinket account, in time to start coding at 11.45am.
+Please try to be there in time to start coding at 11.45am.
 
-##### For our new Python coders:
+We will be coding the BBC micro:bits using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library, and allows for much more complex programming than with block coding.
 
-We will finish our quick introduction to Python coding by completing the *Catch the ball* game (which we just had a first look at at the end of the last session) where we show that Python turtles can take their shape from image files as well as pre-defined patterns, and that we can code for things to happen when you click on them.
+##### End of Introduction to Python course:
 
-The starter project for the *Catch the ball* game is at [trinket.io/python/0e429f731b](https://trinket.io/python/0e429f731b)
+We finished our quick introduction to Python coding by coding a simple game called *Catch the ball*.
+
+Here are some useful links for the four sessions of this short course.
 
 *Previous weeks in the introduction to Python series*
 
@@ -71,6 +84,15 @@ We started doing Python graphics using the *turtle* library and wrote code to ge
 The web page which shows all the named colours available in Python is at [w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp). You can choose any of these colours in a graphics programme by simply putting the colour name, as it appears on this page, inside quotes: for example ```"AntiqueWhite"```.
 
 The trinket project which showed the x and y coordinates for the point where the mouse was clicked is at [trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835).
+
+**Week 4**
+
+We coded a simple game called *Catch the ball* which involved writing code for clicking on a turtle, using an image file as the turtle shape, and writing our own functions.
+
+You can find the starter project for the *Catch the ball* game at [trinket.io/python/0e429f731b](https://trinket.io/python/0e429f731b).
+
+The code as it was at the end of the session is at [trinket.io/python/da871a6618](https://trinket.io/python/da871a6618).
+
 
 ##### For more experience Python coders:
 
