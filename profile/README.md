@@ -20,7 +20,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Our next sessions will be on Saturday 22nd June 2024 at Wokingham Library.
 
-[Image of bbc micro:bit]("https://github.com/WokLibCodeClub/resources/blob/main/bbc%20microbit.png")
+[Image of bbc micro:bit](https://github.com/WokLibCodeClub/resources/blob/main/bbc%20microbit.png)
 
 #### Scratch
 
