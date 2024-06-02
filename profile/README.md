@@ -10,7 +10,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Our next sessions will be on Saturday 22nd June 2024 at Wokingham Library.
 
-***IT'S MICROBIT TIME!!!!!!***
+***IT'S micro:bit TIME!!!!!!***
 
 ![Image of bbc micro:bit](https://github.com/WokLibCodeClub/resources/blob/main/bbc%20microbit.png)
 
