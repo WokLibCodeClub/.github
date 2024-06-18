@@ -22,8 +22,6 @@ Please try to be there in time to start coding at 10.30am.
 
 We will be learning coding  with the BBC micro:bit using the website [makecode.microbit.org/](https://makecode.microbit.org/) which offers a block coding language very similar to Scratch. 
 
-If you already have a Google or a Microsoft account you will be able to create an account on the makecode website, which will make it easier to save your code, but don't worry if you can't do this - we will make it possible for you to save your code in any event.
-
 If anyone would prefer to continue working on Scratch projects and not on the BBC micro:bits, then that's fine, but, be warned, the volunteers will be spending most of their time on micro:bits.
 
 #### Python
