@@ -16,8 +16,6 @@ Our next sessions will be on Saturday 22nd June 2024 at Wokingham Library.
 
 For both sessions, for the last two dates of the term, we will be coding using the popular BBC micro:bit mini-computers. 
 
-There is a facility called [micro:bit classroom](https://classroom.microbit.org/) which we haven't tried yet but which may make it easier for students to save their code. Use this link in the classes if we decide to use this.
-
 #### Scratch
 
 Please try to be there in time to start coding at 10.30am.
