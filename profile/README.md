@@ -30,7 +30,7 @@ Please try to be there in time to start coding at 11.45am.
 
 We will be coding the BBC micro:bits using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library, and allows for much more complex programming than with block coding.
 
-##### End of Introduction to Python course:
+### End of Introduction to Python course:
 
 We finished our quick introduction to Python coding on 1 June 2024, by coding a simple game called *Catch the ball*.
 
