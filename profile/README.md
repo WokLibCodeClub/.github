@@ -14,7 +14,7 @@ Our next sessions will be on Saturday 22nd June 2024 at Wokingham Library.
 
 ![Image of bbc micro:bit](https://github.com/WokLibCodeClub/resources/blob/main/bbc%20microbit.png)
 
-For both sessions, for the last two dates of the term, we will be coding using the popular BBC micro:bit mini-computers. 
+For both sessions, for the last two dates of the term, we will be coding using the popular ***BBC micro:bit*** mini-computers. 
 
 #### Scratch
 
