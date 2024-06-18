@@ -72,7 +72,7 @@ You can find the starter project for the *Catch the ball* game at [trinket.io/py
 
 The code as it was at the end of the session is at [trinket.io/python/da871a6618](https://trinket.io/python/da871a6618).
 
-##### Challenges for more experience Python coders:
+### Challenges for more experience Python coders:
 
 We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
 
