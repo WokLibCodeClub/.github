@@ -32,7 +32,7 @@ We will be coding the BBC micro:bits using Python, at the website [python.microb
 
 ##### End of Introduction to Python course:
 
-We finished our quick introduction to Python coding by coding a simple game called *Catch the ball*.
+We finished our quick introduction to Python coding on 1 June 2024, by coding a simple game called *Catch the ball*.
 
 Here are some useful links for the four sessions of this short course.
 
