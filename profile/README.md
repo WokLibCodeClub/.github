@@ -14,7 +14,7 @@ Our next sessions will be on Saturday 6th July 2024 at Wokingham Library.
 
 ![Image of bbc micro:bit](https://github.com/WokLibCodeClub/resources/blob/main/bbc%20microbit.png)
 
-For both sessions, for the last two dates of the term, we will be coding using the popular ***BBC micro:bit*** mini-computers. 
+In both sessions, for the last date of the term, we will be coding using the popular ***BBC micro:bit*** mini-computers. 
 
 #### Scratch
 
@@ -26,7 +26,7 @@ We will be using our BBC micro:bits to write code for a step counter. This will 
 
 Please try to be there in time to start coding at 11.45am.
 
-We will continue coding the BBC micro:bits using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library. We will be creating a Pong game to play on the very small screen of the micro:bit!
+We will continue coding the BBC micro:bits using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library. We will be creating a microPong game to play on the very small screen of the micro:bit!
 
 ### End of Introduction to Python course:
 
