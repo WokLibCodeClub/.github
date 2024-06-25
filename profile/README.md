@@ -8,9 +8,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ### Next sessions
 
-Our next sessions will be on Saturday 22nd June 2024 at Wokingham Library.
+Our next sessions will be on Saturday 6th July 2024 at Wokingham Library.
 
-***IT'S micro:bit TIME!!!!!!***
+***IT'S (still) micro:bit TIME!!!!!!***
 
 ![Image of bbc micro:bit](https://github.com/WokLibCodeClub/resources/blob/main/bbc%20microbit.png)
 
@@ -20,15 +20,13 @@ For both sessions, for the last two dates of the term, we will be coding using t
 
 Please try to be there in time to start coding at 10.30am.
 
-We will be learning coding  with the BBC micro:bit using the website [makecode.microbit.org/](https://makecode.microbit.org/) which offers a block coding language very similar to Scratch. 
-
-If anyone would prefer to continue working on Scratch projects and not on the BBC micro:bits, then that's fine, but, be warned, the volunteers will be spending most of their time on micro:bits.
+We will be using our BBC micro:bits to write code for a step counter. This will be with the website [makecode.microbit.org/](https://makecode.microbit.org/) which offers a block coding language very similar to Scratch. 
 
 #### Python
 
 Please try to be there in time to start coding at 11.45am.
 
-We will be coding the BBC micro:bits using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library, and allows for much more complex programming than with block coding.
+We will continue coding the BBC micro:bits using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library, and allows for much more complex programming than with block coding. We will be creating a Pong game to play on the very small screen of the micro:bit!
 
 ### End of Introduction to Python course:
 
