@@ -26,7 +26,7 @@ We will be using our BBC micro:bits to write code for a step counter. This will 
 
 Please try to be there in time to start coding at 11.45am.
 
-We will continue coding the BBC micro:bits using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library, and allows for much more complex programming than with block coding. We will be creating a Pong game to play on the very small screen of the micro:bit!
+We will continue coding the BBC micro:bits using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library. We will be creating a Pong game to play on the very small screen of the micro:bit!
 
 ### End of Introduction to Python course:
 
