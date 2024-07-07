@@ -19,7 +19,7 @@ If you want to practise your coding over the summer there are lots of projects t
 
 #### Python
 
-If you want to work up some Python projects over the summer there are a lot of Python projects which the Code Club developed during the Coronavirus pandemic. These projects all have videos to watch which you can code along with. Look at the projects on [this page](https://github.com/WokLibCodeClub/OnlineCodeclub) and look for the projects which use Python.
+If you want to work up some Python projects over the summer there are a lot of Python projects which the Wokingham Library Code Club developed during the Coronavirus pandemic. These projects all have videos to watch which you can code along with. Look at the projects on [this page](https://github.com/WokLibCodeClub/OnlineCodeclub) and look for the projects which use Python.
 
 ### Introduction to Python course (run from April to June 2024):
 
