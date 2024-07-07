@@ -8,33 +8,23 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ### Next sessions
 
-Our next sessions will be on Saturday 6th July 2024 at Wokingham Library.
+Code Club has now finished for the summer but we will be back in September! Watch this space for details nearer the time.
 
-***IT'S (still) micro:bit TIME!!!!!!***
-
-![Image of bbc micro:bit](https://github.com/WokLibCodeClub/resources/blob/main/bbc%20microbit.png)
-
-In both sessions, for the last date of the term, we will be coding using the popular ***BBC micro:bit*** mini-computers. 
+Have a great summer everyone!😎
 
 #### Scratch
 
-Please try to be there in time to start coding at 10.30am.
-
-We will be using our BBC micro:bits to write code for a step counter. This will be with the website [makecode.microbit.org/](https://makecode.microbit.org/) which offers a block coding language very similar to Scratch. 
+If you want to practise your coding over the summer there are lots of projects to try on the Raspberry Pi website. The link is [projects.raspberrypi.org/en/collections/scratch](https://projects.raspberrypi.org/en/collections/scratch)
 
 #### Python
 
-Please try to be there in time to start coding at 11.45am.
+If you want to work up some Python projects over the summer there are a lot of Python projects which the Code Club developed during the Coronavirus pandemic. These projects all have videos to watch which you can code along with. Look at the projects on [this page](https://github.com/WokLibCodeClub/OnlineCodeclub) and look for the projects which use Python.
 
-We will continue coding the BBC micro:bits using Python, at the website [python.microbit.org/v/3](https://python.microbit.org/v/3) which uses the ```microbit``` Python library. We will be creating a microPong game to play on the very small screen of the micro:bit!
-
-### End of Introduction to Python course:
-
-We finished our quick introduction to Python coding on 1 June 2024, by coding a simple game called *Catch the ball*.
+### Introduction to Python course (run from April to June 2024):
 
 Here are some useful links for the four sessions of this short course.
 
-**Week 1**
+**Week 1 - 27 April 2024**
 
 We wrote some first Python code, introducing the basic functions ```print()``` and ```input()```. We also introduced Python *libraries*, which have to be imported. The code from the first week can be found at [trinket.io/python/05d317e0a9](https://trinket.io/python/05d317e0a9)
 
@@ -50,11 +40,11 @@ We also discussed the rules for how to *name variables*:
 
 > <code>and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield</code>
 
-**Week 2**
+**Week 2 - 4 May 2024**
 
 We extended the ideas of variables, and doing maths and wrote a programme to calculated someone's age given the year they were born. We had to learn the Python ```if``` block to make this work for everyone. The code for the *Age Calculator* is at [trinket.io/python/1c40b6db37](https://trinket.io/python/1c40b6db37).
 
-**Week 3**
+**Week 3 - 25 May 2024**
 
 We started doing Python graphics using the *turtle* library and wrote code to get the turtle to draw a regular polygon with any number of sides. The code we wrote in Week 3 is at [trinket.io/python/7407d0a2eb](https://trinket.io/python/7407d0a2eb)
 
@@ -62,7 +52,7 @@ The web page which shows all the named colours available in Python is at [w3scho
 
 The trinket project which showed the x and y coordinates for the point where the mouse was clicked is at [trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835).
 
-**Week 4**
+**Week 4 - 1 June 2024**
 
 We coded a simple game called *Catch the ball* which involved writing code for clicking on a turtle, using an image file as the turtle shape, and writing our own functions.
 
