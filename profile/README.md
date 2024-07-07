@@ -8,7 +8,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ### Next sessions
 
-Code Club has now finished for the summer but we will be back in September! Watch this space for details nearer the time.
+Code Club has now finished for the summer but we will be back in September 2024! Watch this space for details nearer the time.
 
 Have a great summer everyone!😎
 
