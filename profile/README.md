@@ -14,7 +14,8 @@ Have a great summer everyone!😎
 
 #### Scratch
 
-If you want to practise your coding over the summer there are lots of projects to try on the Raspberry Pi website. The link is [projects.raspberrypi.org/en/collections/scratch](https://projects.raspberrypi.org/en/collections/scratch)
+If you want to practise your coding over the summer there are lots of projects to try on the Raspberry Pi website. The link is
+&nbsp;&nbsp;[projects.raspberrypi.org/en/collections/scratch](https://projects.raspberrypi.org/en/collections/scratch)
 
 #### Python
 
