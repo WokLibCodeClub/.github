@@ -25,7 +25,7 @@ If you want to work up some Python projects over the summer there are a lot of P
 
 Here are some useful links for the four sessions of this short course.
 
-**Week 1 - 27 April 2024**
+**Week 1: 27 April 2024**
 
 We wrote some first Python code, introducing the basic functions ```print()``` and ```input()```. We also introduced Python *libraries*, which have to be imported. The code from the first week can be found at [trinket.io/python/05d317e0a9](https://trinket.io/python/05d317e0a9)
 
@@ -41,11 +41,11 @@ We also discussed the rules for how to *name variables*:
 
 > <code>and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield</code>
 
-**Week 2 - 4 May 2024**
+**Week 2: 4 May 2024**
 
 We extended the ideas of variables, and doing maths and wrote a programme to calculated someone's age given the year they were born. We had to learn the Python ```if``` block to make this work for everyone. The code for the *Age Calculator* is at [trinket.io/python/1c40b6db37](https://trinket.io/python/1c40b6db37).
 
-**Week 3 - 25 May 2024**
+**Week 3: 25 May 2024**
 
 We started doing Python graphics using the *turtle* library and wrote code to get the turtle to draw a regular polygon with any number of sides. The code we wrote in Week 3 is at [trinket.io/python/7407d0a2eb](https://trinket.io/python/7407d0a2eb)
 
@@ -53,7 +53,7 @@ The web page which shows all the named colours available in Python is at [w3scho
 
 The trinket project which showed the x and y coordinates for the point where the mouse was clicked is at [trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835).
 
-**Week 4 - 1 June 2024**
+**Week 4: 1 June 2024**
 
 We coded a simple game called *Catch the ball* which involved writing code for clicking on a turtle, using an image file as the turtle shape, and writing our own functions.
 
