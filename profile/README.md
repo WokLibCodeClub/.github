@@ -2,7 +2,7 @@ These are the github pages of the Wokingham Library Code Club, located in Woking
 
 The club is for children aged 9 to 12, and we run twice a month in Wokingham Library, on the first and fourth Saturday, with a session for Scratch projects followed by a session for Python projects.
 
-These pages contain information for students about forthcoming sessions, repositories for lots of the projects we have developed as well as some background information. One repository, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub), lists the projects we created while the code club was operating online, during the coronavirus restrictions. For each of the online sessions we created a summary video afterwards, and the links to all these videos can be found in this repository.
+These pages contain information for students about forthcoming sessions, repositories for lots of the projects we have developed in the past as well as background information. One repository, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub), lists the projects we created while the code club was operating online, during the coronavirus restrictions. For each of the online sessions we created a summary video afterwards, and the links to all these videos can be found in this repository.
 
 For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io), or see the list of all repositories below (click on the panel at the very bottom of the page that says "View all repositories" to see the complete list).
 
