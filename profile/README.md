@@ -8,16 +8,19 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ### Next sessions
 
-Code Club has now finished for the summer but we will be back in September 2024! Watch this space for details nearer the time.
-
-Have a great summer everyone!😎
+Code Club will be back on Saturday 28 September 2024! We look forward to seeing you.
 
 #### Scratch
 
-If you want to practise your coding over the summer there are lots of projects to try on the Raspberry Pi website. The link is
-&nbsp;&nbsp;[projects.raspberrypi.org/en/collections/scratch](https://projects.raspberrypi.org/en/collections/scratch)
+The Scratch session will begin at 10.30 am. You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
+
+Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30.
+
+If you have never done any coding before we recommend trying out a game called [Rapid Router](https://www.codeforlife.education/rapidrouter/#) on the Code For Life website. This is a game with many levels which get more and more difficult, and introduce the main concepts of coding. If you want to save your scores as you go through the levels you can create a Code For Life account at [https://www.codeforlife.education/register_form#](https://www.codeforlife.education/register_form#): enter your date of birth in the Independent learner section then fill in the rest of the details, including your parent's email address.
 
 #### Python
+
+The Python session will start at 11.45 am
 
 If you want to work up some Python projects over the summer there are a lot of Python projects which the Wokingham Library Code Club developed during the Coronavirus pandemic. These projects all have videos to watch which you can code along with. Look at the list of projects on [this page](https://github.com/WokLibCodeClub/OnlineCodeclub) and pick from the ones which use Python.
 
