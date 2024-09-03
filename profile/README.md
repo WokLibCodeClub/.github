@@ -26,8 +26,6 @@ You will need an account with [trinket](https://trinket.io/) for this session, s
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
-If you want to work up some Python projects over the summer there are a lot of Python projects which the Wokingham Library Code Club developed during the Coronavirus pandemic. These projects all have videos to watch which you can code along with. Look at the list of projects on [this page](https://github.com/WokLibCodeClub/OnlineCodeclub) and pick from the ones which use Python.
-
 ### Challenges for more experience Python coders:
 
 We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
