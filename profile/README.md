@@ -2,13 +2,13 @@ These are the github pages of the Wokingham Library Code Club, located in Woking
 
 The club is for children aged 9 to 12, and we run twice a month in Wokingham Library, on the first and fourth Saturday of each month, with a session for Scratch projects followed by a session for Python projects.
 
-These pages contain information for students about forthcoming sessions, detailed information for lots of the projects we have developed in the past, as well as background information. As is normal on github the data on this site is divided into ***repositories***. One repository, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub), gives information about all the projects we created while the code club was operating online during the coronavirus restrictions. For each of the online sessions we created a summary video, and the links to all these videos can be found in the OnlineCodeClub repository.
+These pages contain information for students about forthcoming sessions, detailed information for lots of the projects we have developed in the past, as well as background information. As is normal on github, the data on this site is divided into ***repositories***. One repository, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub), gives information about all the projects we created while the code club was operating online during the coronavirus restrictions. For each of the online sessions we created a summary video, and the links to all these videos can be found in the OnlineCodeClub repository.
 
 For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io), or see the [complete list of repositories](https://github.com/orgs/WokLibCodeClub/repositories?type=all).
 
-### Lower Earley Code Club
+#### Lower Earley Code Club
 
-Wokingham Libraries also runs a Code Club at Lower Earley library. Ask for details at Lower Earley Library.
+Wokingham Libraries now also runs a Code Club at Lower Earley Library. Ask for details at Lower Earley Library.
 
 ### Next sessions
 
