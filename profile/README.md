@@ -6,6 +6,10 @@ These pages contain information for students about forthcoming sessions, detaile
 
 For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io), or see the [complete list of repositories](https://github.com/orgs/WokLibCodeClub/repositories?type=all).
 
+### Lower Earley Code Club
+
+Wokingham Libraries also runs a Code Club at Lower Earley library. Ask for details at Lower Earley Library.
+
 ### Next sessions
 
 Code Club will be back on Saturday 28 September 2024! We look forward to seeing you.
@@ -20,11 +24,13 @@ If you have never done any coding before we recommend trying out a game called [
 
 #### Python
 
-The Python session will start at 11.45 am
+The Python session will start at 11.45 am.
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
+
+For those who have no, or only a little, experience of using Python we will be running through the basics of Python coding from the very first steps. For those who are familiar with Python we will be working on a Raspberry Pi/Code Club project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race).
 
 ### Challenges for more experience Python coders:
 
