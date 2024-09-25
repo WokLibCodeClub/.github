@@ -12,7 +12,7 @@ Wokingham Libraries now also runs a Code Club at Lower Earley Library. Ask for d
 
 ### Next sessions
 
-Code Club will be back on Saturday 28 September 2024! We look forward to seeing you.
+Wokingham Library Code Club will be back on Saturday 28 September 2024! We look forward to seeing you.
 
 #### Scratch
 
