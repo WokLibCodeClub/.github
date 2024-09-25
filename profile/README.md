@@ -1,4 +1,4 @@
-These are the github pages of the Wokingham Library Code Club, located in Wokingham, UK and supported by [Wokingham Borough Council](https://www.wokingham.gov.uk/libraries).
+These are the github pages of the **Wokingham Library Code Club**, located in Wokingham, UK and supported by [Wokingham Borough Council](https://www.wokingham.gov.uk/libraries).
 
 The club is for children aged 9 to 12, and we run twice a month in Wokingham Library, on the first and fourth Saturday of each month, with a session for Scratch projects followed by a session for Python projects.
 
