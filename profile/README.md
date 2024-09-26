@@ -20,7 +20,7 @@ The Scratch session will begin at 10.30 am. You will need a Scratch account for 
 
 Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem on Saturday.
 
-If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*.
+If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. Note: it seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions for receiving another copy.
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
