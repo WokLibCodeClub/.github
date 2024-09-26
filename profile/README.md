@@ -43,7 +43,7 @@ DON'T follow the link to the starter project on the Raspberry Pi website.
 Instead, create a New Project in your trinket account.
 Start your code in trinket with the usual line:
 
-#/bin/python3
+#!/bin/python3
 
 After that you can follow the instructions on the Raspberry Pi site,
 but note - the demo programmes on this site don't work.
