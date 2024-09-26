@@ -36,6 +36,11 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 
 For those who have no, or only a little, experience of using Python we will be running through the basics of Python coding from the very first steps. For those who are familiar with Python we will be working on a Raspberry Pi/Code Club project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race).
 
+```
+**Special Instructions for Turtle Race**
+
+```
+
 ### Challenges for more experience Python coders:
 
 We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
