@@ -36,7 +36,7 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 
 For those who have no, or only a little, experience of using Python we will be running through the basics of Python coding from the very first steps. For those who are familiar with Python we will be working on a Raspberry Pi/Code Club project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race).
 
-Here is a demo of the Turtle Race:
+Here is a demo of the Turtle Race (click Play to start it):
 
 ![Turtle Race demo](turtle_race_demo.gif "animation of turtle race")
 
