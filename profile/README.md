@@ -37,8 +37,14 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 For those who have no, or only a little, experience of using Python we will be running through the basics of Python coding from the very first steps. For those who are familiar with Python we will be working on a Raspberry Pi/Code Club project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race).
 
 ```
-**Special Instructions for Turtle Race**
+Special Instructions for Turtle Race
 
+DON'T follow the link to the starter project on the Raspberry Pi website. Instead, create a New Project in your trinket account.
+Start your code in trinket with the usual line:
+
+#/bin/python3
+
+After that you can follow the instructions on the Raspberry Pi site, but note - the demo programmes on this site don't work.
 ```
 
 ### Challenges for more experience Python coders:
