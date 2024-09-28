@@ -22,7 +22,7 @@ Please make sure you arrive so that you have time to log in to your Scratch acco
 
 We will continue with the [*Space Talk* project](https://projects.raspberrypi.org/en/projects/space-talk), and build up the code on the screen for those that want to follow along. If you are happy to work on your own from instructions on a website we can show you other projects you can build.
 
-**NOTE**: If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. Note: it seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions for receiving another copy.
+**NOTE**: If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions for receiving another copy.
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
