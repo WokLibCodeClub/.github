@@ -40,6 +40,10 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 
 For those quite new to Python we will continue exploring the basics by writing a simple *Age Calculator* programme and starting to use Python graphics.
 
+This might save you some typing during the session:
+
+&nbsp;&nbsp;Have you had a birthday yet this year (y or n)?
+
 In the previous session on 28 September 2024 we learnt about the functions ```print()``` and ```input()```, and also *imported* other functions from different Python *libraries*. We saw the difference between *text strings*, *whole numbers (integers)* and *decimal or floating-point numbers*; and made some variables. You can find the code which was written on the screen during the first session by going to [https://trinket.io/python/104fce5c53d0](https://trinket.io/python/104fce5c53d0).
 
 Here are two weblinks which we may use during the session on 5 October 2024:
@@ -47,10 +51,6 @@ Here are two weblinks which we may use during the session on 5 October 2024:
 &nbsp;&nbsp;[https://www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
 
 &nbsp;&nbsp;[https://trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
-
-This might save you some typing during the session:
-
-&nbsp;&nbsp;Have you had a birthday yet this year (y or n)?
 
 - **For coders with some Python experience**
 
