@@ -48,6 +48,10 @@ Here are two weblinks which we may use during the session on 5 October 2024:
 
 &nbsp;&nbsp;[https://trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
 
+This might save you some typing during the session:
+
+&nbsp;&nbsp;Have you had a birthday yet this year (y or n)?
+
 - **For coders with some Python experience**
 
 Those who are familiar with Python can continue working on a Raspberry Pi/Code Club project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race), or if they have finished that they can go on to the [Secret Messages project](https://projects.raspberrypi.org/en/projects/secret-messages) which uses Python to put messages into encrypted form.
