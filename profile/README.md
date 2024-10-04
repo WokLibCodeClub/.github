@@ -44,8 +44,9 @@ In the previous session on 28 September 2024 we learnt about the functions ```pr
 
 Here are two weblinks which we may use during the session on 5 October 2024:
 
-[https://www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
-[https://trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
+&nbsp;&nbsp;[https://www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
+
+&nbsp;&nbsp;[https://trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
 
 - **For coders with some Python experience**
 
