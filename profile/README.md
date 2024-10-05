@@ -32,7 +32,7 @@ At the next session we will be exploring a coding game called [Rapid Router](htt
 
 #### Signing up for a Rapid Router account
 
-If you want to save your progress in Rapid Router as you progress through the levels you can make a Rapid Router account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home duroing the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
+If you want to save your progress in Rapid Router as you progress through the levels you can make a Rapid Router account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
 Depending on how the session goes we may also do Scratch coding using some of the projects on the Raspberry Pi Projects webpages.
 
