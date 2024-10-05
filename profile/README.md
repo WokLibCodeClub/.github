@@ -28,6 +28,8 @@ Please make sure you arrive so that you have time to log in to your Scratch acco
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
+#### Rapid Router
+
 At the next session we will be exploring a coding game called [Rapid Router](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website. This is a game with many levels which get more and more difficult, and introduce the main concepts of coding. 
 
 #### Signing up for a Rapid Router account
@@ -44,7 +46,7 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 
 ### *Python from the beginning* for those new to Python
 
-For those quite new to Python we will continue exploring the basics by extending our *turtles* code to include loops.
+For those quite new to Python we will continue exploring the basics by extending our *turtles* code to include loops, and .
 
 ** Previous sessions in *Python from the beginning*:**
 
@@ -60,7 +62,7 @@ A trinket project which explains the turtle coordinate system can be found [here
 
 ### Python for coders with some experience
 
-Those who are familiar with Python can continue working on a Raspberry Pi/Code Club project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race), or if they have finished that they can go on to the [Secret Messages project](https://projects.raspberrypi.org/en/projects/secret-messages) which uses Python to put messages into encrypted form.
+Those who are familiar with Python can continue working on a Raspberry Pi/Code Club project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race), or the [Secret Messages project](https://projects.raspberrypi.org/en/projects/secret-messages) which uses Python to put messages into encrypted form. We can also point you to more complex projects on this github site.
 
 Here is a demo of the Turtle Race (click Play to start it):
 
