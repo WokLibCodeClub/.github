@@ -14,15 +14,21 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Wokingham Libraries now also runs a Code Club at Lower Earley Library. Ask for details at Lower Earley Library.
 
-### Next sessions
+## Next sessions
 
 Our next sessions will take place on Saturday 26th October 2024 at Wokingham Library.
 
-### Scratch session, Saturday 26th October 2024 at 10.30 am
+## Scratch session, Saturday 26th October 2024 at 10.30 am
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem on Saturday.
+
+At the next session we will be exploring a coding game called [Rapid Router](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website. This is a game with many levels which get more and more difficult, and introduce the main concepts of coding. 
+
+### Signing up for a Rapid Router account
+
+If you want to save your progress in Rapid Router as you progress through the levels you can make a Rapid Router account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but the webpage to sign up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
 We will continue with the [*Space Talk* project](https://projects.raspberrypi.org/en/projects/space-talk), and build up the code on the screen for those that want to follow along. If you are happy to work on your own from instructions on a website we can show you other projects you can build.
 
@@ -30,9 +36,9 @@ We will continue with the [*Space Talk* project](https://projects.raspberrypi.or
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
-If you have never done any coding before we recommend trying out a game called [Rapid Router](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website. This is a game with many levels which get more and more difficult, and introduce the main concepts of coding. If you want to save your scores as you go through the levels you can create a Code For Life account at [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
+If you have never done any coding before we recommend trying out a game called If you want to save your scores as you go through the levels you can create a Code For Life account at 
 
-### Python session, 26th October 2024 at 11.45 am
+## Python session, 26th October 2024 at 11.45 am
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
