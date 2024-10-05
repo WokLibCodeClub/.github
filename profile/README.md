@@ -24,19 +24,17 @@ You will need a Scratch account for this session, so if you don't have one alrea
 
 Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem on Saturday.
 
-At the next session we will be exploring a coding game called [Rapid Router](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website. This is a game with many levels which get more and more difficult, and introduce the main concepts of coding. 
-
-### Signing up for a Rapid Router account
-
-If you want to save your progress in Rapid Router as you progress through the levels you can make a Rapid Router account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but the webpage to sign up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
-
-We will continue with the [*Space Talk* project](https://projects.raspberrypi.org/en/projects/space-talk), and build up the code on the screen for those that want to follow along. If you are happy to work on your own from instructions on a website we can show you other projects you can build.
-
 **NOTE**: If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions to have them resend the email.
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
-If you have never done any coding before we recommend trying out a game called If you want to save your scores as you go through the levels you can create a Code For Life account at 
+At the next session we will be exploring a coding game called [Rapid Router](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website. This is a game with many levels which get more and more difficult, and introduce the main concepts of coding. 
+
+#### Signing up for a Rapid Router account
+
+If you want to save your progress in Rapid Router as you progress through the levels you can make a Rapid Router account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home duroing the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
+
+Depending on how the session goes we may also do Scratch coding using some of the projects on the Raspberry Pi Projects webpages.
 
 ## Python session, 26th October 2024 at 11.45 am
 
