@@ -24,7 +24,7 @@ You will need a Scratch account for this session, so if you don't have one alrea
 
 Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem on Saturday.
 
-**NOTE**: If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions to have them resend the email.
+**NOTE**: If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions to have Scratch resend the email.
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
@@ -42,23 +42,23 @@ You will need an account with [trinket](https://trinket.io/) for this session, s
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
-- **Python from the beginning**
+### *Python from the beginning* for those new to Python
 
-For those quite new to Python we will continue exploring the basics by writing a simple *Age Calculator* programme and starting to use Python graphics.
+For those quite new to Python we will continue exploring the basics by extending our *turtles* code to include loops.
 
-This might save you some typing during the session:
+** Previous sessions in *Python from the beginning*:**
 
-&nbsp;&nbsp;Have you had a birthday yet this year (y or n)?
+In the session on **28 September 2024** we learnt about the functions ```print()``` and ```input()```, and also *imported* other functions from different Python *libraries*. We saw the difference between *text strings*, *whole numbers (integers)* and *decimal or floating-point numbers*; and made some variables. You can find the code which was written on the screen during the first session by going to [https://trinket.io/python/104fce5c53d0](https://trinket.io/python/104fce5c53d0).
 
-In the previous session on 28 September 2024 we learnt about the functions ```print()``` and ```input()```, and also *imported* other functions from different Python *libraries*. We saw the difference between *text strings*, *whole numbers (integers)* and *decimal or floating-point numbers*; and made some variables. You can find the code which was written on the screen during the first session by going to [https://trinket.io/python/104fce5c53d0](https://trinket.io/python/104fce5c53d0).
+In the session on **5 October 2024** we wrote an *Age calculator* programme which calculated a person's age given the year they were born, and also introduced the Python ```if``` command. The code for the *Age calculator* programme written on the screen is [here](https://trinket.io/python/b46b93f16311).
 
-Here are two weblinks which we may use during the session on 5 October 2024:
+We also took the first steps in creating graphics in Python by starting a *turtles* project, introducing the turtle ```Screen()``` and how to make a ```Turtle()```. The code for the project as it was at the end of the session is [here](https://trinket.io/python/ecd09ad1ba40).
 
-&nbsp;&nbsp;[https://www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
+The list of colours which you can use for turtles and backgrounds can be found at [https://www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp).
 
-&nbsp;&nbsp;[https://trinket.io/python/218c2a1835](https://trinket.io/python/218c2a1835)
+A trinket project which explains the turtle coordinate system can be found [here](https://trinket.io/python/218c2a1835).
 
-- **For coders with some Python experience**
+### Python for coders with some experience
 
 Those who are familiar with Python can continue working on a Raspberry Pi/Code Club project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race), or if they have finished that they can go on to the [Secret Messages project](https://projects.raspberrypi.org/en/projects/secret-messages) which uses Python to put messages into encrypted form.
 
