@@ -14,9 +14,9 @@ Wokingham Libraries now also runs a Code Club at Lower Earley Library. Ask for d
 
 Our next sessions will take place on Saturday 26th October 2024 at Wokingham Library.
 
-#### Scratch
+### Scratch session, Saturday 26th October 2024 at 10.30 am
 
-The Scratch session will begin at 10.30 am. You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
+You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem on Saturday.
 
@@ -28,9 +28,7 @@ Scratch has produced a page of information for parents. You can find it [here](h
 
 If you have never done any coding before we recommend trying out a game called [Rapid Router](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website. This is a game with many levels which get more and more difficult, and introduce the main concepts of coding. If you want to save your scores as you go through the levels you can create a Code For Life account at [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-#### Python
-
-The Python session will start at 11.45 am.
+### Python session, 26th October 2024 at 11.45 am
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
