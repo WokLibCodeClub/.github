@@ -46,7 +46,7 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 
 ### *Python from the beginning* for those new to Python
 
-For those quite new to Python we will continue exploring the basics by extending our *turtles* code to include loops, and .
+For those quite new to Python we will continue exploring the basics by extending our *turtles* code to include loops, and introduce the concept of Python lists.
 
 ** Previous sessions in *Python from the beginning*:**
 
