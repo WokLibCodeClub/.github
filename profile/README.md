@@ -62,7 +62,7 @@ A trinket project which explains the turtle coordinate system can be found [here
 
 ### Python for coders with some experience
 
-Those who are familiar with Python can continue working on Raspberry Pi/Code Club projects. Many of you have started the project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race), but before you finish this one you should try to draw dashed lines for your grid as this gives you a great chance to test your Python skills. After that, we suggest going on to the project called [Secret Messages project](https://projects.raspberrypi.org/en/projects/secret-messages) which uses Python to put messages into encrypted form. We can also point you to more complex projects on this github site.
+Those who are familiar with Python can continue working on Raspberry Pi/Code Club projects. Many of you have started the project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race), but before you finish this one you should try to draw dashed lines for your grid as this gives you a great chance to test your Python skills. After that, we suggest going on to the project called [Secret Messages](https://projects.raspberrypi.org/en/projects/secret-messages) which uses Python to put messages into encrypted form. We can also point you to more complex projects on this github site.
 
 Here is a demo of the Turtle Race (click Play to start it):
 
