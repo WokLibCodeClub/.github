@@ -60,6 +60,8 @@ The list of colours which you can use for turtles and backgrounds can be found a
 
 A trinket project which explains the turtle coordinate system can be found [here](https://trinket.io/python/218c2a1835).
 
+In the session on **26 October 2024** we explored using the Python ```while``` loop to make a turtle draw polygon shapes with any number of sides. The code on the screen at the end of the session for this project is [here](https://trinket.io/python/dbc59805d99c). We also introduced Python **lists** and the Python ```for``` loop in a sorting hat project. The code on the screen at the end of the session for the sorting hat project is [here](https://trinket.io/python/aeef19b5fd9b).
+
 ### Python for coders with some experience
 
 Those who are familiar with Python can continue working on Raspberry Pi/Code Club projects. Many of you have started the project called [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race), but before you finish this one you should try to draw dashed lines for your grid as this gives you a great chance to test your Python skills. After that, we suggest going on to the project called [Secret Messages](https://projects.raspberrypi.org/en/projects/secret-messages) which uses Python to put messages into encrypted form. We can also point you to more complex projects on this github site.
