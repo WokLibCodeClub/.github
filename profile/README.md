@@ -16,9 +16,9 @@ Wokingham Libraries now also runs a Code Club at Lower Earley Library. Ask for d
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 2nd November 2024 at Wokingham Library.
+Our next sessions will take place on Saturday 23rd November 2024 at Wokingham Library.
 
-## Scratch session, Saturday 2nd November 2024 at 10.30 am
+## Scratch session, Saturday 23rd November 2024 at 10.30 am
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
@@ -30,15 +30,15 @@ Scratch has produced a page of information for parents. You can find it [here](h
 
 #### Rapid Router
 
-We were unable to try out Rapid Router at the last session because of network problems, so we will have another go at the next session. [Rapid Router](https://www.codeforlife.education/rapidrouter) is a coding game on the *Code For Life* website. This is a game with many levels which get more and more difficult. It is similar to Scratch and teaches  the main concepts of coding.
+At the last session lots of the students had great fun with the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website, so we will start our next session looking at some more of the challenges on this site where we introduce a *Repeat Until* block and the *If...Else* block. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account with by following the instructions:
 
-#### Signing up for a Rapid Router account
+#### Signing up for a Code for Life account
 
-If you want to save your progress in Rapid Router as you progress through the levels you can make a Rapid Router account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
+If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-Depending on how the Rapid Router session goes we will also continue with the  Scratch project [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) which we started last week.
+We will also continue with Scratch projects which students have been working on. Some are still working on [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) but for those that have finished that one we will move on to a project called [Find the Bug](https://projects.raspberrypi.org/en/projects/find-the-bug).
 
-## Python session, 2nd November at 11.45 am
+## Python session, 23rd November at 11.45 am
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
