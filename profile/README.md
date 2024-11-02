@@ -30,7 +30,7 @@ Scratch has produced a page of information for parents. You can find it [here](h
 
 #### Rapid Router
 
-At the last session lots of the students had great fun with the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website, so we will start our next session looking at some more of the challenges on this site where we introduce a *Repeat Until* block and the *If...Else* block. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account with by following the instructions:
+At the last session lots of the students had great fun with the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website, so we will start our next session looking at some more of the challenges on this site where we introduce a *Repeat Until* block and the *If...Else* block. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions:
 
 #### Signing up for a Code for Life account
 
