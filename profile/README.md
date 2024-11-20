@@ -46,7 +46,10 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 
 We have now finished our mini-course introducing the basics of Python. We suggest that anyone who hasn't yet coded the [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) project should have a go at that, followed by the [Secret Messages](https://projects.raspberrypi.org/en/projects/secret-messages) project.
 
-For those that have completed the Turtle Race we will do a code-along session to make a super-charged version of this race, where you can easily make as many racing turtles as you want.
+
+#### Super turtle race
+
+For those that have completed the Turtle Race we will do a code-along session to make a super-charged version of this race, where you can make as many racing turtles as you want just by changing one number. Your best course is to make a copy of your own version of *turtle race* and use that to make the souped-up version. However, if you want to make the changes to a complete working version of this project you can find the code to copy [here](https://trinket.io/python/5d45102efcbd)
  
 Here is a demo of the basic Turtle Race (click Play to start it):
 
