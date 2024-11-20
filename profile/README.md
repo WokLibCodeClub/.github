@@ -49,7 +49,7 @@ We have now finished our mini-course introducing the basics of Python. We sugges
 
 #### Super turtle race
 
-For those that have completed the Turtle Race we will do a code-along session to make a super-charged version of this race, where you can make as many racing turtles as you want just by changing one number. Your best course is to make a copy of your own version of *turtle race* and use that to make the souped-up version. However, if you want to make the changes to a complete working version of this project you can find the code to copy [here](https://trinket.io/python/5d45102efcbd)
+For those that have completed the Turtle Race we will do a code-along session to make a super-charged version of this race, where you can make as many racing turtles as you want just by changing one number. Your best course is to make a copy of your own version of *turtle race* and use that to make the souped-up version. However, if you want to use a complete working version of this project to make the changes you can find the code to copy [here](https://trinket.io/python/5d45102efcbd)
  
 Here is a demo of the basic Turtle Race (click Play to start it):
 
