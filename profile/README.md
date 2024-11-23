@@ -52,6 +52,8 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 
 We will use our last session before Christmas to code a seasonal project to draw snowflakes all over the screen. Let's hope there's not too much real snow outside on the day...
 
+![Many snowflakes](multi_snowflakes_mini.png "multi-snowflakes")
+
 
 #### Super turtle race
 
