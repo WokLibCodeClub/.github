@@ -16,9 +16,9 @@ Wokingham Libraries now also runs a Code Club at Lower Earley Library. Ask for d
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 23rd November 2024 at Wokingham Library.
+Our next sessions will take place on Saturday 7th December 2024 at Wokingham Library.
 
-## Scratch session, Saturday 23rd November 2024 at 10.30 am
+## Scratch session, Saturday 7th December 2024 at 10.30 am
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
@@ -28,9 +28,13 @@ Please make sure you arrive so that you have time to log in to your Scratch acco
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
+#### Scratch Coordinate Bingo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+We are going to use our last session before Christmas to play a game - it's called ***Scratch Coordinate Bingo***, and it will teach you all about Scratch coordinates while you (hopefully) have fun, and get a chance to win the game!
+
 #### Rapid Router
 
-At the last session lots of the students had great fun with the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website, so we will start our next session looking at some more of the challenges on this site where we introduce a *Repeat Until* block and the *If...Else* block. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions:
+At the last session on 23 November lots of the students got very enthusiastic about the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website. We won't be doing this game at the session on 7 December, but feel free to progress with the levels at home. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions:
 
 #### Signing up for a Code for Life account
 
