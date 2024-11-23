@@ -42,13 +42,17 @@ If you want to save your progress in *Code for Life* as you progress through the
 
 We will also continue with Scratch projects which students have been working on. Some are still working on [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) but for those that have finished that one we will move on to a project called [Find the Bug](https://projects.raspberrypi.org/en/projects/find-the-bug).
 
-## Python session, 23rd November at 11.45 am
+## Python session, 7th December at 11.45 am
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
 We have now finished our mini-course introducing the basics of Python. We suggest that anyone who hasn't yet coded the [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) project should have a go at that, followed by the [Secret Messages](https://projects.raspberrypi.org/en/projects/secret-messages) project.
+
+### Christmas cheer!
+
+We will use our last session before Christmas to code a seasonal project to draw snowflakes all over the screen. Let's hope there's not too much real snow outside on the day...
 
 
 #### Super turtle race
