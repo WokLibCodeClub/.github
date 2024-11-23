@@ -53,7 +53,9 @@ We have now finished our mini-course introducing the basics of Python. We sugges
 
 #### Super turtle race
 
-For those that have completed the Turtle Race we will do a code-along session to make a super-charged version of this race, where you can make as many racing turtles as you want just by changing one number. Your best course is to make a copy of your own version of *turtle race* and use that to make the souped-up version. However, if you want to use a complete working version of this project to make the changes you can find the code to remix [here](https://trinket.io/python/5d45102efcbd)
+At the last session on 23 November 2024 we coded a super-charged turtle race with an unlimited number of turtles (well, depending on how many would fit on the screen). If you want to look at the code for this project you can find it [here](https://trinket.io/python/6ad31db09fd1). (Actually, the code at this link has had a couple of tweaks added since the end of the session - the starting positions of the grid and the racing turtles has been shifted upwards, so more turtles will fit on the screen - see the comments in the code to see how this was done, and the code for the grid lines has been adjusted so it draws the right length lines for the number of turtles.)
+
+
  
 Here is a demo of the basic Turtle Race (click Play to start it):
 
