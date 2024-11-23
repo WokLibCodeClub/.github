@@ -28,7 +28,7 @@ Please make sure you arrive so that you have time to log in to your Scratch acco
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
-#### Scratch Coordinate Bingo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+### Scratch Coordinate Bingo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 We are going to use our last session before Christmas to play a game - it's called ***Scratch Coordinate Bingo***, and it will teach you all about Scratch coordinates while you (hopefully) have fun, and get a chance to win the game!
 
@@ -55,26 +55,6 @@ We have now finished our mini-course introducing the basics of Python. We sugges
 
 At the last session on 23 November 2024 we coded a super-charged turtle race with an unlimited number of turtles (well, depending on how many would fit on the screen). If you want to look at the code for this project you can find it [here](https://trinket.io/python/6ad31db09fd1). (Actually, the code at this link has had a couple of tweaks added since the end of the session - the starting positions of the grid and the racing turtles has been shifted upwards, so more turtles will fit on the screen - see the comments in the code to see how this was done, and the code for the grid lines has been adjusted so it draws the right length lines for the number of turtles.)
 
-
- 
-Here is a demo of the basic Turtle Race (click Play to start it):
-
-![Turtle Race demo](turtle_race_demo.gif "animation of turtle race")
-
-```
-Special Instructions for Turtle Race and Secret Messages:
-========================================================
-
-DON'T follow the link to the starter project on the Raspberry Pi website
-as this will take you to a different Python editor where you won't be able
-to save your code.
-Instead, create a New Project in your trinket account.
-Start your code in trinket with the usual line:
-
-#!/bin/python3
-
-After that you can follow the instructions on the Raspberry Pi site.
-```
 
 #### Summary of the four sessions in the *Python from the beginning* mini-course:
 
