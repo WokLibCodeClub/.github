@@ -56,22 +56,7 @@ We have now finished our mini-course introducing the basics of Python. We sugges
 At the last session on 23 November 2024 we coded a super-charged turtle race with an unlimited number of turtles (well, depending on how many would fit on the screen). If you want to look at the code for this project you can find it [here](https://trinket.io/python/6ad31db09fd1). (Actually, the code at this link has had a couple of tweaks added since the end of the session - the starting positions of the grid and the racing turtles has been shifted upwards, so more turtles will fit on the screen - see the comments in the code to see how this was done, and the code for the grid lines has been adjusted so it draws the right length lines for the number of turtles.)
 
 
-#### Summary of the four sessions in the *Python from the beginning* mini-course:
 
-In the first session on **28 September 2024** we learnt about the functions ```print()``` and ```input()```, and also *imported* other functions from different Python *libraries*. We saw the difference between *text strings*, *whole numbers (integers)* and *decimal or floating-point numbers*; and made some variables. You can find the code which was written on the screen during the first session by going to [https://trinket.io/python/104fce5c53d0](https://trinket.io/python/104fce5c53d0).
-
-In the second session on **5 October 2024** we wrote an *Age calculator* programme which calculated a person's age given the year they were born, and also introduced the Python ```if``` command. The code for the *Age calculator* programme written on the screen is [here](https://trinket.io/python/b46b93f16311).
-
-We also took the first steps in creating graphics in Python by starting a *turtles* project, introducing the turtle ```Screen()``` and how to make a ```Turtle()```. The code for the project as it was at the end of the session is [here](https://trinket.io/python/ecd09ad1ba40).
-
-The list of colours which you can use for turtles and backgrounds can be found at [https://www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp).
-
-A trinket project which explains the turtle coordinate system can be found [here](https://trinket.io/python/218c2a1835).
-
-In the third session on **26 October 2024** we explored using the Python ```while``` loop to make a turtle draw polygon shapes with any number of sides. The code on the screen at the end of the session for this project is [here](https://trinket.io/python/dbc59805d99c). We also introduced Python **lists** and the Python ```for``` loop in a *sorting hat* project. The code on the screen at the end of the session for the *sorting hat* project is [here](https://trinket.io/python/aeef19b5fd9b).
-
-In the final session on **2 November 2024** we explored the ```range()``` function and found that you could put one, two or even three parameters in the brackets. We used a ```for``` loop to print out a times table to jog your memory (the code on the screen for this project is [here](https://trinket.io/python/dc5a88c9c9fa)), and coded a simple turtle game called *Catch the ball* which introduced writing our own Python *functions* and how to make a turtle react to being clicked. The starter project for *Catch the ball* is [here](https://trinket.io/python/0e429f731b) and the code for the completed game written on the screen is [here](https://trinket.io/python/a8a5a1774047)
-.
 ### Challenges for more experience Python coders:
 
 We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
