@@ -48,8 +48,6 @@ You will need an account with [trinket](https://trinket.io/) for this session, s
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
-We have now finished our mini-course introducing the basics of Python. We suggest that anyone who hasn't yet coded the [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) project should have a go at that, followed by the [Secret Messages](https://projects.raspberrypi.org/en/projects/secret-messages) project.
-
 ### Christmas cheer!
 
 We will use our last session before Christmas to code a seasonal project to draw snowflakes all over the screen. Let's hope there's not too much real snow outside on the day...
