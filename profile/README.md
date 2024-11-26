@@ -40,8 +40,6 @@ At the last session on 23 November lots of the students got very enthusiastic ab
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-We will also continue with Scratch projects which students have been working on. Some are still working on [Catch the bus](https://projects.raspberrypi.org/en/projects/catch-the-bus) but for those that have finished that one we will move on to a project called [Find the Bug](https://projects.raspberrypi.org/en/projects/find-the-bug).
-
 ## Python session, 7th December at 11.45 am
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
