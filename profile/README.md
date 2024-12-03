@@ -32,6 +32,8 @@ Scratch has produced a page of information for parents. You can find it [here](h
 
 We are going to use our last session before Christmas to play a game - it's called ***Scratch Coordinate Bingo***, and it will teach you all about Scratch coordinates while you (hopefully) have fun, and get a chance to win the game!
 
+If the internet is working we will use online Scratch. As part of the training for playing Scratch Coordinate Bingo we will use a Scratch starter project [here](https://scratch.mit.edu/projects/921340257/#editor).
+
 #### Rapid Router
 
 At the last session on 23 November lots of the students got very enthusiastic about the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website. We won't be doing this game at the session on 7 December, but feel free to progress with the levels at home. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions:
