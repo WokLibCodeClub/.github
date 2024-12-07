@@ -24,7 +24,7 @@ Please make sure you arrive so that you have time to log in to your Scratch acco
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
-#### Rapid Router
+### Rapid Router
 
 We will start our next session with a bit more of the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website as some of our coders have been getting very enthusiastic about this. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions below:
 
