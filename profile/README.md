@@ -10,15 +10,11 @@ As is normal on github, the data on this site is divided into ***repositories***
 
 For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io), or see the [complete list of repositories](https://github.com/orgs/WokLibCodeClub/repositories?type=all).
 
-#### Lower Earley Code Club
-
-Wokingham Libraries now also runs a Code Club at Lower Earley Library. Ask for details at Lower Earley Library.
-
 ## Next sessions
 
-Our next sessions will take place on Saturday 7th December 2024 at Wokingham Library.
+We will be back after the holidays, and our next sessions will take place on Saturday 25th January 2025 at Wokingham Library.
 
-## Scratch session, Saturday 7th December 2024 at 10.30 am
+## Scratch session, Saturday 25th January 2025 at 10.30 am
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
@@ -28,37 +24,35 @@ Please make sure you arrive so that you have time to log in to your Scratch acco
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
-### Scratch Coordinate Bingo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
-We are going to use our last session before Christmas to play a game - it's called ***Scratch Coordinate Bingo***, and it will teach you all about Scratch coordinates while you (hopefully) have fun, and get a chance to win the game!
-
-If the internet is working we will use online Scratch. As part of the training for playing Scratch Coordinate Bingo we will use a Scratch starter project [here](https://scratch.mit.edu/projects/921340257/#editor).
-
 #### Rapid Router
 
-At the last session on 23 November lots of the students got very enthusiastic about the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website. We won't be doing this game at the session on 7 December, but feel free to progress with the levels at home. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions:
+We will start our next session with a bit more of the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website as some of our coders have been getting very enthusiastic about this. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions below:
 
 #### Signing up for a Code for Life account
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 7th December at 11.45 am
+### Scratch
+
+Congratulations to all the coders who had a great time playing *Scratch Coordinate Bingo* at the last session.
+
+At the next session on 25th January we will continue with some of the Raspberry Pi Scratch projects which you can find [here](https://projects.raspberrypi.org/en/pathways/scratch-intro). Come back nearer the date for more details!
+
+## Python session, 25th January 2025 at 11.45 am
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
-### Christmas cheer!
+### Winter snowflakes
 
-We will use our last session before Christmas to code a seasonal project to draw snowflakes all over the screen. Let's hope there's not too much real snow outside on the day...
+![Many snowflakes](2024_snowflakes_1.png "multi-snowflakes")
 
-![Many snowflakes](multi_snowflakes_mini.png "multi-snowflakes")
+At the last session we used the winter weather as a trigger to make a seasonal project to draw a lot of snowflakes on the screen. For this project we had to create two of our own functions, and the code introduced some useful Python features connected with functions. As we didn't quite finish this project we will continue with it at the next session on 25 January, especially to explain how you can "pass a variable" to a function, and explore the difference between *global* and *local* variables. We will also add some random colours for the snowflakes.
 
+If you weren't at the session on 7 December but want to follow along with the snowflakes project you can find the code to edit [here](https://trinket.io/python/dabf4963ab0d).
 
-#### Super turtle race
-
-At the last session on 23 November 2024 we coded a super-charged turtle race with an unlimited number of turtles (well, depending on how many would fit on the screen). If you want to look at the code for this project you can find it [here](https://trinket.io/python/6ad31db09fd1). (Actually, the code at this link has had a couple of tweaks added since the end of the session - the starting positions of the grid and the racing turtles has been shifted upwards, so more turtles will fit on the screen - see the comments in the code to see how this was done, and the code for the grid lines has been adjusted so it draws the right length lines for the number of turtles.)
-
+If you don't want to join in with the snowflakes project you can continue with projects you were developing from the Raspberry Pi website.
 
 
 ### Challenges for more experience Python coders:
