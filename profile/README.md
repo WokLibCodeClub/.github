@@ -50,7 +50,7 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 
 At the last session we used the winter weather as a trigger to make a seasonal project to draw a lot of snowflakes on the screen. For this project we had to create two of our own ***functions***, and the code introduced some useful Python features connected with functions. As we didn't quite finish this project we will continue with it at the next session on 25 January, especially to explain how you can "pass a variable" to a function, and explore the difference between *global* and *local* variables. We will also add some random colours for the snowflakes. You can find a useful display of all the available turtle colours [here](https://trinket.io/docs/colors).
 
-You can find the code from the last session [here](https://trinket.io/python/dabf4963ab0d), but for the benefit of those that missed the last session we will pick up the project from starter code which is [here](https://trinket.io/python/ccb7e39eb1b9)
+You can find the code from the last session [here](https://trinket.io/python/dabf4963ab0d), but for the benefit of those that missed the last session we will pick up the project on 25 January from a slightly earlier stage, using starter code which you can find [here](https://trinket.io/python/ccb7e39eb1b9).
 
 If you don't want to join in with the snowflakes project you can continue with projects you were developing from the Raspberry Pi website.
 
