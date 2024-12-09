@@ -52,6 +52,8 @@ At the last session we used the winter weather as a trigger to make a seasonal p
 
 You can find the code from the last session [here](https://trinket.io/python/dabf4963ab0d), but for the benefit of those that missed the last session we will pick up the project on 25 January from a slightly earlier stage, using starter code which you can find [here](https://trinket.io/python/ccb7e39eb1b9).
 
+The "rapid explanation" of the starter code is in a powerpoint file which you can download from [here]()
+
 If you don't want to join in with the snowflakes project you can continue with projects you were developing from the Raspberry Pi website.
 
 
