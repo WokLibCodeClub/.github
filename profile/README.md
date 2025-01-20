@@ -36,7 +36,9 @@ If you want to save your progress in *Code for Life* as you progress through the
 
 Congratulations to all the coders who had a great time playing *Scratch Coordinate Bingo* at the last session.
 
-At the next session on 25th January we will continue with some of the Raspberry Pi Scratch projects which you can find [here](https://projects.raspberrypi.org/en/pathways/scratch-intro). Come back nearer the date for more details!
+At the next session on 25th January we will continue with some of the Raspberry Pi Scratch projects which you can find [here](https://projects.raspberrypi.org/en/pathways/scratch-intro). 
+
+In this week's session we will start a new project - a Silly Eyes animation.  We'll use the Scratch costume editor to design and create some new 'eye' sprites and learn how to position them on the drawing pane correctly.   We'll then create some silly characters using our new 'eyes'.  Following that we'll add some code to animate the 'eyes', which will bring our characters to life!  The silly characters could be based on animals or humans with two eyes but this isn't obligatory.   How about eyes on a strawberry?  Or a potato? (At this time of year potatoes sprout loads of 'eyes'.)  Did you know that spiders have eight eyes, but can't see very well?
 
 ## Python session, 25th January 2025 at 11.45 am
 
