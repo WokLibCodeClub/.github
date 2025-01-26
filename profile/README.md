@@ -12,9 +12,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-We will be back after the holidays, and our next sessions will take place on Saturday 25th January 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 1st February 2025 at Wokingham Library.
 
-## Scratch session, Saturday 25th January 2025 at 10.30 am
+## Scratch session, Saturday 1st February 2025 at 10.30 am
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
@@ -24,6 +24,12 @@ Please make sure you arrive so that you have time to log in to your Scratch acco
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
+### Scratch
+
+At the next session on 1st February we will continue with some of the Raspberry Pi Scratch projects which you can find [here](https://projects.raspberrypi.org/en/pathways/scratch-intro). 
+
+In this week's session we will start a new project - a Silly Eyes animation.  We'll use the Scratch costume editor to design and create some new 'eye' sprites and learn how to position them on the drawing pane correctly.   We'll then create some silly characters using our new 'eyes'.  Following that we'll add some code to animate the 'eyes', which will bring our characters to life!  The silly characters could be based on animals or humans with two eyes but this isn't obligatory.   How about eyes on a strawberry?  Or a potato? (At this time of year potatoes sprout loads of 'eyes'.)  Did you know that spiders have eight eyes, but can't see very well?
+
 ### Rapid Router
 
 We will start our next session with a bit more of the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website as some of our coders have been getting very enthusiastic about this. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions below:
@@ -32,32 +38,27 @@ We will start our next session with a bit more of the [Rapid Router game](https:
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-### Scratch
-
-Congratulations to all the coders who had a great time playing *Scratch Coordinate Bingo* at the last session.
-
-At the next session on 25th January we will continue with some of the Raspberry Pi Scratch projects which you can find [here](https://projects.raspberrypi.org/en/pathways/scratch-intro). 
-
-In this week's session we will start a new project - a Silly Eyes animation.  We'll use the Scratch costume editor to design and create some new 'eye' sprites and learn how to position them on the drawing pane correctly.   We'll then create some silly characters using our new 'eyes'.  Following that we'll add some code to animate the 'eyes', which will bring our characters to life!  The silly characters could be based on animals or humans with two eyes but this isn't obligatory.   How about eyes on a strawberry?  Or a potato? (At this time of year potatoes sprout loads of 'eyes'.)  Did you know that spiders have eight eyes, but can't see very well?
-
-## Python session, 25th January 2025 at 11.45 am
+## Python session, 1st February 2025 at 11.45 am
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
-### Winter snowflakes
+We will have a peaceful and relaxed Python session on 1 February, with no code-along project. Students can decide which project they would like to do, and follow the online instructions.
 
-![Many snowflakes](2024_snowflakes_1.png "multi-snowflakes")
+1. For those with very little Python experience:
 
-At the last session we used the winter weather as a trigger to make a seasonal project to draw a lot of snowflakes on the screen. For this project we had to create two of our own ***functions***, and the code introduced some useful Python features connected with functions. As we didn't quite finish this project we will continue with it at the next session on 25 January, especially to explain how you can "pass a variable" to a function, and explore the difference between *global* and *local* variables. We will also add some random colours for the snowflakes. You can find a useful display of all the available turtle colours [here](https://trinket.io/docs/colors).
+We suggest following our beginners Python course called *Hello Python* which you can find [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
-You can find the code from the last session [here](https://trinket.io/python/dabf4963ab0d), but for the benefit of those that missed the last session we will pick up the project on 25 January from a slightly earlier stage, using starter code which you can find [here](https://trinket.io/python/ccb7e39eb1b9).
+2. For those who have done some of the first Python projects already:
 
-The "rapid explanation" of the starter code is in a powerpoint file which we will go through in the session. You can download this file for yourself by going to [this link](build_snowflakes.pptx) and clicking on the button in the top right of the page called *Download raw file* ![Download raw file](download_raw_file.png). This will give you the option to save the file on your computer.
+Here are some suggestions for projects. If you follow the links you will find step by step instructions for building up your project:
 
-If you don't want to join in with the snowflakes project you can continue with projects you were developing from the Raspberry Pi website.
+[Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
 
+[Hangman](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) This is a very old game which people used to play using paper and pencil. In the computer version you have to guess a mystery word by suggesting letters and finding out if they are in the word or not. If you don't get the word in six guesses you will be hanged!!!
+
+[Python clock](https://github.com/WokLibCodeClub/Python-Clock/blob/master/README.md). We made this project when the classroom clock broke, and we needed to be able to tell the time to know when to go home. You will make a digital clock with Python first, then extend it to make a round clock with hands, using Python turtles.
 
 ### Challenges for more experience Python coders:
 
