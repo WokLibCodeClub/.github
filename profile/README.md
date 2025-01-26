@@ -46,19 +46,19 @@ Please make sure you arrive so that you have time to log in to your trinket acco
 
 We will have a peaceful and relaxed Python session on 1 February, with no code-along project. Students can decide which project they would like to do, and follow the online instructions.
 
-1. For those with very little Python experience:
+### For those with very little Python experience:
 
 We suggest following our beginners Python course called *Hello Python* which you can find [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
-2. For those who have done some of the first Python projects already:
+### For those who have done some of the first Python projects already:
 
 Here are some suggestions for projects. If you follow the links you will find step by step instructions for building up your project:
 
-[Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
+1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
 
-[Hangman](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) This is a very old game which people used to play using paper and pencil. In the computer version you have to guess a mystery word by suggesting letters and finding out if they are in the word or not. If you don't get the word in six guesses you will be hanged!!!
+2. [Hangman](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) This is a very old game which people used to play using paper and pencil. In the computer version you have to guess a mystery word by suggesting letters and finding out if they are in the word or not. If you don't get the word in six guesses you will be hanged!!!
 
-[Python clock](https://github.com/WokLibCodeClub/Python-Clock/blob/master/README.md). We made this project when the classroom clock broke, and we needed to be able to tell the time to know when to go home. You will make a digital clock with Python first, then extend it to make a round clock with hands, using Python turtles.
+3. [Python clock](https://github.com/WokLibCodeClub/Python-Clock/blob/master/README.md). We made this project when the classroom clock broke, and we needed to be able to tell the time to know when to go home. You will make a digital clock with Python first, then extend it to make a round clock with hands, using Python turtles.
 
 ### Challenges for more experience Python coders:
 
