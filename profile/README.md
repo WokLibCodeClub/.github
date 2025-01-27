@@ -60,7 +60,7 @@ Here are some suggestions for projects. If you follow the links you will find st
 
 ### Create your own version of Snowflakes
 
-At the last session, on 25 January, we very quickly ran through the steps to create a snowflake drawing programme and then explained how we could extend this to draw multiple snowflakes. If you would like to build up your own programme from the beginning, going through it step by step, you can download a powerpoint file which shows all the steps. The link is [here](https://github.com/WokLibCodeClub/Previous-readme-text/blob/main/build_snowflakes.pptx) and to download it
+At the last session, on 25 January, we very quickly ran through the steps to create a snowflake drawing programme and then explained how we could extend this to draw multiple snowflakes. If you would like to build up your own programme from the beginning, going through it step by step, you can download a powerpoint file which shows all the steps. The link is [here](https://github.com/WokLibCodeClub/Previous-readme-text/blob/main/build_snowflakes.pptx) and to download it click on the button in the top right of the page called Download raw file Download raw file. This will give you the option to save the file on your computer.
 
 
 ### Challenges for more experience Python coders:
