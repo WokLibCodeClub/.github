@@ -6,7 +6,7 @@ The club is for children aged 9 to 12, and we run twice a month in Wokingham Lib
 
 These pages contain information for students about forthcoming sessions, detailed information for lots of the projects we have developed in the past, as well as background information.
 
-As is normal on github, the data on this site is divided into ***repositories*** and each repository (repo for short) contains all the information for a single coding project, or a group of projects. One repository, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub/README.md), contains a wide range of Scratch and Python projects, each of which is explained through a series of Youtube videos, and the links to all these videos can be found in the *OnlineCodeClub* repository. (These projects were created while the code club was operating online during the coronavirus restrictions.)
+As is normal on github, the data on this site is divided into ***repositories*** and each repository (repo for short) contains all the information for a single coding project, or a group of projects. One repository, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/README.md), contains a wide range of Scratch and Python projects, each of which is explained through a series of Youtube videos, and the links to all these videos can be found in the *OnlineCodeClub* repository. (These projects were created while the code club was operating online during the coronavirus restrictions.)
 
 For a summary of the contents of all the repositories see [here](https://github.com/WokLibCodeClub/woklibcodeclub.github.io), or see the [complete list of repositories](https://github.com/orgs/WokLibCodeClub/repositories?type=all).
 
