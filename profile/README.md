@@ -29,9 +29,9 @@ Scratch has produced a page of information for parents. You can find it [here](h
 The next session is on 1st February.  In this session we will create a game that may help you to improve your concentration.  You will see three playing cards, one of which is the Queen of Hearts.  You will then have to watch really carefully to try to follow the card hiding the Queen as she and the two other cards fly around the screen.   
 
 This project will demonstate:
-•	how to use broadcasts to communicate between sprites
-•	how to detect when two sprites touch each other
-•	how to use ‘and’ and ‘not’ Boolean operators
+- how to use broadcasts to communicate between sprites
+- how to detect when two sprites touch each other
+- how to use ‘and’ and ‘not’ Boolean operators
 
 This is the link to the starter project: https://scratch.mit.edu/projects/1127194601/
 
