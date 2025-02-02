@@ -12,9 +12,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 1st February 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 22nd February 2025 at Wokingham Library.
 
-## Scratch session, Saturday 1st February 2025 at 10.30 am
+## Scratch session, Saturday 22nd February 2025 at 10.30 am
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
@@ -26,14 +26,14 @@ Scratch has produced a page of information for parents. You can find it [here](h
 
 ### Scratch
 
-The next session is on 1st February.  In this session we will create a game that may help you to improve your concentration.  You will see three playing cards, one of which is the Queen of Hearts.  You will then have to watch really carefully to try to follow the card hiding the Queen as she and the two other cards fly around the screen.   
+The next session is on 22nd February.  In this session we will continue building the *Find the Lady* card game in which you will see three playing cards, one of which is the Queen of Hearts.  You will then have to watch really carefully to try to follow the card hiding the Queen as she and the two other cards fly around the screen.   
 
 This project will demonstate:
 - how to use broadcasts to communicate between sprites
 - how to detect when two sprites touch each other
 - how to use ‘and’ and ‘not’ Boolean operators
 
-This is the link to the starter project: https://scratch.mit.edu/projects/1127194601/
+This is the link to the starter project: [https://scratch.mit.edu/projects/1127194601/](https://scratch.mit.edu/projects/1127194601/).
 
 ### Rapid Router
 
@@ -43,13 +43,13 @@ Some students might like to continue with a bit more of the [Rapid Router game](
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 1st February 2025 at 11.45 am
+## Python session, 22nd February 2025 at 11.45 am
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
-We will have a peaceful and relaxed Python session on 1 February, with no code-along project. Students can decide which project they would like to do, and follow the online instructions.
+We will continue with another "free" Python session on 22 February, with no code-along project and students working on their chosen project following online instructions. For those who weren't at the last session on 1 February the next paragraphs will steer them towards suitable projects.
 
 ### For those with very little Python experience:
 
