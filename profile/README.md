@@ -31,7 +31,7 @@ The next session is on 22nd February.  In this session we will continue building
 This project will demonstate:
 - how to use broadcasts to communicate between sprites
 - how to detect when two sprites touch each other
-- how to use ‘and’ and ‘not’ Boolean operators
+- how to use ```and``` and ```not``` Boolean operators
 
 This is the link to the starter project: [https://scratch.mit.edu/projects/1127194601/](https://scratch.mit.edu/projects/1127194601/).
 
