@@ -36,9 +36,11 @@ If you want to find our Scratch studio so you can see the other projects there h
 
 1. Log in to your Scratch account
 2. In the Search box at the top type in WLCC 2024-25
-[find_studio1.png](find_studio1.png)
+
+![find_studio1.png](find_studio1.png)
 3. When the search results appear it will probably say Nothing Found, so click on the heading Studios above the search results
-[find_studio2.png](find_studio1.png)
+
+![find_studio2.png](find_studio1.png)
 4. You will now see the icon for the studio. Click on this to open the studio.
 
 ### Rapid Router
