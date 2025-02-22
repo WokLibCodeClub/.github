@@ -24,22 +24,22 @@ Please make sure you arrive so that you have time to log in to your Scratch acco
 
 ### Confirming your Scratch account so that you can *SHARE* your projects
 
-**NOTE**: If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions to have Scratch resend the email.
+If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions to have Scratch resend the email.
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
-### Finding a Scratch *studio*
+### Finding the Code Club's Scratch *studio*
 
 The code club keeps a Scratch *studio* on the Scratch website, where our students can upload their projects for everyone else to see. **Note:** we only allow you to upload projects during our Scratch sessions at the library. At other times uploading is disabled. 
 
-If you want to find our Scratch studio so you can see the other projects there here are the steps you need to take:
+If you want to find our Scratch studio, so you can see the other projects there, here are the steps you need to take:
 
 1. Log in to your Scratch account
 2. In the Search box at the top type in WLCC 2024-25
 
 ![find_studio1.png](find_studio1.png)
 
-3. When the search results appear it will probably say Nothing Found, so click on the heading Studios above the search results
+3. When the search results appear it will probably say **Nothing Found**, so click on the heading Studios above the search results
 
 ![find_studio2.png](find_studio2.png)
 
