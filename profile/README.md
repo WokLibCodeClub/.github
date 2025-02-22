@@ -51,19 +51,19 @@ Some students might like to continue with a bit more of the [Rapid Router game](
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 22nd February 2025 at 11.45 am
+## Python session, 1st March 2025 at 11.45 am
+
+We will continue with another "free" Python session on 1st March, with no code-along project and students working on their chosen project following online instructions. You can find some suggestions for projects suitable for your level of experience below.
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
-We will continue with another "free" Python session on 22 February, with no code-along project and students working on their chosen project following online instructions. For those who weren't at the last session on 1 February the next paragraphs will steer them towards suitable projects.
-
-### For those with very little Python experience:
+### Project for those with very little Python experience:
 
 We suggest following our beginners Python course called *Hello Python* which you can find [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
-### For those who have done some of the first Python projects already:
+### Projects for those who have done some of the first Python projects already:
 
 Here are some suggestions for projects. If you follow the links you will find step by step instructions for building up your project:
 
