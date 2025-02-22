@@ -12,28 +12,34 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 22nd February 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 1st March 2025 at Wokingham Library.
 
-## Scratch session, Saturday 22nd February 2025 at 10.30 am
+## Scratch session, Saturday 1st March 2025 at 10.30 am
+
+March 1st is *St David's Day* (he's the patron saint of Wales) so in the Scratch session we will be building a game based on a Welsh theme.
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem on Saturday.
 
+### Confirming your Scratch account so that you can *SHARE* your projects
+
 **NOTE**: If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions to have Scratch resend the email.
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
-### Scratch
+### Finding a Scratch *studio*
 
-The next session is on 22nd February.  In this session we will continue building the *Find the Lady* card game in which you will see three playing cards, one of which is the Queen of Hearts.  You will then have to watch really carefully to try to follow the card hiding the Queen as she and the two other cards fly around the screen.   
+The code club keeps a Scratch *studio* on the Scratch website, where our students can upload their projects for everyone else to see. **Note:** we only allow you to upload projects during our Scratch sessions at the library. At other times uploading is disabled. 
 
-This project will demonstate:
-- how to use broadcasts to communicate between sprites
-- how to detect when two sprites touch each other
-- how to use ```and``` and ```not``` Boolean operators
+If you want to find our Scratch studio so you can see the other projects there here are the steps you need to take:
 
-This is the link to the starter project: [https://scratch.mit.edu/projects/1127194601/](https://scratch.mit.edu/projects/1127194601/).
+1. Log in to your Scratch account
+2. In the Search box at the top type in WLCC 2024-25
+[find_studio1.png](find_studio1.png)
+3. When the search results appear it will probably say Nothing Found, so click on the heading Studios above the search results
+[find_studio2.png](find_studio1.png)
+4. You will now see the icon for the studio. Click on this to open the studio.
 
 ### Rapid Router
 
