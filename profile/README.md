@@ -32,7 +32,7 @@ Scratch has produced a page of information for parents. You can find it [here](h
 
 ### Finding the Code Club's Scratch *studio*
 
-The code club keeps a Scratch *studio* on the Scratch website, where our students can upload their projects for everyone else to see. **Note:** we only allow you to upload projects during our Scratch sessions at the library. At other times uploading is disabled. 
+The Code Club keeps a Scratch *studio* on the Scratch website, where our students can upload their projects for everyone else to see. **Note:** we only allow you to upload projects during our Scratch sessions at the library. At other times uploading is disabled. 
 
 If you want to find our Scratch studio, so you can see the other projects there, here are the steps you need to take:
 
