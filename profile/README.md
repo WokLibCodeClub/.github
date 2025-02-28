@@ -49,7 +49,7 @@ If you want to find our Scratch studio, so you can see the other projects there,
 
 ### Rapid Router
 
-**IMPORTANT NOTE: AS OF 25TH FEBRUARY 2025 THERE SEEMS TO BE A PROBLEM WITH THE RAPID ROUTER WEBSITE AND THERE IS A MESSAGE SAYING "Users are currently reporting an ongoing issue where some parts of the site are not loading properly (dropdowns not opening, buttons not working). We are currently looking into this. In the meantime, if you are experiencing this, please try loading the site in a different browser." UNFORTUNATELY WE HAVE FOUND THIS PROBLEM IN ALL BROWSERS, SO WE WILL NOT BE USING RAPID ROUTER UNTIL THE ISSUE IS FIXED. SORRY TO ALL.**
+**IMPORTANT NOTE: A problem with the Rapid Router website, identified earlier this week, seems to have been resolved, and Rapid Router is currently working normally.**
 
 Some students might like to continue with a bit more of the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website as some of our coders have been getting very enthusiastic about this. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions below:
 
