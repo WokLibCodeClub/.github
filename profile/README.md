@@ -18,7 +18,7 @@ Our next sessions will take place on Saturday 22nd March 2025 at Wokingham Libra
 
 We're still finalising the details for the project for 22nd March. Keep checking here...
 
-### Finishing the St David's Day Collecting Game
+#### Finishing the St David's Day Collecting Game
 
 If you didn't complete the *St David's Day Collecting Game* project which we started on March 1st (*St David's Day*) here are the links to the files which will help you: there is a Scratch starter project for the game and the link is [here](https://scratch.mit.edu/projects/1137859298/); you can download the instructions in a powerpoint file by following this link: [St Davids Day Collecting Game.pptx](https://1drv.ms/p/c/0ea54730735a1344/EVWCHUGJPLRFh1hxOzgcgwUBuhLQVvlTEo0wVzNrG7snHA?e=0TcQD8), which will open the file in Powerpoint on your computer.
 
