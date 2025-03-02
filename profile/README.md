@@ -61,17 +61,19 @@ If you want to save your progress in *Code for Life* as you progress through the
 
 ## Python session, 22nd March 2025 at 11.45 am
 
-Our students are happey to continue with another "free" Python session on 22nd March, with no code-along project and students working on their chosen project following online instructions. You can find some suggestions for projects suitable for your level of experience below.
+Our students are happy to continue with another "free" Python session on 22nd March, with no code-along project and students working on their own projects following online instructions. There are some suggestions for projects suitable for different levels of Python experience below.
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
-### Project for those with very little Python experience:
+### Projects to compile yourself from online instructions
+
+#### Project for those with very little Python experience:
 
 We suggest following our beginners Python course called *Hello Python* which you can find [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
-### Projects for those who have done some of the first Python projects already:
+#### Projects for those who have done some of the first Python projects already:
 
 Here are some suggestions for projects. If you follow the links you will find step by step instructions for building up your project:
 
