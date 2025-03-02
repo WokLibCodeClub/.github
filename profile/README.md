@@ -51,8 +51,6 @@ If you want to find our Scratch studio, so you can see the other projects there,
 
 ### Rapid Router
 
-**IMPORTANT NOTE: A problem with the Rapid Router website, identified earlier this week, seems to have been resolved, and Rapid Router is currently working normally.**
-
 Some students might like to continue with a bit more of the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website as some of our coders have been getting very enthusiastic about this. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions below:
 
 #### Signing up for a Code for Life account
