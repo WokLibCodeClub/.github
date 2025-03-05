@@ -81,6 +81,8 @@ Here are some suggestions for projects. If you follow the links you will find st
 
 3. [Python clock](https://github.com/WokLibCodeClub/Python-Clock/blob/master/README.md). We made this project when the classroom clock broke, and we needed to be able to tell the time to know when to go home. You will make a digital clock with Python first, then extend it to make a round clock with hands, using Python turtles.
 
+4. [Space Race](https://github.com/WokLibCodeClub/SpaceRace/blob/master/README.md). Move your rocket from the bottom to the top of the screen - but if you get hit by an asteroid on the way you will be instantly transported back to the start! This is a re-creation of an arcade game which was first invented in the 1970s. The instructions will show you how to build the game, but they don't give much explanation of how the code is actually working. You will have to look at your code as you write it and figure this out for yourself.
+
 ### Create your own version of Snowflakes
 
 At the session on 25 January we very quickly ran through the steps to create a snowflake drawing programme and then explained how we could extend this to draw multiple snowflakes. If you would like to build up your own programme from the beginning, going through it step by step, you can download a powerpoint file which shows all the steps. The link is [here](build_snowflakes.pptx) and to download it click on the button in the top right of the page called *Download raw file* ![Download raw file](download_raw_file.png). This will give you the option to save the file on your computer.
