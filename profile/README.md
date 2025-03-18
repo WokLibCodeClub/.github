@@ -16,7 +16,9 @@ Our next sessions will take place on Saturday 22nd March 2025 at Wokingham Libra
 
 ## Scratch session, Saturday 22nd March 2025 at 10.30 am
 
-We're still finalising the details for the project for 22nd March. Keep checking here...
+On Saturday 22nd March we're going to do a really *cool* Scratch project which involves using the cameras on our laptops! You will find that by waving your hands in front of the computer you can control a sprite!
+
+There is a starter project for this week and the link is [https://scratch.mit.edu/projects/1140871196/](https://scratch.mit.edu/projects/1140871196/). You can also see a powerpoint file with instructions which you can find [here](https://1drv.ms/p/c/0ea54730735a1344/Eb7LWsuSIoVMk3VXsc6xGPoBdeDTaTZ_RPt7T-IxBX-ygg?e=dsEnvI).
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
