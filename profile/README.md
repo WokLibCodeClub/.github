@@ -12,13 +12,11 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 22nd March 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 5th April 2025 at Wokingham Library.
 
-## Scratch session, Saturday 22nd March 2025 at 10.30 am
+## Scratch session, Saturday 5th April 2025 at 10.30 am
 
-On Saturday 22nd March we're going to do a really *cool* Scratch project which involves using the cameras on our laptops! You will find that by waving your hands in front of the computer you can control a sprite!
-
-There is a starter project for this week and the link is [https://scratch.mit.edu/projects/1140871196/](https://scratch.mit.edu/projects/1140871196/). You can also see a powerpoint file with instructions which you can find [here](https://1drv.ms/p/c/0ea54730735a1344/Eb7LWsuSIoVMk3VXsc6xGPoBdeDTaTZ_RPt7T-IxBX-ygg?e=dsEnvI).
+At the next Scratch session we will be building a project with an Easter theme. Keep looking here for more details...
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
@@ -59,9 +57,11 @@ Some students might like to continue with a bit more of the [Rapid Router game](
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 22nd March 2025 at 11.45 am
+## Python session, 5th April 2025 at 11.45 am
 
-Our students are happy to continue with another "free" Python session on 22nd March, with no code-along project and students working on their own projects following online instructions. There are some suggestions for projects suitable for different levels of Python experience below.
+We will continue our "free" Python sessions on 5th April, with no code-along project and students working on their own projects following online instructions. There are some suggestions for projects suitable for different levels of Python experience below.
+
+Some who have completed the Hangman project (see below) were wanting to use a larger word list, but found problems with formatting and sorting the list. If you click [here](bigger_word_lists.md) you will find some ideas about using larger word lists.
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
@@ -84,11 +84,6 @@ Here are some suggestions for projects. If you follow the links you will find st
 3. [Python clock](https://github.com/WokLibCodeClub/Python-Clock/blob/master/README.md). We made this project when the classroom clock broke, and we needed to be able to tell the time to know when to go home. You will make a digital clock with Python first, then extend it to make a round clock with hands, using Python turtles.
 
 4. [Space Race](https://github.com/WokLibCodeClub/SpaceRace/blob/master/README.md). Move your rocket from the bottom to the top of the screen - but if you get hit by an asteroid on the way you will be instantly transported back to the start! This is a re-creation of an arcade game which was first invented in the 1970s. The instructions will show you how to build the game, but they don't give a complete explanation of how the code is actually working. You will have to look at your code as you write it and figure this out for yourself.
-
-### Create your own version of Snowflakes
-
-At the session on 25 January we very quickly ran through the steps to create a snowflake drawing programme and then explained how we could extend this to draw multiple snowflakes. If you would like to build up your own programme from the beginning, going through it step by step, you can download a powerpoint file which shows all the steps. The link is [here](build_snowflakes.pptx) and to download it click on the button in the top right of the page called *Download raw file* ![Download raw file](download_raw_file.png). This will give you the option to save the file on your computer.
-
 
 ### Challenges for more experience Python coders:
 
