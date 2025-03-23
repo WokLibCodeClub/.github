@@ -38,4 +38,11 @@ Next, create a file in your project. Do this by clicking on the **plus** sign at
 
 ![Click to add a file](add_file.png)
 
+This will open up a box where you can name your file. I used the name Hangman_words.txt:
+
+![CName a file](name_file.png)
+
+You can now paste your new wordlist into this new file:
+
+![CAdd words](word_list.png)
 
