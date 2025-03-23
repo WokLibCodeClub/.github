@@ -1,6 +1,6 @@
 # Adding your own word list to the Hangman game
 
-There is a list of 400 common words in the file called *Hangman_words.txt* in the [Hangman project](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) but some students wanted to use a larger word list. This page will show you how you can do this without causing formatting errors as you run the game.
+There is a list of 400 common words in the file called *Hangman_words.txt* in the [Hangman project](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) but some students wanted to use a larger word list. This sometimes caused a problem, because the word from the new list might be in lower case letters, but all the guessing and testing in *Hangman* is set to use CAPITALS. This page will show you how you can use a larger list without causing formatting errors as you run the game.
 
 ## A word list where the words are not all in CAPITAL letters
 
@@ -20,7 +20,7 @@ The change you need to make in order to use a word list in which the words are n
 word_to_guess = choice(wordlist).upper()
 ```
 
-This adds an carries out an additional function after selecting the word at random - namely converting it to CAPITAL letters. Now you can proceed to guess the mystery word as before.
+This will now carry out an additional function after selecting the word at random and before setting the variable ```word_with_guesses``` - namely converting the chosen word to CAPITAL letters. So, it doesn't matter whether the words in the word list are capitals, lower case or a mixture, the variable ```word_to_guess``` will *always* be set to a word which is all CAPITALS. Now you can proceed to guess the mystery word as before.
 
 ## Applying some filters to the larger word list
 
@@ -33,5 +33,9 @@ Firstly, start a new trinket project and put in the usual line to make sure trin
 ```python
 #!/bin/python3
 ```
+
+Next, create a file in your project. Do this by clicking on the **plus** sign at the top right corner of the edit pane:
+
+![Click to add a file](add_file.png)
 
 
