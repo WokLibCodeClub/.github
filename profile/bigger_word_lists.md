@@ -20,4 +20,18 @@ The change you need to make in order to use a word list in which the words are n
 word_to_guess = choice(wordlist).upper()
 ```
 
-This adds an additional function onto 
+This adds an carries out an additional function after selecting the word at random - namely converting it to CAPITAL letters. Now you can proceed to guess the mystery word as before.
+
+## Applying some filters to the larger word list
+
+In the original *Hangman_words.txt* word list the words were all selected to make sure they were not too long and not too short (they are all between 6 and 10 letters long), and also that they weren't people's names or brand names, and that they weren't rude words. You can't use Python to check for rude words but you can certainly write some code to filter out words which are too long or too short.
+
+We have already used the Python command to open a file to *read* the contents - now we will use the command to open a file to *write* something to it. This will magically create a new file in your trinket project.
+
+Firstly, start a new trinket project and put in the usual line to make sure trinket will use Python 3 commands:
+
+```python
+#!/bin/python3
+```
+
+
