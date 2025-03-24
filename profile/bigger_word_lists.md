@@ -73,7 +73,7 @@ Next we add a ```for``` loop to go through all the words in the list. This will 
 for word in wordlist:
 ```
 
-Here ```word``` is just a name for a Python variable - you can use any valid variable name. Whatever the name, this loop will set the variable in turn to every word in the list, which means we can do some tests on the word to see if we want to keep it in our filtered list, or chuck it out. Let's say we only want to keep words which are seven letters long. So each time we go through the loop we need to text the length of the word with an ```if``` statement:
+Here ```word``` is just a name for a Python variable - you can use any valid variable name. Whatever the name, this loop will set the variable in turn to every word in the list, which means we can do some tests on the word to see if we want to keep it in our filtered list, or chuck it out. Let's say we only want to keep words which are seven letters long. So each time we go through the loop we need to test the length of the word with an ```if``` statement:
 
 ```python
   if len(word) == 7:
