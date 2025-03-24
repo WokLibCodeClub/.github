@@ -57,7 +57,7 @@ wordlist = wordfile.read().splitlines()
 
 Make sure the name of the new file (in quotes) is exactly the same as the name you gave your file.
 
-The first line here *opens* an existing file, and the bit of code ```'r'``` inside the brackets indicates that we want to ***read** from the file. But as we filter our words and decide to keep some and not others we will also need a file to save the words we want to keep. This file doesn't yet exist, but Python will make it for use if we use this code:
+The first line here *opens* an existing file, and the bit of code ```'r'``` inside the brackets indicates that we want to **read** from the file. But as we filter our words and decide to keep some and not others we will also need a file to save the words we want to keep. This file doesn't yet exist, but Python will make it for use if we use this code:
 
 ```python
 filteredwordfile = open('Hangman_words_filtered.txt', 'w')
