@@ -38,9 +38,11 @@ Next, create a file in your project. Do this by clicking on the **plus** sign at
 
 ![Click to add a file](add_file.png)
 
-This will open up a box where you can name your file. I used the name Hangman words.txt:
+This will open up a box where you can name your file. I used the name Hangman_words.txt:
 
 ![CName a file](name_file.png)
+
+(You can't actually see the underscore between Hangman and words, but it is there.)
 
 You can now paste your new wordlist into this new file:
 
@@ -49,7 +51,7 @@ You can now paste your new wordlist into this new file:
 Now we can use the same code as in the Hangman game to open our new file, read the words into Python, and convert the words into a Python list:
 
 ```python
-wordfile = open('Hangman words.txt', 'r')
+wordfile = open('Hangman_words.txt', 'r')
 wordlist = wordfile.read().splitlines()
 ```
 
@@ -58,7 +60,7 @@ Make sure the name of the new file (in quotes) is exactly the same as the name y
 The first line here *opens* an existing file, and the bit of code ```'r'``` inside the brackets indicates that we want to ***read** from the file. But as we filter our words and decide to keep some and not others we will also need a file to save the words we want to keep. This file doesn't yet exist, but Python will make it for use if we use this code:
 
 ```python
-filteredwordfile = open('Hangman words filtered.txt', 'w')
+filteredwordfile = open('Hangman_words_filtered.txt', 'w')
 ```
 
 The ```'w'``` inside the brackets indicates that we are going to ***write*** data to this file, and if the file doesn't exist then Python knows it has to create it. We have told Python to name this new file *Hangman words filtered.txt*. You won't see the new file immediately - first you will have to write something to it.
