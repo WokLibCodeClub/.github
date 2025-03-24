@@ -81,8 +81,10 @@ Here ```word``` is just a name for a Python variable - you can use any valid var
 
 (Notice that this line has to be indented.)
 
-What do we want to do if the length is equal to 7? Well we want to write the word into the new *Hangman words filtered.txt* file, which is done with this code:
+What do we want to do if the length is equal to 7? Well, we want to write the word into the new *Hangman words filtered.txt* file, which is done with this code:
 
 ```python
     filteredwordfile.write(word)
 ```
+
+(Notice that this line is indented *twice*, once for the ```for``` loop, and again for the ```if``` block.)
