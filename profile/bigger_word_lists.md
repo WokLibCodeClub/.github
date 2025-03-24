@@ -48,6 +48,8 @@ You can now paste your new wordlist into this new file:
 
 ![CAdd words](word_list.png)
 
+I've only pasted 13 words into my list, so my code will run very quickly. This is a good tactic when you are developing a programme - test it and make sure it works with a small number of datapoints, then when you're sure it's all working you can put in your full set of words.
+
 Now we can use the same code as in the Hangman game to open our new file, read the words into Python, and convert the words into a Python list:
 
 ```python
@@ -63,7 +65,7 @@ The first line here *opens* an existing file, and the bit of code ```'r'``` insi
 filteredwordfile = open('Hangman_words_filtered.txt', 'w')
 ```
 
-The ```'w'``` inside the brackets indicates that we are going to ***write*** data to this file, and if the file doesn't exist then Python knows it has to create it. We have told Python to name this new file *Hangman words filtered.txt*. You won't see the new file immediately - first you will have to write something to it.
+The ```'w'``` inside the brackets indicates that we are going to ***write*** data to this file, and if the file doesn't exist then Python knows it has to create it. We have told Python to name this new file *Hangman_words_filtered.txt*. You won't see the new file immediately - first you will have to write something into it.
 
 ### a ```for``` loop to go through all the words
 
@@ -81,10 +83,12 @@ Here ```word``` is just a name for a Python variable - you can use any valid var
 
 (Notice that this line has to be indented.)
 
-What do we want to do if the length is equal to 7? Well, we want to write the word into the new *Hangman words filtered.txt* file, which is done with this code:
+What do we want to do if the length is equal to 7? Well, we want to write the word into the new *Hangman_words_filtered.txt* file, which is done with this code:
 
 ```python
     filteredwordfile.write(word)
 ```
 
 (Notice that this line is indented *twice*, once for the ```for``` loop, and again for the ```if``` block.)
+
+When you run this code you will see a new file appear beside the original word list - we have used the file ```write()``` method to write a word into the file. But if you 
