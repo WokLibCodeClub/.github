@@ -91,4 +91,24 @@ What do we want to do if the length is equal to 7? Well, we want to write the wo
 
 (Notice that this line is indented *twice*, once for the ```for``` loop, and again for the ```if``` block.)
 
-When you run this code you will see a new file appear beside the original word list - we have used the file ```write()``` method to write a word into the file. But if you 
+When you run this code you will see a new file appear beside the original word list - we have used the file ```write()``` method to write a word into the file. But if you look inside the new file you will see that all the seven letter words have been run together on the same line with no gaps.
+
+To fix this we also need to write a *newline* character after each ```word``` that we write to the file. The Python newline character is ```'\n'``` - note this has to be put inside quotes. When we write the variable ```word``` to the new file we are writing a piece of text, so we can use the arithmetic ```+``` sign to add the new line character onto the end of this (because we are allowed to use ```+``` to join text strings together, as well as to add numbers). So change the last line to
+
+```python
+    filteredwordfile.write(word + '\n')
+```
+
+and now when you run the code you will see all the words on their own line.
+
+Of course, it would be strange to have a word list which only consisted of 7-letter words, so let's find ways to include words within a range of lengths - say from 6 letters to 11 letters. There are lots of ways you can do this (there are *always* lots of different ways of doing something with Python), and they will mostly involve changing the ```if``` line.
+
+####a
+
+We can use ```if``` to test two different conditions at the same time using the key word ```and```. So to pick out words of length from 6 to 11 we could use:
+
+```python
+  if len(word) > 5 and len(word) < 12:
+```
+
+
