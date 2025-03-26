@@ -103,7 +103,7 @@ and now when you run the code you will see all the words on their own line.
 
 Of course, it would be strange to have a word list which only consisted of 7-letter words, so let's find ways to include words within a range of lengths - say from 6 letters to 11 letters. There are lots of ways you can do this (there are *always* lots of different ways of doing something with Python), and they will mostly involve changing the ```if``` line.
 
-####a
+#### a Using multiple tests with ```if```
 
 We can use ```if``` to test two different conditions at the same time using the key word ```and```. So to pick out words of length from 6 to 11 we could use:
 
@@ -111,4 +111,28 @@ We can use ```if``` to test two different conditions at the same time using the 
   if len(word) > 5 and len(word) < 12:
 ```
 
+This checks the length of the word and writes it to the file if its length is more than 5 AND less than 12.
 
+#### b Using the Python key word ```in```
+
+The key word ```in``` is for checking if an item is in a list or not. It produces an answer which is either ```True``` or ```False``` which is exactly what we need for the Python ```if``` statement. You can try this out in the [Python console](https:\\trinket.io\concole). If you type in the console (don't type the >>>)
+
+```
+>>> 'cat' in ['dog', 'cat', 'rabbit']
+```
+
+it will give the answer ```True```, because, obviously, ```'cat'``` is one of the items in the list. If you type
+
+```
+>>> 'elephant' in ['dog', 'cat', 'rabbit']
+```
+
+it will give the answer ```False```, because ```elephant``` is not one of the items in the list.
+
+We could use the ```in``` key word in our filtering programme like this:
+
+```
+  if len(word) in [6, 7, 8, 9, 10, 11]:
+```
+
+This will select any word that has a length which is one of the numbers in the list. In fact it gives the same result as the last example, but with slightly less typing.
