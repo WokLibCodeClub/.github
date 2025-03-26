@@ -115,7 +115,7 @@ This checks the length of the word and writes it to the file if its length is mo
 
 #### b Using the Python key word ```in```
 
-The key word ```in``` is for checking if an item is in a list or not. It produces an answer which is either ```True``` or ```False``` which is exactly what we need for the Python ```if``` statement. You can try this out in the [Python console](https:\\trinket.io\console). If you type in the console (don't type the >>>)
+The key word ```in``` is for checking if an item is in a list or not. It produces an answer which is either ```True``` or ```False``` which is exactly what we need for the Python ```if``` statement. You can try this out in the [Python console](https://trinket.io/console). If you type in the console (don't type the >>>)
 
 ```
 >>> 'cat' in ['dog', 'cat', 'rabbit']
