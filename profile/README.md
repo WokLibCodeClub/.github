@@ -16,7 +16,7 @@ Our next sessions will take place on Saturday 5th April 2025 at Wokingham Librar
 
 ## Scratch session, Saturday 5th April 2025 at 10.30 am
 
-At the next Scratch session we will be building a project with an Easter theme. Keep looking here for more details...
+At the next Scratch session we will be building a project with an Easter theme.  Easter Day is 20th April - to get you prepared for thinking all about Easter eggs we'll make a game, which we've called Easter Egg catch.  This is the link to the starter project - [Easter Eggs Catch - STARTER](https://scratch.mit.edu/projects/1156459190/).   You can download the instructions in a powerpoint file by folowing this link [Easter Egg Catch](https://1drv.ms/p/c/ac7401dee5ed2d67/EWr7Hm45M4pDmtgBBCe5SCoBYxfkSJn6gDyW-c5S4IfLBQ?e=DTGP5t), which will open the file in Powerpoint on your computer.
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
