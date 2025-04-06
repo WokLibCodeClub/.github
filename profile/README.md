@@ -12,19 +12,15 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 5th April 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 26th April 2025 at Wokingham Library.
 
-## Scratch session, Saturday 5th April 2025 at 10.30 am
+## Scratch session, Saturday 26th April 2025 at 10.30 am
 
 At the next Scratch session we will be building a project with an Easter theme.  Easter Day is 20th April - to get you prepared for thinking all about Easter eggs we'll make a game, which we've called Easter Egg catch.  This is the link to the starter project - [Easter Eggs Catch - STARTER](https://scratch.mit.edu/projects/1156459190/).   You can download the instructions in a Powerpoint file by following this link [Easter Egg Catch](https://1drv.ms/p/c/ac7401dee5ed2d67/EWr7Hm45M4pDmtgBBCe5SCoBYxfkSJn6gDyW-c5S4IfLBQ?e=DTGP5t), which will open the file in Powerpoint on your computer.
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem on Saturday.
-
-#### Finishing the St David's Day Collecting Game
-
-If you didn't complete the *St David's Day Collecting Game* project which we started on March 1st (*St David's Day*) here are the links to the files which will help you: there is a Scratch starter project for the game and the link is [here](https://scratch.mit.edu/projects/1137859298/); you can download the instructions in a powerpoint file by following this link: [St Davids Day Collecting Game.pptx](https://1drv.ms/p/c/0ea54730735a1344/EVWCHUGJPLRFh1hxOzgcgwUBuhLQVvlTEo0wVzNrG7snHA?e=0TcQD8), which will open the file in Powerpoint on your computer.
 
 ### Confirming your Scratch account so that you can *SHARE* your projects
 
@@ -57,11 +53,11 @@ Some students might like to continue with a bit more of the [Rapid Router game](
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 5th April 2025 at 11.45 am
+## Python session, 26th April 2025 at 11.45 am
 
-We will continue our "free" Python sessions on 5th April, with no code-along project and students working on their own projects following online instructions. There are some suggestions for projects suitable for different levels of Python experience below.
+We will continue our "free" Python sessions on 26th April, with no code-along project and students working on their own projects following online instructions. There are some suggestions for projects suitable for different levels of Python experience below.
 
-Some who have completed the Hangman project (see below) were wanting to use a larger word list, but found problems with formatting and sorting the list. If you click [here](bigger_word_lists.md) you will find some ideas about using larger word lists.
+Some who have completed the Hangman project (see below) were wanting to use a larger word list, but found problems with formatting and sorting the list. If you click [here](bigger_word_lists.md) you will find some ideas about using larger word lists. (NB: This section will shortly be moved from this page to the end of the Hangman project - see the link to the project below.)
 
 You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
