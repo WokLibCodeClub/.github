@@ -16,7 +16,7 @@ Our next sessions will take place on Saturday 26th April 2025 at Wokingham Libra
 
 ## Scratch session, Saturday 26th April 2025 at 10.30 am
 
-On Saturday we will be building Scratch projects which use C L O N E S and learning about how these are used in projects. There is a powerpoint file with some instructions for building your own clone projects and you can look at it [here](https://1drv.ms/p/c/0ea54730735a1344/EaIhfrMepT1NmWJw1uEm6xEBeQj0usfzzUkn-8PmNd4TjQ?e=oWNDRc). We have based these instructions on some excellent Youtube tutorials on clones and cloning. If you want to watch the Youtube videos (there are four parts) click on [this link]([https://www.youtube.com/watch?v=deChHQ7G46o](https://www.youtube.com/playlist?list=PLtAXMHI3lbo8HhvpZQQRUcL_4WJEIrvaR)). 
+On Saturday we will be building Scratch projects which use C L O N E S and learning about how these are used in projects. There is a powerpoint file with some instructions for building your own clone projects and you can look at it [here](https://1drv.ms/p/c/0ea54730735a1344/EaIhfrMepT1NmWJw1uEm6xEBeQj0usfzzUkn-8PmNd4TjQ?e=oWNDRc). We have based these instructions on some excellent Youtube tutorials on clones and cloning. If you want to watch the Youtube videos (there are four parts) click on [this link](https://www.youtube.com/playlist?list=PLtAXMHI3lbo8HhvpZQQRUcL_4WJEIrvaR)). 
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
