@@ -49,7 +49,7 @@ If you want to find our Scratch studio, so you can see the other projects there,
 
 4. You will now see the icon for the studio. Click on this to open the studio.
 
-Alternatively, you can use the URL for the page, which is [https://scratch.mit.edu/studios/35685710/](https://scratch.mit.edu/studios/35685710/)
+Alternatively, you can use the URL for the page, which is [scratch.mit.edu/studios/35685710/](https://scratch.mit.edu/studios/35685710/)
 
 ### Rapid Router
 
@@ -61,7 +61,13 @@ If you want to save your progress in *Code for Life* as you progress through the
 
 ## Python session, 3rd May 2025 at 11.45 am
 
-We will continue our "free" Python sessions on 26th April, with no code-along project and students working on their own projects following online instructions. There are some suggestions for projects suitable for different levels of Python experience below.
+On Saturday 3rd May 2025 we will be using Python to write code for BBC microbits:
+
+
+
+We do the coding online using the microbit:Python editor whiche is at [python.microbit.org/v/3](https://python.microbit.org/v/3). Unfortunately there is no facility to make an account or login to this editor, so we will probably save any code to a memory stick so it's available at following sessions.
+
+For anyone who doesn't want to code microbits we will be available to help with any students working on their own projects, following online instructions. There are some suggestions for projects suitable for different levels of Python experience below.
 
 Some who have completed the Hangman project (see below) were wanting to use a larger word list, but found problems with formatting and sorting the list. If you click [here](bigger_word_lists.md) you will find some ideas about using larger word lists. (NB: This section will shortly be moved from this page to the end of the Hangman project - see the link to the project below.)
 
