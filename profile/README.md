@@ -12,11 +12,13 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 26th April 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 3rd May 2025 at Wokingham Library.
 
-## Scratch session, Saturday 26th April 2025 at 10.30 am
+## Scratch session, Saturday 3rd May 2025 at 10.30 am
 
-On Saturday we will be building Scratch projects which use C L O N E S and learning about how these are used in projects. There is a powerpoint file with some instructions for building your own clone projects and you can look at it [here](https://1drv.ms/p/c/0ea54730735a1344/EaIhfrMepT1NmWJw1uEm6xEBeQj0usfzzUkn-8PmNd4TjQ?e=oWNDRc). We have based these instructions on some excellent Youtube tutorials on clones and cloning. If you want to watch the Youtube videos (there are four parts) click on [this link](https://www.youtube.com/playlist?list=PLtAXMHI3lbo8HhvpZQQRUcL_4WJEIrvaR).
+On Saturday we will be continue learning about Scratch C L O N E S and working on a project to use clones. 
+
+There is a powerpoint file with some instructions for building your own clone projects and you can look at it [here](https://1drv.ms/p/c/0ea54730735a1344/EaIhfrMepT1NmWJw1uEm6xEBeQj0usfzzUkn-8PmNd4TjQ?e=oWNDRc). We have based these instructions on some excellent Youtube tutorials on clones and cloning. If you want to watch the Youtube videos (there are four parts) click on [this link](https://www.youtube.com/playlist?list=PLtAXMHI3lbo8HhvpZQQRUcL_4WJEIrvaR).
 
 The link to the version of the Minifigs project which uses clones is [here](https://scratch.mit.edu/projects/1165114649).
 
@@ -47,6 +49,8 @@ If you want to find our Scratch studio, so you can see the other projects there,
 
 4. You will now see the icon for the studio. Click on this to open the studio.
 
+Alternatively, you can use the URL for the page, which is [https://scratch.mit.edu/studios/35685710/](https://scratch.mit.edu/studios/35685710/)
+
 ### Rapid Router
 
 Some students might like to continue with a bit more of the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website as some of our coders have been getting very enthusiastic about this. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions below:
@@ -55,7 +59,7 @@ Some students might like to continue with a bit more of the [Rapid Router game](
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 26th April 2025 at 11.45 am
+## Python session, 3rd May 2025 at 11.45 am
 
 We will continue our "free" Python sessions on 26th April, with no code-along project and students working on their own projects following online instructions. There are some suggestions for projects suitable for different levels of Python experience below.
 
