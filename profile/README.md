@@ -65,7 +65,7 @@ On Saturday 3rd May 2025 we will be using Python to write code for BBC microbits
 
 ![picture of bbc microbit](bbc_microbit.png)
 
-We do the coding online using the microbit:Python editor whiche is at [python.microbit.org/v/3](https://python.microbit.org/v/3). Unfortunately there is no facility to make an account or login to this editor, so we will probably save any code to a memory stick so it's available at following sessions.
+We do the coding online using the microbit:Python editor which is at [python.microbit.org/v/3](https://python.microbit.org/v/3). Unfortunately there is no facility to make an account or login to this editor, so we will probably save any code to a memory stick so it's available at following sessions.
 
 For anyone who doesn't want to code microbits we will be available to help with any students working on their own projects, following online instructions. There are some suggestions for projects suitable for different levels of Python experience below.
 
