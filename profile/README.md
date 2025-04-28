@@ -16,7 +16,7 @@ Our next sessions will take place on Saturday 3rd May 2025 at Wokingham Library.
 
 ## Scratch session, Saturday 3rd May 2025 at 10.30 am
 
-On Saturday we will building a game called *Flappy Parrot* which uses C L O N E S (which we learnt about last week). There is a starter project [here](https://scratch.mit.edu/projects/169322077/editor/) and we are making a powerpoint file with some instructions. We will post the link to the powerpoint later. 
+On Saturday we will building a game called *Flappy Parrot* which uses C L O N E S (which we learnt about last week). We are making a starter project and a powerpoint file with some instructions. We will post the links to these later. 
 
 If you missed last week's session, and you want to know about making clones, there is a powerpoint file with some instructions for making clones [here](https://1drv.ms/p/c/0ea54730735a1344/EaIhfrMepT1NmWJw1uEm6xEBeQj0usfzzUkn-8PmNd4TjQ?e=oWNDRc). We have based these instructions on some excellent Youtube tutorials on clones and cloning. If you want to watch the Youtube tutorials (there are four videos) click on [this link](https://www.youtube.com/playlist?list=PLtAXMHI3lbo8HhvpZQQRUcL_4WJEIrvaR).
 
