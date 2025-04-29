@@ -87,9 +87,7 @@ Here are some suggestions for projects. If you follow the links you will find st
 
 1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
 
-2. [Hangman](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) This is a very old game which people used to play using paper and pencil. In the computer version you have to guess a mystery word by suggesting letters and finding out if they are in the word or not. If you don't get the word in six guesses you will be hanged!!! This project also shows how you can import data from a text file into a Python project.
-
-Some who have completed the Hangman project (see below) were wanting to use a larger word list, but found problems with formatting and sorting the list. If you click [here](bigger_word_lists.md) you will find some ideas about using larger word lists. (NB: This section will shortly be moved from this page to the end of the Hangman project - see the link to the project below.)
+2. [Hangman](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) This is a very old game which people used to play using paper and pencil. In the computer version you have to guess a mystery word by suggesting letters and finding out if they are in the word or not. If you don't get the word in six guesses you will be hanged!!! This project also shows how you can import data from a text file into a Python project. We have updated the instructions to show how to import your own word list into the game.
 
 3. [Python clock](https://github.com/WokLibCodeClub/Python-Clock/blob/master/README.md). We made this project when the classroom clock broke, and we needed to be able to tell the time to know when to go home. You will make a digital clock with Python first, then extend it to make a round clock with hands, using Python turtles.
 
