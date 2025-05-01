@@ -69,7 +69,7 @@ We do the coding online using the microbit:Python editor which is at [python.mic
 
 For anyone who doesn't want to code microbits we will be available to help students working on their own projects, following online instructions. Those that are very new to Python might prefer to continue with the introductory *Hello Python* set of instructions, as this might be less confusing than trying to code the microbits.
 
-You will need an account with [trinket](https://trinket.io/) for this session, so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
+You should have an account with [trinket](https://trinket.io/) for this session, (although we won't actually be using trinket with the microbits) so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
