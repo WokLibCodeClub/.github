@@ -12,9 +12,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 3rd May 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 24th May 2025 at Wokingham Library.
 
-## Scratch session, Saturday 3rd May 2025 at 10.30 am
+## Scratch session, Saturday 24th May 2025 at 10.30 am
 
 On Saturday we will building a game called *Flappy Parrot* (it's a bit like the well-known game Flappy Bird) which uses C L O N E S (which we learnt about last week). We have made a starter project for this, and the link is [here](https://scratch.mit.edu/projects/1167247767), and a powerpoint file with some instructions. The link to the powerpoint presentation is [here](https://1drv.ms/p/c/0ea54730735a1344/EVmiO9ExKntIgekSxeVq3_YBqf9pHpQTXCzLyKv-9AoIeg?e=8k63cP).
 
@@ -59,13 +59,13 @@ Some students might like to continue with a bit more of the [Rapid Router game](
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 3rd May 2025 at 11.45 am
+## Python session, 24th May 2025 at 11.45 am
 
-On Saturday 3rd May 2025 we will be using Python to write code for BBC microbits:
+On Saturday 24th May 2025 we will be using Python to write code for BBC microbits:
 
 ![picture of bbc microbit](bbc_microbit.png)
 
-We do the coding online using the microbit:Python editor which is at [python.microbit.org/v/3](https://python.microbit.org/v/3). Unfortunately there is no facility to make an account or login to this editor, so we will probably save any code to a memory stick so it's available at following sessions.
+(We meant to do this at the last session, but decided to postpone it as quite a few students were absent.) We do the coding online using the microbit:Python editor which is at [python.microbit.org/v/3](https://python.microbit.org/v/3). Unfortunately there is no facility to make an account or login to this editor, so we will probably save any code to a memory stick so it's available at following sessions.
 
 For anyone who doesn't want to code microbits we will be available to help students working on their own projects, following online instructions. Those that are very new to Python might prefer to continue with the introductory *Hello Python* set of instructions, as this might be less confusing than trying to code the microbits.
 
