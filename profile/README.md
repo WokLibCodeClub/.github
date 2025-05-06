@@ -67,7 +67,7 @@ On Saturday 24th May 2025 we will be using Python to write code for BBC micro:bi
 
 (We meant to do this at the last session, but decided to postpone it as quite a few students were absent.) 
 
-We will do the coding online using the micro:bit Python Editor which you can find at [python.microbit.org/v/3](https://python.microbit.org/v/3). However, as there is no facility to make an account or login to this editor, we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [https://classroom.microbit.org/join](https://classroom.microbit.org/join). 
+We will do the coding online using the micro:bit Python Editor which you can find at [python.microbit.org/v/3](https://python.microbit.org/v/3). However, as there is no facility to make an account or login to this editor, we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join). 
 
 For anyone who doesn't want to code microbits we will be available to help students working on their own projects, following online instructions. Those that are very new to Python might prefer to continue with the introductory *Hello Python* set of instructions, as this might be less confusing than trying to code the microbits.
 
