@@ -16,9 +16,11 @@ Our next sessions will take place on Saturday 24th May 2025 at Wokingham Library
 
 ## Scratch session, Saturday 24th May 2025 at 10.30 am
 
-On Saturday we will building a game called *Flappy Parrot* (it's a bit like the well-known game Flappy Bird) which uses C L O N E S (which we learnt about last week). We have made a starter project for this, and the link is [here](https://scratch.mit.edu/projects/1167247767), and a powerpoint file with some instructions. The link to the powerpoint presentation is [here](https://1drv.ms/p/c/0ea54730735a1344/EVmiO9ExKntIgekSxeVq3_YBqf9pHpQTXCzLyKv-9AoIeg?e=8k63cP).
+On Saturday we will finish building the *Flappy Parrot* game which people started at the last session. Hopefully you can share your projects for everyone to try! In case you weren't at the last session we have made a starter project for this game, and the link is [here](https://scratch.mit.edu/projects/1167247767), as well as a powerpoint file with some instructions. The link to the powerpoint presentation is [here](https://1drv.ms/p/c/0ea54730735a1344/EVmiO9ExKntIgekSxeVq3_YBqf9pHpQTXCzLyKv-9AoIeg?e=8k63cP).
 
-If you missed last week's session, and you want to know about making clones, there is a powerpoint file with some instructions for making clones [here](https://1drv.ms/p/c/0ea54730735a1344/EaIhfrMepT1NmWJw1uEm6xEBeQj0usfzzUkn-8PmNd4TjQ?e=oWNDRc). We have based these instructions on some excellent Youtube tutorials on clones and cloning. If you want to watch the Youtube tutorials (there are four videos) click on [this link](https://www.youtube.com/playlist?list=PLtAXMHI3lbo8HhvpZQQRUcL_4WJEIrvaR).
+If you have finished *Flappy Parrot* already and are looking for something else to try we have links to other projects for animating your name, making interactive birthday cards and several more...
+
+If you missed our recent session on clones, and you want to how to use clones, there is a powerpoint file with some instructions for making clones [here](https://1drv.ms/p/c/0ea54730735a1344/EaIhfrMepT1NmWJw1uEm6xEBeQj0usfzzUkn-8PmNd4TjQ?e=oWNDRc). We have based these instructions on some excellent Youtube tutorials on clones and cloning. If you want to watch the Youtube tutorials (there are four videos) click on [this link](https://www.youtube.com/playlist?list=PLtAXMHI3lbo8HhvpZQQRUcL_4WJEIrvaR).
 
 The link to the version of the Minifigs project which uses clones is [here](https://scratch.mit.edu/projects/1165114649).
 
