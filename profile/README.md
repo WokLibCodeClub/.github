@@ -65,7 +65,7 @@ If you want to save your progress in *Code for Life* as you progress through the
 
 ## Python session, 7th June 2025 at 11.45 am
 
-On Saturday 7th June 2025 we *will* be using Python to write code for BBC micro:bits (after two previous planned sessions where we cancelled this as we had lower attendance because of bank holidays).
+On Saturday 7th June 2025 we *will* write Python code for BBC micro:bits (after two previous planned sessions where we cancelled this as we had lower attendance because of bank holidays).
 
 ![picture of bbc microbit](bbc_microbit.png)
 
