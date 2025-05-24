@@ -18,7 +18,7 @@ Our next sessions will take place on Saturday 7th June 2025 at Wokingham Library
 
 At the last session we made very spectacular patterns with our *Spiralizer* codes. At the next session we can continue with those or move on to other projects which we will show you nearer the time.
 
-*Sprializer*
+*Spiralizer*
 
 ![spiralizer picture](spiralizer.png)
 
