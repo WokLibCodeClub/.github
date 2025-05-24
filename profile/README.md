@@ -63,15 +63,13 @@ Some students might like to continue with a bit more of the [Rapid Router game](
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 24th May 2025 at 11.45 am
+## Python session, 7th June 2025 at 11.45 am
 
-On Saturday 24th May 2025 we will be using Python to write code for BBC micro:bits.
+On Saturday 7th June 2025 we *will* be using Python to write code for BBC micro:bits (after two previous planned sessions where we cancelled this as we had lower attendance because of bank holidays).
 
 ![picture of bbc microbit](bbc_microbit.png)
 
-(We meant to do this at the last session, but decided to postpone it as quite a few students were absent.) 
-
-We will do the coding online using the micro:bit Python Editor which you can find at [python.microbit.org/v/3](https://python.microbit.org/v/3). However, as there is no facility to make an account or login to this editor, we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join). 
+We will do the coding online using the micro:bit Python Editor but we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join). The microbit Python editor is at [python.microbit.org/v/3](https://python.microbit.org/v/3) but there is no facility to make an account or save your code online with this editor. 
 
 For anyone who doesn't want to code microbits we will be available to help students working on their own projects, following online instructions. Those that are very new to Python might prefer to continue with the introductory *Hello Python* set of instructions, as this might be less confusing than trying to code the microbits.
 
