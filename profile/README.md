@@ -12,21 +12,19 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 24th May 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 7th June 2025 at Wokingham Library.
 
-## Scratch session, Saturday 24th May 2025 at 10.30 am
+## Scratch session, Saturday 7th June 2025 at 10.30 am
 
-On Saturday we will finish building the *Flappy Parrot* game which people started at the last session. Hopefully you can share your projects for everyone to try! In case you weren't at the last session we have made a starter project for this game, and the link is [here](https://scratch.mit.edu/projects/1167247767), as well as a powerpoint file with some instructions. The link to the powerpoint presentation is [here](https://1drv.ms/p/c/0ea54730735a1344/EVmiO9ExKntIgekSxeVq3_YBqf9pHpQTXCzLyKv-9AoIeg?e=8k63cP).
+At the last session we made very spectacular patterns with our *Spiralizer* codes. At the next session we can continue with those or move on to other projects which we will show you nearer the time.
 
-If you have finished *Flappy Parrot* already and are looking for something challenging to try we suggest a really clever project which makes fantastically exciting patterns, by using a lot of clones. 
+*Sprializer*
 
 ![spiralizer picture](spiralizer.png)
 
-It's called *Spiralizer* and you can find the instructions [here](https://1drv.ms/b/c/0ea54730735a1344/EQf70MFmMs1Ntp4cd32DguQB_nYDMBQ5eXDOpA2UQ-FamQ?e=5lVkts).
+The instructions for the spiralizer are [here](https://1drv.ms/b/c/0ea54730735a1344/EQf70MFmMs1Ntp4cd32DguQB_nYDMBQ5eXDOpA2UQ-FamQ?e=5lVkts).
 
-If you missed our recent session on clones, and you want to how to use clones, there is a powerpoint file with some instructions for making clones [here](https://1drv.ms/p/c/0ea54730735a1344/EaIhfrMepT1NmWJw1uEm6xEBeQj0usfzzUkn-8PmNd4TjQ?e=oWNDRc). We have based these instructions on some excellent Youtube tutorials on clones and cloning. If you want to watch the Youtube tutorials (there are four videos) click on [this link](https://www.youtube.com/playlist?list=PLtAXMHI3lbo8HhvpZQQRUcL_4WJEIrvaR).
-
-The link to the version of the Minifigs project which uses clones is [here](https://scratch.mit.edu/projects/1165114649).
+If you want to keep working on your *Flappy Parrot* game the starter project for this game is [here](https://scratch.mit.edu/projects/1167247767), and a powerpoint presentation with some instructions is [here](https://1drv.ms/p/c/0ea54730735a1344/EVmiO9ExKntIgekSxeVq3_YBqf9pHpQTXCzLyKv-9AoIeg?e=8k63cP).
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
