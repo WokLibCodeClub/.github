@@ -26,7 +26,7 @@ There are instructions for this project in a powerpoint presentation and you can
 
 ![spiralizer picture](spiralizer.png)
 
-At the last session we made very spectacular patterns with our *Spiralizer* codes. The instructions for the spiralizer are [here](https://1drv.ms/b/c/0ea54730735a1344/EQf70MFmMs1Ntp4cd32DguQB_nYDMBQ5eXDOpA2UQ-FamQ?e=VQ9RKl).
+At the last session we made very spectacular patterns with our *Spiralizer* codes. The instructions for the spiralizer are [here](https://1drv.ms/b/c/0ea54730735a1344/EQf70MFmMs1Ntp4cd32DguQBASdeLp46l-nx9IV9cOcJcw?e=FYLssF).
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
