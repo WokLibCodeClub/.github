@@ -16,15 +16,17 @@ Our next sessions will take place on Saturday 7th June 2025 at Wokingham Library
 
 ## Scratch session, Saturday 7th June 2025 at 10.30 am
 
-At the last session we made very spectacular patterns with our *Spiralizer* codes. At the next session we can continue with those or move on to other projects which we will show you nearer the time.
+We will be doing another project which involves clones - this time hundreds of them! The project is called *Fractal Tree*.
+
+![picture of fractal tree](Fractal_tree_2_June_2025.png)
+
+There are instructions for this project in a powerpoint presentation and you can open it [here](https://1drv.ms/p/c/0ea54730735a1344/EdYJ3QovxNREhBrNU1KbmjoB0K4XffvJy3EELuLU9-yHLw?e=t0Y1LP).
 
 *Spiralizer*
 
 ![spiralizer picture](spiralizer.png)
 
-The instructions for the spiralizer are [here](https://1drv.ms/b/c/0ea54730735a1344/EQf70MFmMs1Ntp4cd32DguQB_nYDMBQ5eXDOpA2UQ-FamQ?e=5lVkts).
-
-If you want to keep working on your *Flappy Parrot* game the starter project for this game is [here](https://scratch.mit.edu/projects/1167247767), and a powerpoint presentation with some instructions is [here](https://1drv.ms/p/c/0ea54730735a1344/EVmiO9ExKntIgekSxeVq3_YBqf9pHpQTXCzLyKv-9AoIeg?e=8k63cP).
+At the last session we made very spectacular patterns with our *Spiralizer* codes. The instructions for the spiralizer are [here](https://1drv.ms/b/c/0ea54730735a1344/EQf70MFmMs1Ntp4cd32DguQBASdeLp46l-nx9IV9cOcJcw?e=EQlYli).
 
 You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
