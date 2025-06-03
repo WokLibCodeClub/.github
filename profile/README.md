@@ -16,11 +16,11 @@ Our next sessions will take place on Saturday 7th June 2025 at Wokingham Library
 
 ## Scratch session, Saturday 7th June 2025 at 10.30 am
 
-We will be doing another project which involves clones - this time hundreds of them! The project is called *Fractal Tree*.
+We will be doing another project which involves clones - the project is called *Fractal Tree*.
 
 ![picture of fractal tree](Fractal_tree_2_June_2025.png)
 
-There are instructions for this project in a powerpoint presentation and you can open it [here](https://1drv.ms/p/c/0ea54730735a1344/EdYJ3QovxNREhBrNU1KbmjoB0K4XffvJy3EELuLU9-yHLw?e=t0Y1LP).
+A fractal is a type of mathematical pattern which keeps repeating itself but at a smaller and smaller scale. The tree is a good example of a fractal which occurs in nature. There are instructions for this project in a powerpoint presentation and you can open it [here](https://docs.google.com/presentation/d/1bg9U77k_yLICiHZSV_-RAOImHv9EkGVO/edit?usp=sharing&ouid=116750909637562215455&rtpof=true&sd=true).
 
 *Spiralizer*
 
