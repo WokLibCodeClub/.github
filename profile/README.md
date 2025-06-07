@@ -22,11 +22,15 @@ Actually it won't be a Scratch session - it will be a session learning to write 
 
 The coding for this is very similar to Scratch, so, if you know Scratch, you will have no trouble with coding the micro:bit.
 
+![example of makecode](makecode_example.png)
 
+We will make a simple calculator, and go on to use the micro:bits to send radio messages to each other!
 
-We will be doing another project which involves clones - the project is called *Fractal Tree*.
+### Previous projects
 
-![picture of fractal tree](Fractal_tree_2_June_2025.png)
+We have been making Scratch projects which use clones recently. If you want to catch up on these here are the links:
+
+*Fractal Tree*
 
 A fractal is a type of mathematical pattern which keeps repeating itself but at a smaller and smaller scale. The tree is a good example of a fractal which occurs in nature. There are instructions for this project in a powerpoint presentation and you can open it [here](https://docs.google.com/presentation/d/1bg9U77k_yLICiHZSV_-RAOImHv9EkGVO/edit?usp=sharing&ouid=116750909637562215455&rtpof=true&sd=true).
 
@@ -34,9 +38,9 @@ A fractal is a type of mathematical pattern which keeps repeating itself but at 
 
 ![spiralizer picture](spiralizer.png)
 
-At the last session we made very spectacular patterns with our *Spiralizer* codes. The instructions for the spiralizer are [here](https://drive.google.com/file/d/1DwDC3KtqpalZgtQLlFmQtvtUXmhmzg7S/view?usp=sharing).
+This project makes spectacular patterns with not much code. The instructions for the spiralizer are [here](https://drive.google.com/file/d/1DwDC3KtqpalZgtQLlFmQtvtUXmhmzg7S/view?usp=sharing).
 
-You will need a Scratch account for this session, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
+You will need a Scratch account for these projects, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem on Saturday.
 
