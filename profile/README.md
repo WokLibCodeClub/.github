@@ -12,9 +12,17 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 7th June 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 28th June 2025 at Wokingham Library.
 
-## Scratch session, Saturday 7th June 2025 at 10.30 am
+## Scratch session, Saturday 28th June 2025 at 10.30 am
+
+Actually it won't be a Scratch session - it will be a session learning to write code for the BBC micro:bit
+
+![picture of bbc microbit](bbc_microbit.png)
+
+The coding for this is very similar to Scratch, so, if you know Scratch, you will have no trouble with coding the micro:bit.
+
+
 
 We will be doing another project which involves clones - the project is called *Fractal Tree*.
 
