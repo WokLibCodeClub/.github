@@ -81,9 +81,11 @@ If you want to save your progress in *Code for Life* as you progress through the
 
 On Saturday 28th June 2025 we will continue to write Python code for BBC micro:bits using the accelerometers to work out which way up the micro:bit is, and rotate the image - just like a phone!
 
-If we have time we will go on to make some radio controlled buggies:
+If we have time we will go on to write the code for some radio controlled buggies:
 
 ![microbit buggy](buggy.png)
+
+One micro:bit will be the controller and will send radio signals to the other micro:bit which is on the buggy.
 
 We will do the coding online using the micro:bit Python Editor but we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join). The microbit Python editor is at [python.microbit.org/v/3](https://python.microbit.org/v/3) but there is no facility to make an account or save your code online with this editor. 
 
