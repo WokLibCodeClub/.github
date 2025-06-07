@@ -26,6 +26,8 @@ The coding for this is very similar to Scratch, so, if you know Scratch, you wil
 
 We will make a simple calculator, and go on to use the micro:bits to send radio messages to each other!
 
+Instead of going to the Scratch page we will use the micro:bit makecode editor. You can find the editor at this link [makecode.microbit.org](https://makecode.microbit.org/), but during the session we will use a microbit *Classroom* as this is the easiest way of saving everybody's code. The link for the classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join).
+
 ### Previous projects
 
 We have been making Scratch projects which use clones recently. If you want to catch up on these here are the links:
