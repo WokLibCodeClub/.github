@@ -16,7 +16,7 @@ Our next sessions will take place on Saturday 5th July 2025 at Wokingham Library
 
 ## Scratch session, Saturday 5th July 2025 at 10.30 am
 
-We're going to do more coding with the BBC micro:bit
+Next Saturday we're going to do more coding with the BBC micro:bit
 
 ![picture of bbc microbit](bbc_microbit.png)
 
