@@ -12,21 +12,19 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 28th June 2025 at Wokingham Library.
+Our next sessions will take place on Saturday 5th July 2025 at Wokingham Library.
 
-## Scratch session, Saturday 28th June 2025 at 10.30 am
+## Scratch session, Saturday 5th July 2025 at 10.30 am
 
-Actually it won't be a Scratch session - it will be a session learning to write code for the BBC micro:bit
+We're going to do more coding with the BBC micro:bit
 
 ![picture of bbc microbit](bbc_microbit.png)
 
-The coding for this is very similar to Scratch, so, if you know Scratch, you will have no trouble with coding the micro:bit.
+This week we're going to code a step counter - so you can use a micro:bit to measure how far you've walked.
 
-![example of makecode](makecode_example.png)
+As at the last session we will use the micro:bit classroom framework, so everyone can have their code saved on the master computer. The link for the classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join) but you won't be able to join the session until next Saturday.
 
-We will make a simple calculator, and go on to use the micro:bits to send radio messages to each other!
-
-Instead of going to the Scratch page we will use the micro:bit makecode editor. You can find the editor at this link [makecode.microbit.org](https://makecode.microbit.org/), but during the session we will use a microbit *Classroom* as this is the easiest way of saving everybody's code. The link for the classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join).
+If you want to have a go at micro:bit coding you can do this at [makecode.microbit.org](https://makecode.microbit.org/). This web page includes a micro:bit simulator, so you can see what your code will do even if you don't have your own micro:bit.
 
 ### Previous projects
 
