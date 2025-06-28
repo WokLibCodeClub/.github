@@ -26,7 +26,7 @@ As at the last session we will use the micro:bit classroom framework, so everyon
 
 If you want to have a go at micro:bit coding you can do this at [makecode.microbit.org](https://makecode.microbit.org/). This web page includes a micro:bit simulator, so you can see what your code will do even if you don't have your own micro:bit.
 
-### Previous projects
+### Previous Scratch projects
 
 We have been making Scratch projects which use clones recently. If you want to catch up on these here are the links:
 
@@ -75,21 +75,19 @@ Some students might like to continue with a bit more of the [Rapid Router game](
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 28th June 2025 at 11.45 am
+## Python session, 5th July 2025 at 11.45 am
 
-On Saturday 28th June 2025 we will continue to write Python code for BBC micro:bits using the accelerometers to work out which way up the micro:bit is, and rotate the image - just like a phone!
-
-If we have time we will go on to write the code for some radio controlled buggies:
+Next Saturday we will use our experience with micro:bit radio signals to code radio-controlled buggies.
 
 ![microbit buggy](buggy.png)
 
-One micro:bit will be the controller and will send radio signals to the other micro:bit which is on the buggy.
+We will have to write the code for *two* micro:bits with a controller micro:bit sending instructions to another micro:bit on the buggy. 
 
-We will do the coding online using the micro:bit Python Editor but we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join). The microbit Python editor is at [python.microbit.org/v/3](https://python.microbit.org/v/3) but there is no facility to make an account or save your code online with this editor. 
+We will do the coding online using the micro:bit Python Editor but we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join), but you won't be able to join the session until next Saturday. If you want to try Python coding at home you can go to the microbit Python editor which is at [python.microbit.org/v/3](https://python.microbit.org/v/3). This web page has a micro:bit simulator, so you can check what the micro:bit would do, even if you don't have one of your own.
 
 For anyone who doesn't want to code microbits we will be available to help students working on their own projects, following online instructions. Those that are very new to Python might prefer to continue with the introductory *Hello Python* set of instructions, as this might be less confusing than trying to code the microbits.
 
-You should have an account with [trinket](https://trinket.io/) for this session, (although we won't actually be using trinket with the microbits) so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
+For regular Python coding you should have an account with [trinket](https://trinket.io/) so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
 
 Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
 
