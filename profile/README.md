@@ -83,7 +83,9 @@ Next Saturday we will use our experience with micro:bit radio signals to code ra
 
 We will have to write the code for *two* micro:bits with a controller micro:bit sending instructions to another micro:bit on the buggy. 
 
-We will do the coding online using the micro:bit Python Editor but we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join), but you won't be able to join the session until next Saturday. If you want to try Python coding at home you can go to the microbit Python editor which is at [python.microbit.org/v/3](https://python.microbit.org/v/3). This web page has a micro:bit simulator, so you can check what the micro:bit would do, even if you don't have one of your own.
+We will do the coding online using the micro:bit Python Editor but we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join), but you won't be able to join the session until next Saturday. 
+
+If you want to try Python coding at home you can go to the microbit Python editor which is at [python.microbit.org/v/3](https://python.microbit.org/v/3). This web page has a micro:bit simulator, so you can check what the micro:bit would do, even if you don't have one of your own.
 
 For anyone who doesn't want to code microbits we will be available to help students working on their own projects, following online instructions. Those that are very new to Python might prefer to continue with the introductory *Hello Python* set of instructions, as this might be less confusing than trying to code the microbits.
 
