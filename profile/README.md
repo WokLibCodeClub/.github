@@ -12,23 +12,13 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Next sessions
 
-Our next sessions will take place on Saturday 5th July 2025 at Wokingham Library.
+Code Club has now finished for the summer to let our volunteers have a well-earned break. The next sessions will take place in September 2025. Keep watching this page for more information.
 
-## Scratch session, Saturday 5th July 2025 at 10.30 am
-
-Next Saturday we're going to do more coding with the BBC micro:bit
-
-![picture of bbc microbit](bbc_microbit.png)
-
-This week we're going to code a step counter - so you can use a micro:bit to measure how far you've walked.
-
-As at the last session we will use the micro:bit classroom framework, so everyone can have their code saved on the master computer. The link for the classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join) but you won't be able to join the session until next Saturday.
-
-If you want to have a go at micro:bit coding you can do this at [makecode.microbit.org](https://makecode.microbit.org/). This web page includes a micro:bit simulator, so you can see what your code will do even if you don't have your own micro:bit.
+## The next Scratch session will take place on a Saturday in September at 10.30 am
 
 ### Previous Scratch projects
 
-We have been making Scratch projects which use clones recently. If you want to catch up on these here are the links:
+We made Scratch projects which used clones in some recent sessions of the summer term. If you want to catch up on these here are the links:
 
 *Fractal Tree*
 
@@ -38,11 +28,13 @@ A fractal is a type of mathematical pattern which keeps repeating itself but at 
 
 This project makes spectacular patterns with not much code. The instructions for the spiralizer are [here](https://drive.google.com/file/d/1DwDC3KtqpalZgtQLlFmQtvtUXmhmzg7S/view?usp=sharing).
 
-You will need a Scratch account for these projects, so if you don't have one already you should create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
+### Scratch account
 
-Please make sure you arrive so that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem on Saturday.
+You will need a Scratch account for the Code Club's Scratch sessions. If you don't have one already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
 
-### Confirming your Scratch account so that you can *SHARE* your projects
+Please make sure you arrive for the sessions early enough that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem.
+
+### *Confirming* your Scratch account so that you can *SHARE* your projects
 
 If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions to have Scratch resend the email.
 
@@ -55,7 +47,7 @@ The Code Club keeps a Scratch *studio* on the Scratch website, where our student
 If you want to find our Scratch studio, so you can see the other projects there, here are the steps you need to take:
 
 1. Log in to your Scratch account
-2. In the Search box at the top type in WLCC 2024-25
+2. In the Search box at the top type in WLCC 2025-2026
 
 ![find_studio1.png](find_studio1.png)
 
@@ -65,7 +57,7 @@ If you want to find our Scratch studio, so you can see the other projects there,
 
 4. You will now see the icon for the studio. Click on this to open the studio.
 
-Alternatively, you can use the URL for the page, which is [scratch.mit.edu/studios/35685710/](https://scratch.mit.edu/studios/35685710/)
+Alternatively, you can use the URL for the page, which is [https://scratch.mit.edu/studios/50686841](https://scratch.mit.edu/studios/50686841)
 
 ### Rapid Router
 
@@ -75,7 +67,7 @@ Some students might like to continue with a bit more of the [Rapid Router game](
 
 If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
 
-## Python session, 5th July 2025 at 11.45 am
+## The next Python session will take place on a Saturday in September at 11.45 am
 
 Next Saturday we will use our experience with micro:bit radio signals to code radio-controlled buggies.
 
