@@ -14,7 +14,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Code Club has now finished for the summer to let our volunteers have a well-earned break. The next sessions will take place in September 2025. Keep watching this page for more information.
 
-## The next Scratch session will take place on a Saturday in September at 10.30 am
+## Scratch (first session 10.30am to 11.30am)
+
+We will be back in September.
 
 ### Previous Scratch projects
 
@@ -42,60 +44,67 @@ Scratch has produced a page of information for parents. You can find it [here](h
 
 ### Finding the Code Club's Scratch *studio*
 
-The Code Club keeps a Scratch *studio* on the Scratch website, where our students can upload their projects for everyone else to see. **Note:** we only allow you to upload projects during our Scratch sessions at the library. At other times uploading is disabled. 
+The Code Club keeps a Scratch *studio* on the Scratch website, where our students can upload their projects for everyone else to see. Our studio for the past year's coding is called *WLCC 2024-25* and in it you can find lots of our students' projects which they have shared with the club.
 
-If you want to find our Scratch studio, so you can see the other projects there, here are the steps you need to take:
+(**Note:** we only allow you to upload projects during our Scratch sessions at the library. At other times uploading is disabled.)
 
-1. Log in to your Scratch account
-2. In the Search box at the top type in WLCC 2025-2026
+If you want to find our Scratch studio you can do a search on the Scratch website, or you can paste the link directly into your browser.
+
+#### Link to the Code Club's Studio for 2024 to 2025:
+
+[scratch.mit.edu/studios/35685710/](https://scratch.mit.edu/studios/35685710/)
+
+#### Search on the Scratch website
+
+1. Open the Scratch home page [scratch.mit.edu](https://scratch.mit.edu/)
+2. In the Search box at the top type in WLCC 2024-25
 
 ![find_studio1.png](find_studio1.png)
 
-3. When the search results appear it will probably say **Nothing Found**, so click on the heading Studios above the search results
+3. When the search results appear it will probably say **Nothing Found**, so click on the heading ***Studios*** above the search results
 
 ![find_studio2.png](find_studio2.png)
 
-4. You will now see the icon for the studio. Click on this to open the studio.
-
-Alternatively, you can use the URL for the page, which is [https://scratch.mit.edu/studios/50686841](https://scratch.mit.edu/studios/50686841)
+4. You will now see the icon for the Code Club Studio. Click on this to open the studio.
 
 ### Rapid Router
 
-Some students might like to continue with a bit more of the [Rapid Router game](https://www.codeforlife.education/rapidrouter) on the *Code For Life* website as some of our coders have been getting very enthusiastic about this. If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions below:
+As well as Scratch we do coding using a game called *Rapid Router* which is on the *Code for Life* website. This is an excellent way of practising the main coding blocks of repeating loops and if/else decision blocks. There are more than 100 levels, and they start at an easy level and quickly get more complicated. To try out the game go to [Rapid Router game](https://www.codeforlife.education/rapidrouter).
+
+If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions below:
 
 #### Signing up for a Code for Life account
+To make a *Code for Life* account you will need to use a parent's email address. Go to [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button.
 
-If you want to save your progress in *Code for Life* as you progress through the levels you can make a *Code for Life* account, and to do this you will need to use a parent's email address. We will show you how you can do this at the session, but you will need to do this at home during the week. The webpage for signing up is [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the Log in button.
+## Python (second session 11.45am to 12.45pm)
 
-## The next Python session will take place on a Saturday in September at 11.45 am
+We will be back in September.
 
-Next Saturday we will use our experience with micro:bit radio signals to code radio-controlled buggies.
+### Suggestions for Python projects
 
-![microbit buggy](buggy.png)
+For Python coders here are some suggestions of weblinks where you can find projects to try out over the summer:
 
-We will have to write the code for *two* micro:bits with a controller micro:bit sending instructions to another micro:bit on the buggy. 
+#### More complicated projects for coders with lots of Python experience
 
-We will do the coding online using the micro:bit Python Editor but we will actually run the session from a website called *micro:bit classroom*, where we will run a live session from the teaching computer, which everyone can join, with each student's code saved in a central file. The link for microbit:classroom is [classroom.microbit.org/join](https://classroom.microbit.org/join), but you won't be able to join the session until next Saturday. 
+These are projects described in YouTube videos where you can code along. We made these videos while the Code Club was operating online during the coronavirus pandemic.
 
-If you want to try Python coding at home you can go to the microbit Python editor which is at [python.microbit.org/v/3](https://python.microbit.org/v/3). This web page has a micro:bit simulator, so you can check what the micro:bit would do, even if you don't have one of your own.
+1. [Python Simulator](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/simulator.md) This project uses Python turtles to make a simulator - but you'll have to try the project to find out what we are simulating.
 
-For anyone who doesn't want to code microbits we will be available to help students working on their own projects, following online instructions. Those that are very new to Python might prefer to continue with the introductory *Hello Python* set of instructions, as this might be less confusing than trying to code the microbits.
+2. [Python Solar System Model](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/planets.md) We code up an animated diagram of the planets of the inner Solar System, and try to ensure that the planets are all the correct size relative to each other, and they go round the sun at the correct speed, relative to each other.
 
-For regular Python coding you should have an account with [trinket](https://trinket.io/) so if you don't have one already you should create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to sign up.
+3. [The Ancient Game of Nim for Python](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/nim.md) We use multiple turtles to represent matches in a very old game where two players take matches from a pile according to certain rules, and win by forcing the other player to take the last match.
 
-Please make sure you arrive so that you have time to log in to your trinket account and be ready to start coding at 11.45 am.
+4. [Python Fractal Tree](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/tree.md) This project teaches a special type of function, called a *recursive function*, which allows us to draw really complex patterns using only a few lines of code.
 
-Here are some suggestions for projects suitable for different levels of Python experience:
+These projects are part of a series of projects, and you can find the full list at [OnlineCodeClub](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/README.md)
 
-### Projects to compile yourself from online instructions
+#### Challenges for more experienced Python coders:
 
-#### Project for those with very little Python experience:
+We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
 
-We suggest following our beginners Python course called *Hello Python* which you can find [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
+&nbsp;&nbsp;[https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
 
-#### Projects for those who have done some of the first Python projects already:
-
-Here are some suggestions for projects. If you follow the links you will find step by step instructions for building up your project:
+#### Projects for those who have done some of the beginner Python projects already:
 
 1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
 
@@ -105,8 +114,8 @@ Here are some suggestions for projects. If you follow the links you will find st
 
 4. [Space Race](https://github.com/WokLibCodeClub/SpaceRace/blob/master/README.md). Move your rocket from the bottom to the top of the screen - but if you get hit by an asteroid on the way you will be instantly transported back to the start! This is a re-creation of an arcade game which was first invented in the 1970s. The instructions will show you how to build the game, but they don't give a complete explanation of how the code is actually working. You will have to look at your code as you write it and figure this out for yourself.
 
-### Challenges for more experience Python coders:
+#### Help for those who are starting out with Python for the first time:
 
-We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
+We suggest following our beginners Python course called *Hello Python* which you can find [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
-&nbsp;&nbsp;[https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
+
