@@ -80,6 +80,10 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 We will be back in September.
 
+### Trinket account
+
+You will need a trinket account for the Code Club's Python sessions. If you don't have one already you can create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to create an account. You can find a guide for using a trinket account [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/trinket_basics/using_trinket.md).
+
 ### Suggestions for Python projects
 
 For Python coders here are some suggestions of weblinks where you can find projects to try out over the summer:
