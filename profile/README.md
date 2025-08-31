@@ -6,7 +6,7 @@ The club is for children aged 9 to 12, and we run twice a month in Wokingham Lib
 
 These pages contain information for students about forthcoming sessions, detailed information for lots of the projects we have developed in the past, as well as background information.
 
-Students wishing to join the Code Club will need to register with Wokingham library. For information and all other enquiries about the Code Club contact Wokingham library: libraryevents@wokingham.gov.uk
+Students wishing to join the Code Club will need to register with Wokingham library. For information about registering and any other enquiries about the Code Club please contact Wokingham library: libraryevents@wokingham.gov.uk
 
 ---
 
