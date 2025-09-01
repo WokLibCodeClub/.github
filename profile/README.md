@@ -18,75 +18,41 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ---
 
-## Next sessions
+## Next Code Club sessions
 
-Code Club has now finished for the summer to let our volunteers have a well-earned break. The next sessions will take place in September 2025. Keep watching this page for more information.
+Our next sessions will take place on **Saturday 6th September 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+
+---
 
 ## Scratch (first session 10.30am to 11.30am)
 
-We will be back in September.
+The next session will take place on **Saturday 6th September 2025**. As this is the first session of the new school year we will be covering the basics of coding. This will involve the coding game called *Code for Life Rapid Router*, and some beginner projects in Scratch. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-### Previous Scratch projects
+Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 
-We made Scratch projects which used clones in some recent sessions of the summer term. If you want to catch up on these here are the links:
-
-*Fractal Tree*
-
-A fractal is a type of mathematical pattern which keeps repeating itself but at a smaller and smaller scale. The tree is a good example of a fractal which occurs in nature. There are instructions for this project in a powerpoint presentation and you can open it [here](https://docs.google.com/presentation/d/1bg9U77k_yLICiHZSV_-RAOImHv9EkGVO/edit?usp=sharing&ouid=116750909637562215455&rtpof=true&sd=true).
-
-*Spiralizer*
-
-This project makes spectacular patterns with not much code. The instructions for the spiralizer are [here](https://drive.google.com/file/d/1DwDC3KtqpalZgtQLlFmQtvtUXmhmzg7S/view?usp=sharing).
+You will need a accounts for both *Scratch* and *Code for Life: Rapid Router* for the Code Club's Scratch sessions. 
 
 ### Scratch account
 
-You will need a Scratch account for the Code Club's Scratch sessions. If you don't have one already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need a valid email address to sign up.
+If you don't have an acocunt already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need to use a parent's valid email address to sign up.
 
-Please make sure you arrive for the sessions early enough that you have time to log in to your Scratch account and be ready to start coding at 10.30 am. ***PLEASE*** make sure you know your password (write it down if you need to) so that you are able to log in without a problem.
-
-### *Confirming* your Scratch account so that you can *SHARE* your projects
-
-If you want to be able to *share* your Scratch projects with the club leaders and other coders your Scratch account needs to be *confirmed*. You can find the instructions for doing this at [this](https://scratch.mit.edu/faq/#accounts) weblink, under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. In this case, follow the instructions to have Scratch resend the email.
+If you want to be able to *SHARE* your Scratch projects with the Code Club and other people you must make sure your account is *confirmed*. You do this by clicking the link on the confirmation email you recieve from Scratch when you create your account. If you don't receive this email follow  the instructions at [this link](https://scratch.mit.edu/faq/#accounts) under the heading *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. The instructions show how to have Scratch resend the email.
 
 Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
 
-### Finding the Code Club's Scratch *studio*
+**Link for the Code Club's Scratch _Studio_**
 
-The Code Club keeps a Scratch *studio* on the Scratch website, where our students can upload their projects for everyone else to see. Our studio for the past year's coding is called *WLCC 2024-25* and in it you can find lots of our students' projects which they have shared with the club.
+We use a *Studio* on the Scratch website for sharing projects in the Code Club sessions. The link to this is [WLCC 2025-2026](https://scratch.mit.edu/studios/50686841)
 
-(**Note:** we only allow you to upload projects during our Scratch sessions at the library. At other times uploading is disabled.)
+### Rapid Router account
 
-If you want to find our Scratch studio you can do a search on the Scratch website, or you can paste the link directly into your browser.
+To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button.
 
-#### Link to the Code Club's Studio for 2024 to 2025:
-
-[scratch.mit.edu/studios/35685710/](https://scratch.mit.edu/studios/35685710/)
-
-#### Search on the Scratch website
-
-1. Open the Scratch home page [scratch.mit.edu](https://scratch.mit.edu/)
-2. In the Search box at the top type in WLCC 2024-25
-
-![find_studio1.png](find_studio1.png)
-
-3. When the search results appear it will probably say **Nothing Found**, so click on the heading ***Studios*** above the search results
-
-![find_studio2.png](find_studio2.png)
-
-4. You will now see the icon for the Code Club Studio. Click on this to open the studio.
-
-### Rapid Router
-
-As well as Scratch we do coding using a game called *Rapid Router* which is on the *Code for Life* website. This is an excellent way of practising the main coding blocks of repeating loops and if/else decision blocks. There are more than 100 levels, and they start at an easy level and quickly get more complicated. To try out the game go to [Rapid Router game](https://www.codeforlife.education/rapidrouter).
-
-If you would like to save your progress and your code as you work through the levels, you should make yourself a *Code for Life* account by following the instructions below:
-
-#### Signing up for a Code for Life account
-To make a *Code for Life* account you will need to use a parent's email address. Go to [https://www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button.
+---
 
 ## Python (second session 11.45am to 12.45pm)
 
-We will be back in September.
+The next session will take place on **Saturday 6th September 2025**. 
 
 ### Trinket account
 
