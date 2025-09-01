@@ -58,6 +58,7 @@ The next session will take place on **Saturday 6th September 2025**. We will sta
 
 You will need a trinket account for the Code Club's Python sessions. If you don't have one already you can create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to create an account. You can find a guide for using a trinket account [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/trinket_basics/using_trinket.md).
 
+Please try to arrive a little bit before 11.45am so that you have time to get logged in to your Trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
 
 
