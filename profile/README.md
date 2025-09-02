@@ -18,7 +18,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ---
 
-## Next Code Club sessions
+## Next Code Club sessions: Saturday 6th September 2025
 
 Our next sessions will take place on **Saturday 6th September 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
