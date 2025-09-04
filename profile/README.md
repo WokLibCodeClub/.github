@@ -64,7 +64,7 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 
 you may find the beginners' course a bit too easy. Here is a good project you can work on by yourself:
 
-[Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race)
+[Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race/0)
 
 This is a project devised by Raspberry Pi/Code Club with a series of online instructions. ***Warning***: the link to "Open the Turtle race starter project" on the second page will take you to a different editor, where you will not be able to save your code. Instead, just open a new Trinket project and start your coding there. You will also need to add this line of code as the first line in your new project:
 
