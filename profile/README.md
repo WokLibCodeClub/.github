@@ -54,7 +54,15 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 The next session will take place on **Saturday 6th September 2025**. For the benefit of thos who have not used Python before we will start with the basics of Python coding and write some simple programmes. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-**If you already have some experience with coding in Python** you may find the beginners' course a bit too easy. Here is a good project you can work on by yourself:
+### Trinket account
+
+You will need a trinket account for the Code Club's Python sessions. If you don't have one already you can create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to create an account. You can find a guide for using a trinket account [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/trinket_basics/using_trinket.md).
+
+Please try to arrive a little bit before 11.45am so that you have time to get logged in to your Trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
+
+#### If you already have some experience with coding in Python ####
+
+you may find the beginners' course a bit too easy. Here is a good project you can work on by yourself:
 
 [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race)
 
@@ -63,12 +71,6 @@ This is a project devised by Raspberry Pi/Code Club with a series of online inst
 ```python
 #!/bin/python3
 ```
-
-### Trinket account
-
-You will need a trinket account for the Code Club's Python sessions. If you don't have one already you can create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to create an account. You can find a guide for using a trinket account [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/trinket_basics/using_trinket.md).
-
-Please try to arrive a little bit before 11.45am so that you have time to get logged in to your Trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
 
 
