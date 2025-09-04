@@ -52,7 +52,17 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 6th September 2025**. We will start with the basics of Python coding and write some simple programmes. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 6th September 2025**. For the benefit of thos who have not used Python before we will start with the basics of Python coding and write some simple programmes. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+
+**If you already have some experience with coding in Python** you may find the beginners' course a bit too easy. Here is a good project you can work on by yourself:
+
+[Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race)
+
+This is a project devised by Raspberry Pi/Code Club with a series of online instructions. ***Warning***: the link to "Open the Turtle race starter project" on the second page will take you to a different editor, where you will not be able to save your code. Instead, just open a new Trinket project and start your coding there. You will also need to add this line of code as the first line in your new project:
+
+```python
+#!/bin/python3
+```
 
 ### Trinket account
 
