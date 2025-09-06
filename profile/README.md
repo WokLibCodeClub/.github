@@ -18,15 +18,15 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ---
 
-## Next Code Club sessions: Saturday 6th September 2025
+## Next Code Club sessions: Saturday 27th September 2025
 
-Our next sessions will take place on **Saturday 6th September 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 27th September 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 ---
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 6th September 2025**. As this is the first session of the new school year we will be covering the basics of coding. This will involve the coding game called *Code for Life: Rapid Router*, and some beginner projects in Scratch. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 27th September 2025**. We will start of with some more coding using the Rapid Router game, starting at level 19 where we start using *Repeat* loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note*** You need a Code for Life login to access this level. If you do not have a login please follow the instructions [below](#Code-for-Life-account). We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 You will need a accounts for both *Scratch* and *Code for Life: Rapid Router* for the Code Club's Scratch sessions. 
 
