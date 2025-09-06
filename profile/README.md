@@ -58,7 +58,7 @@ The next session will take place on **Saturday 27th September 2025**. We will be
 
 We will continue with our *Python from the beginning* course, starting with the *Age Calculator* programme which we started last time.
 
-If you weren't at the last session you can find the code we wrote at these links. For the code written on the screen for ***first Python code** you can find the code [here](https://trinket.io/python/0105d627ebcc). For the code on the screen for the ***Age Calculator*** as we left it at the end of the last session go [here](https://trinket.io/python/837027a3abc1).
+If you weren't at the last session you can find the code we wrote at these links. For the code written on the screen for ***first Python code** you can find the code [here](https://trinket.io/python/0105d627ebcc). For the code on the screen for the ***Age Calculator*** as we left it at the end of the last session go [here](https://trinket.io/python/837027a3abc1). You can also catch up on the material we covered [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md).
 
 ### Trinket account
 
