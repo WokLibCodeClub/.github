@@ -26,11 +26,9 @@ Our next sessions will take place on **Saturday 27th September 2025** in the *sm
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 27th September 2025**.
+The next session will take place on **Saturday 27th September 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will be coding on the library's own laptops, so you don't need to bring your own computer.
-
-We will start of with some more coding using the *Rapid Router* game, starting at level 19, where we introduce *Repeat* loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access this level. If you do not have a login please follow the instructions [below](#Code-for-Life-account). 
+We will start of with some more coding using the *Rapid Router* game, starting at level 19, where we introduce *Repeat* loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access levels above 19. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
 
 We will continue by completing the Scratch game *Ghostbusters* which we started last time. The instructions for the game are [here](https://projects.raspberrypi.org/en/projects/ghostbusters). If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
@@ -56,7 +54,11 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 6th September 2025**. For the benefit of thos who have not used Python before we will start with the basics of Python coding and write some simple programmes. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 27th September 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+
+We will continue with our *Python from the beginning* course, starting with the *Age Calculator* programme which we started last time.
+
+If you weren't at the last session you can find the code we wrote at these links. For the code written on the screen for ***first Python code** you can find the code [here](https://trinket.io/python/0105d627ebcc). For the code on the screen for the ***Age Calculator*** as we left it at the end of the last session go [here](https://trinket.io/python/837027a3abc1).
 
 ### Trinket account
 
