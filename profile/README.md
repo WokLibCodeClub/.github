@@ -26,9 +26,13 @@ Our next sessions will take place on **Saturday 27th September 2025** in the *sm
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 27th September 2025**. We will start of with some more coding using the Rapid Router game, starting at level 19 where we start using *Repeat* loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note*** You need a Code for Life login to access this level. If you do not have a login please follow the instructions [below](#Code-for-Life-account). We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 27th September 2025**.
 
-You will need a accounts for both *Scratch* and *Code for Life: Rapid Router* for the Code Club's Scratch sessions. 
+We will be coding on the library's own laptops, so you don't need to bring your own computer.
+
+We will start of with some more coding using the *Rapid Router* game, starting at level 19, where we introduce *Repeat* loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access this level. If you do not have a login please follow the instructions [below](#Code-for-Life-account). 
+
+We will continue by completing the Scratch game *Ghostbusters* which we started last time. The instructions for the game are [here](https://projects.raspberrypi.org/en/projects/ghostbusters). If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 
