@@ -60,6 +60,8 @@ We will continue with our *Python from the beginning* course, starting with the 
 
 If you weren't at the last session you can find the code we wrote at these links. For the code written on the screen for ***first Python code** you can find the code [here](https://trinket.io/python/0105d627ebcc). For the code on the screen for the ***Age Calculator*** as we left it at the end of the last session go [here](https://trinket.io/python/837027a3abc1). You can also catch up on the material we covered [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md).
 
+The link mentioned in the session for a fun BBC Bitesize course on learning to type properly is [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
+
 ### Trinket account
 
 You will need a trinket account for the Code Club's Python sessions. If you don't have one already you can create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to create an account. You can find a guide for using a trinket account [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/trinket_basics/using_trinket.md).
