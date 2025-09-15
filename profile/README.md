@@ -80,7 +80,7 @@ This is a project devised by Raspberry Pi/Code Club with a series of online inst
 #!/bin/python3
 ```
 
-<details>
+<details><summary></summary>
 
 <p></p>
 'Have you had a birthday yet this year (y or n)?'
