@@ -80,5 +80,10 @@ This is a project devised by Raspberry Pi/Code Club with a series of online inst
 #!/bin/python3
 ```
 
+<details>
 
+<p></p>
+'Have you had a birthday yet this year (y or n)?'
+<p></p>
+</details>
 
