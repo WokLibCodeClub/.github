@@ -18,19 +18,21 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ---
 
-## Next Code Club sessions: Saturday 27th September 2025
+## Next Code Club sessions: Saturday 4th October 2025
 
-Our next sessions will take place on **Saturday 27th September 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 4th October 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+
+# PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!
 
 ---
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 27th September 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 4th October 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will start of with some more coding using the *Rapid Router* game, starting at level 19, where we introduce *Repeat* loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access levels above 19. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
+We will start of with some more coding using the *Rapid Router* game, starting this week at level 29, where we introduce *Conditional* Repeat loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access any level above 19. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
 
-We will continue by completing the Scratch game *Ghostbusters* which we started last time. The instructions for the game are [here](https://projects.raspberrypi.org/en/projects/ghostbusters). If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
+In Scratch we will code a game called *Boat Race*. The instructions for the game are [here](https://projects.raspberrypi.org/en/projects/boat-race). If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 
@@ -54,13 +56,13 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 27th September 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 4th October 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will continue with our *Python from the beginning* course, starting with the *Age Calculator* programme which we started last time.
+We will continue with our *Python from the beginning* course, with more turtle graphics which we started last time.
 
-If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***first Python code*** go [here](https://trinket.io/python/0105d627ebcc); for the code on the screen for the ***Age Calculator*** as we left it at the end of the last session go [here](https://trinket.io/python/837027a3abc1). You can also catch up on the material we covered [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md).
+If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***age calculator*** go [here](https://trinket.io/python/a06575fc1b50); for the code on the screen for ***graphics*** as we left it at the end of the last session go [here](https://trinket.io/python/0eed346b299c). You can also catch up on the material we covered [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
 
-The link mentioned in the session for a fun BBC Bitesize course on learning to type properly is [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
+The link mentioned in the first session on 6th September 2025 for a fun BBC Bitesize course on learning to type properly is [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
 
 ### Trinket account
 
@@ -79,11 +81,3 @@ This is a project devised by Raspberry Pi/Code Club with a series of online inst
 ```python
 #!/bin/python3
 ```
-
-<details><summary></summary>
-
-<p></p>
-'Have you had a birthday yet this year (y or n)?'
-<p></p>
-</details>
-
