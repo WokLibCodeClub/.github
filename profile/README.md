@@ -60,6 +60,8 @@ The next session will take place on **Saturday 4th October 2025**. We will be co
 
 We will continue with our *Python from the beginning* course, with more turtle graphics which we started last time.
 
+Here is a link to a page which gives the complete list of available turtle colours (which you can use for background colour or turtle colour or pen colour): [www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
+
 If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***age calculator*** go [here](https://trinket.io/python/a06575fc1b50); for the code on the screen for ***graphics*** as we left it at the end of the last session go [here](https://trinket.io/python/0eed346b299c). You can also catch up on the material we covered [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
 
 The link mentioned in the first session on 6th September 2025 for a fun BBC Bitesize course on learning to type properly is [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
