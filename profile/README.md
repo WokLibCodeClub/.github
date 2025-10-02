@@ -24,7 +24,7 @@ Our next sessions will take place on **Saturday 4th October 2025** in the *small
 
 <p style="color:red;">
   <h1>PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!</h1> 
-</p>p>
+</p>
 
 ---
 
