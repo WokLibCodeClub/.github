@@ -22,7 +22,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Our next sessions will take place on **Saturday 4th October 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
-<h1>PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!</h1> 
+<h1 style="color:red;">PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!</h1> 
 
 ---
 
