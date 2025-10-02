@@ -24,7 +24,7 @@ Our next sessions will take place on **Saturday 4th October 2025** in the *small
 
 <h1><span style="color: red">this is red</span></h1> 
 
-$\color{red}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!}}$
+$\Huge\color{red}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!}}$
 
 ---
 
