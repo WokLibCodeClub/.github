@@ -22,8 +22,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Our next sessions will take place on **Saturday 4th October 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
-$\Huge\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!}}$
-
+<h1>
+$\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!}}$
+</h1>
 ---
 
 ## Scratch (first session 10.30am to 11.30am)
