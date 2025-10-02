@@ -22,7 +22,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 Our next sessions will take place on **Saturday 4th October 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
-# PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!
+<h1>PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!</h1> 
 
 ---
 
@@ -30,13 +30,13 @@ Our next sessions will take place on **Saturday 4th October 2025** in the *small
 
 The next session will take place on **Saturday 4th October 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will start of with some more coding using the *Rapid Router* game, starting this week at level 29, where we introduce *Conditional* Repeat loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access any level above 19. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
+We will start of with some more coding using the *Rapid Router* game, starting this week at level 29, where we introduce *Conditional* Repeat loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access levels above 29. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
 
 In Scratch we will code a game called *Boat Race*. The instructions for the game are [here](https://projects.raspberrypi.org/en/projects/boat-race). If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 
-### Scratch account
+### How to make a Scratch account
 
 If you don't have an account already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need to use a parent's valid email address to sign up.
 
@@ -48,7 +48,7 @@ Scratch has produced a page of information for parents. You can find it [here](h
 
 We use a *Studio* on the Scratch website for sharing projects in the Code Club sessions. The link to this is [WLCC 2025-2026](https://scratch.mit.edu/studios/50686841)
 
-### Code for Life account
+### How to make a Code for Life account
 
 To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button.
 
@@ -66,7 +66,7 @@ If you weren't at the last session here are the links for the code we wrote: for
 
 The link mentioned in the first session on 6th September 2025 for a fun BBC Bitesize course on learning to type properly is [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
 
-### Trinket account
+### How to make a Trinket account
 
 You will need a trinket account for the Code Club's Python sessions. If you don't have one already you can create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to create an account. You can find a guide for using a trinket account [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/trinket_basics/using_trinket.md).
 
