@@ -32,7 +32,7 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!
 
 The next session will take place on **Saturday 25th October 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will start of with some more coding using the *Rapid Router* game, starting this week at level 29, where we introduce *Conditional* Repeat loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access levels above 29. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
+We will start of with some more coding using the *Rapid Router* game, exploring more and more complicated versions of the *if* block, with level 42 being especialy tricky. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access levels above 29. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
 
 In Scratch we will code a game called *Boat Race*. The instructions for the game are [here](https://projects.raspberrypi.org/en/projects/boat-race). If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
