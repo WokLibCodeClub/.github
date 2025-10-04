@@ -18,9 +18,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ---
 
-## Next Code Club sessions: Saturday 4th October 2025
+## Next Code Club sessions: Saturday 25th October 2025
 
-Our next sessions will take place on **Saturday 4th October 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 25th October 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!}}$
@@ -30,7 +30,7 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 4th October 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 25th October 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 We will start of with some more coding using the *Rapid Router* game, starting this week at level 29, where we introduce *Conditional* Repeat loops. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access levels above 29. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
 
@@ -58,7 +58,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 4th October 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 25th October 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 We will continue with our *Python from the beginning* course, with more turtle graphics which we started last time.
 
