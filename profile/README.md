@@ -64,6 +64,8 @@ We will continue with our *Python from the beginning* course, with an exploratio
 
 If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***graphics*** to draw a multi-sided polygon go [here](https://trinket.io/python/04508e583559); for the code on the screen for the ***sorting hat*** project as we left it at the end of the last session go [here](https://trinket.io/python/91c27ce5c9b3). You can also catch up on all the material we have covered in our introduction to Python [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
 
+The starter project for the *Catch the Ball* game is [here](https://trinket.io/python/0e429f731b).
+
 Here is a link to a page which gives the complete list of available turtle colours (which you can use for background colour or turtle colour or pen colour): [www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
 
 The link mentioned in the first session on 6th September 2025 for a fun BBC Bitesize course on learning to type properly is [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
