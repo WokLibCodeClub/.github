@@ -34,7 +34,7 @@ The next session will take place on **Saturday 25th October 2025**. We will be c
 
 We will start of with some more coding using the *Rapid Router* game, exploring more and more complicated versions of the *if* block, with level 42 being especialy tricky. The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access levels above 29. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
 
-In Scratch we will code a game called *Boat Race*. The instructions for the game are [here](https://projects.raspberrypi.org/en/projects/boat-race). If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
+In Scratch we will continue coding the *Boat Race* project. The instructions for the game are [here](https://projects.raspberrypi.org/en/projects/boat-race), and we hope you will be able to develop the code by yourselves by following the instructions on the Raspberry Pi website. If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 
@@ -60,11 +60,11 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 The next session will take place on **Saturday 25th October 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will continue with our *Python from the beginning* course, with more turtle graphics which we started last time.
+We will continue with our *Python from the beginning* course, with an exploration of Python *lists* and the very important *for* repeat loop. If there's time we will start coding a little turtle game called *Catch the Ball*.
+
+If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***graphics*** to draw a multi-sided polygon go [here](https://trinket.io/python/04508e583559); for the code on the screen for the ***sorting hat*** project as we left it at the end of the last session go [here](https://trinket.io/python/91c27ce5c9b3). You can also catch up on all the material we have covered in our introduction to Python [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
 
 Here is a link to a page which gives the complete list of available turtle colours (which you can use for background colour or turtle colour or pen colour): [www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
-
-If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***age calculator*** go [here](https://trinket.io/python/a06575fc1b50); for the code on the screen for ***graphics*** as we left it at the end of the last session go [here](https://trinket.io/python/0eed346b299c). You can also catch up on the material we covered [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
 
 The link mentioned in the first session on 6th September 2025 for a fun BBC Bitesize course on learning to type properly is [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
 
