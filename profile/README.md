@@ -64,6 +64,8 @@ We will continue with our *Python from the beginning* course, with an exploratio
 
 If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***graphics*** to draw a multi-sided polygon go [here](https://trinket.io/python/04508e583559); for the code on the screen for the ***sorting hat*** project as we left it at the end of the last session go [here](https://trinket.io/python/55008dae53be). You can also catch up on all the material we have covered in our introduction to Python [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
 
+The code for the *times table* programme in the last session is [here](https://trinket.io/python/05b0a3c95659).
+
 The starter project for the *Catch the Ball* game is [here](https://trinket.io/python/0e429f731b).
 
 The code for the *Catch the Ball* game as it was at the end of the session on 25th October 2025 is [here](https://trinket.io/python/6fb8ab76d689).
