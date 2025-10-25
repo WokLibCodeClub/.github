@@ -62,9 +62,11 @@ The next session will take place on **Saturday 1st November 2025**. We will be c
 
 We will continue with our *Python from the beginning* course, with an exploration of Python *lists* and the very important *for* repeat loop. If there's time we will start coding a little turtle game called *Catch the Ball*.
 
-If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***graphics*** to draw a multi-sided polygon go [here](https://trinket.io/python/04508e583559); for the code on the screen for the ***sorting hat*** project as we left it at the end of the last session go [here](https://trinket.io/python/91c27ce5c9b3). You can also catch up on all the material we have covered in our introduction to Python [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
+If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***graphics*** to draw a multi-sided polygon go [here](https://trinket.io/python/04508e583559); for the code on the screen for the ***sorting hat*** project as we left it at the end of the last session go [here](https://trinket.io/python/55008dae53be). You can also catch up on all the material we have covered in our introduction to Python [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
 
 The starter project for the *Catch the Ball* game is [here](https://trinket.io/python/0e429f731b).
+
+The code for the *Catch the Ball* game as it was at the end of the session on 25th October 2025 is [here](https://trinket.io/python/6fb8ab76d689).
 
 Here is a link to a page which gives the complete list of available turtle colours (which you can use for background colour or turtle colour or pen colour): [www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
 
