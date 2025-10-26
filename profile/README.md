@@ -32,9 +32,13 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!
 
 The next session will take place on **Saturday 1st November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will start of with some more coding using the *Rapid Router* game, exploring more and more complicated versions of the *if* block, with level 42 being puzzling. (Hint: you don't *have* to use *if* blocks to solve level 42!) The link for Rapid Router is [https://www.codeforlife.education/rapidrouter/#](https://www.codeforlife.education/rapidrouter/#). ***Please note:*** you need a Code for Life login to access levels above 29. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
+In this session we will finish the *Boat Race* project and hopefully share our projects with the others in the group, using the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841) page. If you want to continue with this project at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race).
 
-In Scratch we will continue coding the *Boat Race* project. The instructions for the game are on the Raspberry Pi website [here](https://projects.raspberrypi.org/en/projects/boat-race), and we hope you will be able to develop the code by yourselves by following the instructions on the Raspberry Pi website. If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
+If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
+
+If there is time we will do some more coding with the [*Rapid Router*](https://www.codeforlife.education/rapidrouter/#) game. ***Please note:*** you need a Code for Life login to access most levels above 21. If you do not have a login please follow the instructions [below](#Code-for-Life-account) to make one. 
+
+*Rapid Router* is a lot of fun, but it's much more than a game - it is a very clever way of teaching the main elements of good coding. But, to make the most of it, you have to try and get full marks for every level. If you're don't do this you will be missing out on the learning opportunities of this game.
 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 
@@ -60,15 +64,11 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 The next session will take place on **Saturday 1st November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will continue with our *Python from the beginning* course, with an exploration of Python *lists* and the very important *for* repeat loop. If there's time we will start coding a little turtle game called *Catch the Ball*.
+We will finish our *Python from the beginning* course by completing the *Catch the Ball* game we started at the last session. This simple game includes the method for clicking on a Python turtle, and writing our own original functions. The code for the *Catch the Ball* game as it was at the end of the session on 25th October 2025 is [here](https://trinket.io/python/6fb8ab76d689).
 
-If you weren't at the last session here are the links for the code we wrote: for the code written on the screen for ***graphics*** to draw a multi-sided polygon go [here](https://trinket.io/python/04508e583559); for the code on the screen for the ***sorting hat*** project as we left it at the end of the last session go [here](https://trinket.io/python/55008dae53be). You can also catch up on all the material we have covered in our introduction to Python [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
+If you weren't at the last session here are the links for the other code we wrote: for the ***sorting hat*** project go [here](https://trinket.io/python/55008dae53be). The code for the *times table* project written in the last session is [here](https://trinket.io/python/05b0a3c95659).
 
-The code for the *times table* programme in the last session is [here](https://trinket.io/python/05b0a3c95659).
-
-The starter project for the *Catch the Ball* game is [here](https://trinket.io/python/0e429f731b).
-
-The code for the *Catch the Ball* game as it was at the end of the session on 25th October 2025 is [here](https://trinket.io/python/6fb8ab76d689).
+You can also catch up on all the material we have covered in our introduction to Python [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
 
 Here is a link to a page which gives the complete list of available turtle colours (which you can use for background colour or turtle colour or pen colour): [www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
 
