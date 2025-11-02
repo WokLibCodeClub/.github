@@ -36,11 +36,13 @@ At the next session we will take a break from Scratch and do some coding using t
 
 ![BBC micro:bit](bbc_microbit.png)
 
+The coding for this is very similar to Scratch, with blocks which you can drag across the screen and add together. We will be working on projects with a seasonal theme - more details to come nearer the day.
+
 If you didn't quite finish the *Boat Race* project and want to work on it at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race). You can look at the versions created by other students in the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841).
 
 If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
-If there is time we will do some more coding with the [*Rapid Router*](https://www.codeforlife.education/rapidrouter/#) game. ***Please note:*** you need a Code for Life login to access most levels above 21. If you do not have a login please follow the instructions [below](#How-to-make-a-Code-for-Life-account) to make one. 
+If you want to keep improving your coding skills don't forget the [*Rapid Router*](https://www.codeforlife.education/rapidrouter/#) game. ***Please note:*** you need a Code for Life login to access most levels above 21. If you do not have a login please follow the instructions [below](#How-to-make-a-Code-for-Life-account) to make one. 
 
 *Rapid Router* is a lot of fun, but it's much more than a game - it is a very clever way of teaching the main elements of good coding. But, to make the most of it, you have to try and get full marks for every level. If you're don't do this you will be missing out on the learning opportunities of this game.
 
