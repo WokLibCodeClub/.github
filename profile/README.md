@@ -74,7 +74,7 @@ We will be writing Python code for the BBC micro:bit microcontroller (there's a 
 
 We've finished our *Python from the beginning* course. You can find the completed code for the *Catch the Ball* game as it was at the end of the session on 1st November 2025 [here](https://trinket.io/python/b8273a6b4a04).
 
-If you want to review all the material we have covered in our introduction to Python you can find the complete sessions in our [Hello Python page](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
+If you want to review all the material we have covered in our introduction to Python you can find the complete sessions in our [Hello Python page](https://github.com/WokLibCodeClub/Hello-Python/blob/master/README.md).
 
 Here is a link to a page which gives the complete list of available turtle colours (which you can use for background colour or turtle colour or pen colour): [www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
 
