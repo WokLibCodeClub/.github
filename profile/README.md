@@ -70,11 +70,11 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 The next session will take place on **Saturday 22nd November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will finish our *Python from the beginning* course by completing the *Catch the Ball* game we started at the last session. This simple game includes the method for clicking on a Python turtle, and writing our own original functions. The code for the *Catch the Ball* game as it was at the end of the session on 25th October 2025 is [here](https://trinket.io/python/6fb8ab76d689).
+We will be writing Python code for the BBC micro:bit microcontroller (there's a picture above in the *Scratch* section of this page) and developing a project with a seasonal theme. More details later.
 
-If you weren't at the last session here are the links for the other code we wrote: for the ***sorting hat*** project go [here](https://trinket.io/python/55008dae53be). The code for the *times table* project written in the last session is [here](https://trinket.io/python/05b0a3c95659).
+We've finished our *Python from the beginning* course. You can find the completed code for the *Catch the Ball* game as it was at the end of the session on 1st November 2025 [here](https://trinket.io/python/b8273a6b4a04).
 
-You can also catch up on all the material we have covered in our introduction to Python [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
+If you want to review all the material we have covered in our introduction to Python you can find the complete sessions in our [Hello Python page](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step3/step3.md).
 
 Here is a link to a page which gives the complete list of available turtle colours (which you can use for background colour or turtle colour or pen colour): [www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
 
