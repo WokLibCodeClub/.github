@@ -18,9 +18,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ---
 
-## Next Code Club sessions: Saturday 1st November 2025
+## Next Code Club sessions: Saturday 22nd November 2025
 
-Our next sessions will take place on **Saturday 1st November 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 22nd November 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!}}$
@@ -30,9 +30,13 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 1st November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 22nd November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-In this session we will finish the *Boat Race* project and hopefully share our projects with the others in the group, using the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841) page. If you want to continue with this project at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race).
+At the next session we will take a break from Scratch and do some coding using the BBC micro:bit!
+
+![BBC micro:bit](bbc_microbit.png)
+
+If you didn't quite finish the *Boat Race* project and want to work on it at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race). You can look at the versions created by other students in the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841).
 
 If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
@@ -62,7 +66,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 1st November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 22nd November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 We will finish our *Python from the beginning* course by completing the *Catch the Ball* game we started at the last session. This simple game includes the method for clicking on a Python turtle, and writing our own original functions. The code for the *Catch the Ball* game as it was at the end of the session on 25th October 2025 is [here](https://trinket.io/python/6fb8ab76d689).
 
