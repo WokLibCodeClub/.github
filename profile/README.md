@@ -44,9 +44,9 @@ The coding for this is very similar to Scratch, with blocks which you can drag a
 
 We have made a Powerpoint file with instructions for what we will cover over the next two sessions and you can look at it here: [Fun_With_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/EUlf0Em-CPBCt1FyJHfVSoMBzw7VtsDjglTRyzVGtUDlVw?e=w2da55).
 
-### *Boat Race* project
+#### *Boat Race* project from last time
 
-If you didn't quite finish the *Boat Race* project and want to work on it at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race). You can look at the versions created by other students in the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841).
+If you didn't quite finish the *Boat Race* project and want to keep working on it at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race). You can look at the versions created by other students in the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841).
 
 If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
