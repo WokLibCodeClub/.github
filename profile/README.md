@@ -38,6 +38,8 @@ The next session will take place on **Saturday 22nd November 2025**. We will be 
 
 At the next session we will take a break from Scratch and do some coding using the BBC micro:bit!
 
+### Coding for the BBC micro:bit
+
 ![BBC micro:bit](bbc_microbit.png)
 
 The coding for this is very similar to Scratch, with blocks which you can drag across the screen and add together. We start by getting to know the micro:bit, then work towards making a project with a seasonal theme.
