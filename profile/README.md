@@ -10,7 +10,7 @@ Students wishing to join the Code Club will need to register with Wokingham libr
 
 ### Note about Club dates from January 2026
 
-Please note that from January 2026 the dates of Code Club sessions will be changing from the first and fourth Saturday of each month to the first and *last* Saturday of each month. This will hopefully avoid any confusion which has occurred in the past in the occasional months which have five Saturdays. It will also ensure that we always meed on two consecutive Saturdays, which will be good for continuity with projects that span across two weeks.
+Please note that from January 2026 the dates of Code Club sessions will be changing from the first and fourth Saturday of each month to the first and *last* Saturday of each month. This will hopefully avoid any confusion which has occurred in the past in the occasional months which have five Saturdays. It will also ensure that we always meet on two consecutive Saturdays, which will be good for continuity with projects that span across two weeks.
 
 ---
 
