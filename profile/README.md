@@ -38,7 +38,9 @@ The next session will take place on **Saturday 22nd November 2025**. We will be 
 
 At the next session we will take a break from Scratch and do some coding using the BBC micro:bit!
 
+<!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
+-->
 
 ### Coding for the BBC micro:bit
 
