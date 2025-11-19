@@ -84,9 +84,11 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 The next session will take place on **Saturday 22nd November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will be writing Python code for the BBC micro:bit microcontroller (there's a picture above in the *Scratch* section of this page) and developing a project with a seasonal theme. More details later.
+We will be writing Python code for the BBC micro:bit microcontroller (there's a picture above in the *Scratch* section of this page). We will start by exploring the Python code for some of the different capabilities of the micro:bit. After that, we will develop a project with a seasonal theme which will have a lot to do with candles! You'll find out how at the session.
 
-We've finished our *Python from the beginning* course. You can find the completed code for the *Catch the Ball* game as it was at the end of the session on 1st November 2025 [here](https://trinket.io/python/b8273a6b4a04).
+#### Wrapping up *Hello Python*
+
+We've now finished our course of activities to introduce Python from the very beginning. You can find the completed code for the *Catch the Ball* game as it was at the end of the session on 1st November 2025 [here](https://trinket.io/python/b8273a6b4a04).
 
 If you want to review all the material we have covered in our introduction to Python you can find the complete sessions in our [Hello Python repository](https://github.com/WokLibCodeClub/Hello-Python/blob/master/README.md).
 
