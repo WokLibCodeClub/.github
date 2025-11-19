@@ -38,6 +38,8 @@ The next session will take place on **Saturday 22nd November 2025**. We will be 
 
 At the next session we will take a break from Scratch and do some coding using the BBC micro:bit!
 
+Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
+
 ### Coding for the BBC micro:bit
 
 ![BBC micro:bit](bbc_microbit.png)
@@ -52,11 +54,11 @@ If you didn't quite finish the *Boat Race* project and want to keep working on i
 
 If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
+#### Don't forget *Rapid Router*
+
 If you want to keep improving your coding skills don't forget the [*Rapid Router*](https://www.codeforlife.education/rapidrouter/#) game. ***Please note:*** you need a Code for Life login to access most levels above 21. If you do not have a login please follow the instructions [below](#How-to-make-a-Code-for-Life-account) to make one. 
 
 *Rapid Router* is a lot of fun, but it's much more than a game - it is a very clever way of teaching the main elements of good coding. But, to make the most of it, you have to try and get full marks for every level. If you're don't do this you will be missing out on the learning opportunities of this game.
-
-Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 
 ### How to make a Scratch account
 
