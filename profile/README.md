@@ -40,7 +40,9 @@ At the next session we will take a break from Scratch and do some coding using t
 
 ![BBC micro:bit](bbc_microbit.png)
 
-The coding for this is very similar to Scratch, with blocks which you can drag across the screen and add together. We will be working on projects with a seasonal theme - more details to come nearer the day.
+The coding for this is very similar to Scratch, with blocks which you can drag across the screen and add together. We start by getting to know the micro:bit, then work towards making a project with a seasonal theme.
+
+We have made a Powerpoint file with instructions for what we will cover over the next two sessions and you can look at it here: [Fun_With_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/EUlf0Em-CPBCt1FyJHfVSoMBzw7VtsDjglTRyzVGtUDlVw?e=w2da55).
 
 If you didn't quite finish the *Boat Race* project and want to work on it at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race). You can look at the versions created by other students in the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841).
 
