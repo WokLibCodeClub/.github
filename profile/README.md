@@ -5,7 +5,7 @@
 Our next sessions will take place on **Saturday 6th December 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
-$\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!}}$
+$\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
 </h2>
 
 ---
