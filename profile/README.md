@@ -50,9 +50,9 @@ The coding for this is very similar to Scratch, with blocks which you can drag a
 
 We have made a Powerpoint file with instructions for the code for our two micro:bit sessions and you can look at it here: [Fun_With_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/EUlf0Em-CPBCt1FyJHfVSoMBzw7VtsDjglTRyzVGtUDlVw?e=w2da55).
 
-#### *Boat Race* project from last time
+#### *Boat Race* project from the last Scratch session
 
-If you didn't quite finish the *Boat Race* project and want to keep working on it at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race). You can look at the versions created by other students in the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841).
+If you didn't quite finish the *Boat Race* project and want to keep working on it in Scratch at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race). You can look at the versions created by other students in the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841).
 
 If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
@@ -82,13 +82,13 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 22nd November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 6th December 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will be writing Python code for the BBC micro:bit microcontroller:
+We will be continuing with writing Python code for the BBC micro:bit microcontroller:
 
 ![BBC micro:bit](bbc_microbit.png)
 
-We will start by exploring the Python code for some of the different capabilities of the micro:bit. After that, we will develop a project with a seasonal theme which will have a lot to do with candles! You'll find out how at the session.
+Having explored Python code for some of the basic functions of the micro:bit - creating custom images and scrolling them; making the micro:bit do different things when you shake it or turn it upside down; sending radio messages from one micro:bit to another - we will use these ideas to make a festive candle, which you can light and then blow out! Magic!!!
 
 #### Wrapping up *Hello Python*
 
