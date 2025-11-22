@@ -22,9 +22,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ---
 
-## Next Code Club sessions: Saturday 22nd November 2025
+## Next Code Club sessions: Saturday 6th December 2025 - these will be our last session before Christmas
 
-Our next sessions will take place on **Saturday 22nd November 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 6th December 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!!!!!}}$
@@ -34,9 +34,9 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW WHAT YOUR ACCOUNT PASSWORD IS!!!
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 22nd November 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 6th December 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the next session we will take a break from Scratch and do some coding using the BBC micro:bit!
+At the next session we will continue writing code for the BBC micro:bit!
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
@@ -46,9 +46,9 @@ Please try to arrive a little bit before 10.30am so that you have time to get lo
 
 ![BBC micro:bit](bbc_microbit.png)
 
-The coding for this is very similar to Scratch, with blocks which you can drag across the screen and add together. We start by getting to know the micro:bit, then work towards making a project with a seasonal theme.
+The coding for this is very similar to Scratch, with blocks which you can drag across the screen and add together. At the last session we explored the basic functions of the microbit and made a beating heart programme and explored the use of the light sensor. In this session we will use some of the same methods to make a Festive Decoration which will show different patterns when we dim the lights in the classroom.
 
-We have made a Powerpoint file with instructions for what we will cover over the next two sessions and you can look at it here: [Fun_With_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/EUlf0Em-CPBCt1FyJHfVSoMBzw7VtsDjglTRyzVGtUDlVw?e=w2da55).
+We have made a Powerpoint file with instructions for the code for our two micro:bit sessions and you can look at it here: [Fun_With_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/EUlf0Em-CPBCt1FyJHfVSoMBzw7VtsDjglTRyzVGtUDlVw?e=w2da55).
 
 #### *Boat Race* project from last time
 
