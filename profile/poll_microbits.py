@@ -47,8 +47,8 @@ while True:
         askContent = input('Type Something: ')
         radio.send(UNAME + ':' + askContent)
         display.scroll('MSG  sent')
-        sleep(500)
-        display.show(Image('99999:88888:66666:55555:44444'))
+        #display.show(Image('99999:88888:66666:55555:44444'))
+        #sleep(500)
     
     if message:
         if message == 'Find_Detect':
@@ -58,11 +58,12 @@ while True:
             display.scroll(message)
             if debug:
                 print(message)
-            sleep(500)
-            display.show(Image('44444:55555:66666:88888:99999'))
+            #sleep(500)
+            #display.show(Image('44444:55555:66666:88888:99999'))
     
     if button_b.is_pressed():
-        display.scroll('Scanning for nearby compatible microbits')
         radio.send('Find_Detect')
-        display.show(Image('99999:88888:66666:55555:44444'))
-   
+        display.scroll('Scanning...')# for nearby compatible microbits')
+        #display.show(Image('99999:88888:66666:55555:44444'))
+    #clear message
+    message = None
