@@ -60,10 +60,11 @@ while True:
                 print(message)
             #sleep(500)
             #display.show(Image('44444:55555:66666:88888:99999'))
+        #clear message
+        message = None
     
     if button_b.is_pressed():
         radio.send('Find_Detect')
         display.scroll('Scanning...')# for nearby compatible microbits')
         #display.show(Image('99999:88888:66666:55555:44444'))
-    #clear message
-    message = None
+
