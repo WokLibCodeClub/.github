@@ -34,7 +34,7 @@ if debug: # will run if debug == True
     print(protocol)
     print(tempsend)
 display.scroll(tempsend)
-tempsend = ''
+#tempsend = ''
 
 #Nessiary init
 UNAME = input('Please enter a username: ')
@@ -52,7 +52,7 @@ while True:
     
     if message:
         if message == 'Find_Detect':
-            tempsend = 'MBIT: ' + str(UUID)
+            radio.send(tempsend)
             display.scroll('sending UUID')
         else:
             display.scroll(message)
@@ -60,11 +60,11 @@ while True:
                 print(message)
             #sleep(500)
             #display.show(Image('44444:55555:66666:88888:99999'))
-        #clear message
+        # clear message
         message = None
     
     if button_b.is_pressed():
         radio.send('Find_Detect')
         display.scroll('Scanning...')# for nearby compatible microbits')
         #display.show(Image('99999:88888:66666:55555:44444'))
-
+      
