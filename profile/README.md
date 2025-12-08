@@ -1,8 +1,8 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Saturday 6th December 2025 - these will be our last session before Christmas
+## Next Code Club sessions: Code Club has now closed for the Christmas holidays. We will return on Saturday 31st January 2026
 
-Our next sessions will take place on **Saturday 6th December 2025** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 31st January 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -12,15 +12,11 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO 
 
 These are the github pages of the **Wokingham Library Code Club**, located in Wokingham, UK and supported by [Wokingham Borough Council](https://www.wokingham.gov.uk/libraries).
 
-The club is for children aged 9 to 13, and we run twice a month in Wokingham Library, on the first and fourth Saturday of each month, with an early session mostly for Scratch coding followed by a later session for Python coding.
+The club is for children aged 9 to 13, and we run twice a month in Wokingham Library, on the first and last Saturday of each month, with an early session mostly for Scratch coding followed by a later session for Python coding.
 
 These pages contain information for students about forthcoming sessions, detailed information for lots of the projects we have developed in the past, as well as background information.
 
 Students wishing to join the Code Club will need to register with Wokingham library. For information about registering and any other enquiries about the Code Club please contact Wokingham library: libraryevents@wokingham.gov.uk
-
-### Note about Club dates from January 2026
-
-Please note that from January 2026 the dates of Code Club sessions will be changing from the first and fourth Saturday of each month to the first and *last* Saturday of each month. This will hopefully avoid any confusion which has occurred in the past in the occasional months which have five Saturdays. It will also ensure that we always meet on two consecutive Saturdays, which will be good for continuity with projects that span across two weeks.
 
 ---
 
@@ -34,27 +30,15 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 6th December 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 31st January 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the next session we will continue writing code for the BBC micro:bit!
+At the next session we return to coding with Scratch! Check back later for more details.
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 -->
 
-### Coding for the BBC micro:bit
-
-![BBC micro:bit](bbc_microbit.png)
-
-The coding for this is very similar to Scratch, with blocks which you can drag across the screen and add together. At the last session we explored the basic functions of the microbit and made a beating heart programme and explored the use of the light sensor. In this session we will use some of the same methods to make a Festive Decoration which will show different patterns when we dim the lights in the classroom.
-
-We have made a Powerpoint file with instructions for the code for our two micro:bit sessions and you can look at it here: [Fun_With_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/EUlf0Em-CPBCt1FyJHfVSoMBzw7VtsDjglTRyzVGtUDlVw?e=w2da55).
-
-#### *Boat Race* project from the last Scratch session
-
-If you didn't quite finish the *Boat Race* project and want to keep working on it in Scratch at home the instructions are [here](https://projects.raspberrypi.org/en/projects/boat-race). You can look at the versions created by other students in the Code Club's [Scratch Studio](https://scratch.mit.edu/studios/50686841).
-
-If you want to share your project with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
+If you want to share your Scratch projects with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
 
 #### Don't forget *Rapid Router*
 
@@ -82,23 +66,9 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 6th December 2025**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 31st January 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will be continuing with writing Python code for the BBC micro:bit microcontroller:
-
-![BBC micro:bit](bbc_microbit.png)
-
-Having explored Python code for some of the basic functions of the micro:bit - creating custom images and scrolling them; making the micro:bit do different things when you shake it or turn it upside down; sending radio messages from one micro:bit to another - we will use these ideas to make a festive candle, which you can light and then blow out! Magic!!!
-
-#### Wrapping up *Hello Python*
-
-We've now finished our course of activities to introduce Python from the very beginning. You can find the completed code for the *Catch the Ball* game as it was at the end of the session on 1st November 2025 [here](https://trinket.io/python/b8273a6b4a04).
-
-If you want to review all the material we have covered in our introduction to Python you can find the complete sessions in our [Hello Python repository](https://github.com/WokLibCodeClub/Hello-Python/blob/master/README.md).
-
-Here is a link to a page which gives the complete list of available turtle colours (which you can use for background colour or turtle colour or pen colour): [www.w3schools.com/colors/colors_names.asp](https://www.w3schools.com/colors/colors_names.asp)
-
-The link mentioned in the first session on 6th September 2025 for a fun BBC Bitesize course on learning to type properly is [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
+We will be writing Python code on the trinket online editor. Check back later for more details.
 
 ### How to make a Trinket account
 
