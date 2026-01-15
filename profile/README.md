@@ -32,7 +32,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 31st January 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the next session we return to coding with Scratch! Check back later for more details.
+We will start our Scratch coding for 2026 by exploring how to code a game using *video motion sensing*, where we use the laptop camera to detect your body motion and cause the sprites to move accordingly. We will use starter code for this project, and you can find the starter project here: [Video Motion Sensing Starter Project](https://scratch.mit.edu/projects/1140871196/editor/). You can look at the instructions for this project in a powerpoint file here:
+
+[Video_Motion_Sensing_Scratch_Game_2026.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQC8JJyfUUmjRp3xaB4RTM5iAbX3a58Y1xTgOWWHTxiyvVQ?e=YxB1S5)
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
