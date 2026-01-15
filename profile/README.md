@@ -77,7 +77,7 @@ As we have some Python "newbies" starting at the next session we will have to di
 
 #### For those new to Python ####
 
-We have devised an introduction to Python course called *Hello, Python*. You can follow along with the coding in the Code Club sessions, or you can look at the material on this website here: [Hello Python[9https://github.com/WokLibCodeClub/Hello-Python)
+We have devised an introduction to Python course called *Hello, Python*. You can follow along with the coding in the Code Club sessions, or you can look at the material on this website here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python)
 
 #### For those with experience of coding in Python ####
 
