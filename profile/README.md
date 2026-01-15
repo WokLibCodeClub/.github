@@ -70,7 +70,12 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 The next session will take place on **Saturday 31st January 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will be writing Python code on the trinket online editor. Check back later for more details.
+As we have some Python "newbies" starting at the next session we will have to divide the group into two: 
+
+- for those who haven't used Python before we will go through our introductory "Hello, Python" coding sessions
+- for the rest of the group, who are already familiar with Python, we will ask you to work through projects on your own, using online instructions, with volunteers on hand to offer assistance if you have any problems. 
+
+
 
 ### How to make a Trinket account
 
