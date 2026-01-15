@@ -75,7 +75,11 @@ As we have some Python "newbies" starting at the next session we will have to di
 - for those who haven't used Python before we will go through our introductory "Hello, Python" coding sessions
 - for the rest of the group, who are already familiar with Python, we will ask you to work through projects on your own, using online instructions, with volunteers on hand to offer assistance if you have any problems. 
 
-#### For thos with experience of coding in Python ####
+#### For those new to Python ####
+
+We have devised an introduction to Python course called *Hello, Python*. You can follow along with the coding in the Code Club sessions, or you can look at the material on this website here: [Hello Python[9https://github.com/WokLibCodeClub/Hello-Python)
+
+#### For those with experience of coding in Python ####
 
 We suggest that you choose one of these two projects on the Raspberry Pi website. The links below take you to the project pages where you will find step by step instructions. Neither of these projects has starter code:
 
