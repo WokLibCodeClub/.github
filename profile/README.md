@@ -72,12 +72,12 @@ The next session will take place on **Saturday 31st January 2026**. We will be c
 
 As we have some Python "newbies" starting at the next session we will have to divide the group into two: 
 
-- for those who haven't used Python before we will go through our introductory "Hello, Python" coding sessions
+- for those who haven't used Python before we will go through our introductory "Hello Python" coding sessions
 - for the rest of the group, who are already familiar with Python, we will ask you to work through projects on your own, using online instructions, with volunteers on hand to offer assistance if you have any problems. 
 
 #### For those new to Python ####
 
-We have devised an introduction to Python course called *Hello, Python*. You can follow along with the coding in the Code Club sessions, or you can look at the material on this website here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python)
+We have devised an introduction to Python course called *Hello Python*. You can follow along with the coding in the Code Club sessions, or you can look at the material on this website here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python)
 
 #### For those with experience of coding in Python ####
 
