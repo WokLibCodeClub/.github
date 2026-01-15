@@ -75,6 +75,34 @@ As we have some Python "newbies" starting at the next session we will have to di
 - for those who haven't used Python before we will go through our introductory "Hello, Python" coding sessions
 - for the rest of the group, who are already familiar with Python, we will ask you to work through projects on your own, using online instructions, with volunteers on hand to offer assistance if you have any problems. 
 
+#### For thos with experience of coding in Python ####
+
+We suggest that you choose one of these two projects on the Raspberry Pi website. The links below take you to the project pages where you will find step by step instructions. Neither of these projects has starter code:
+
+. [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) where you code several Python turtles to race against one another
+
+Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
+
+![Turtle Race demo](turtle_race_demo.gif "animation of turtle race")
+
+. [Secure Messages](https://projects.raspberrypi.org/en/projects/secure-messages) which uses Python to encrypt and decrypt secret messages..
+
+```
+Special Instructions for Turtle Race and Secure Messages:
+========================================================
+
+DON'T follow the link to the starter project on the Raspberry Pi website
+as this will take you to a different Python editor where you won't be able
+to save your code.
+
+Instead, create a New Project in your trinket account and give it a name.
+
+As the first line of your code in the new project insert this:
+
+#!/bin/python3
+
+After that you can follow the instructions on the Raspberry Pi site.
+```
 
 
 ### How to make a Trinket account
@@ -82,17 +110,5 @@ As we have some Python "newbies" starting at the next session we will have to di
 You will need a trinket account for the Code Club's Python sessions. If you don't have one already you can create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to create an account. You can find a guide for using a trinket account [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/trinket_basics/using_trinket.md).
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your Trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
-
-#### If you already have some experience with coding in Python ####
-
-you may find the beginners' course a bit too easy. Here is a good project you can work on by yourself:
-
-[Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race/0)
-
-This is a project devised by Raspberry Pi/Code Club with a series of online instructions. ***Warning***: the link to "Open the Turtle race starter project" on the second page will take you to a different editor, where you will not be able to save your code. Instead, just open a new Trinket project and start your coding there. You will also need to add this line of code as the first line in your new project:
-
-```python
-#!/bin/python3
-```
 
 [poll_microbits.py](poll_microbits.py)
