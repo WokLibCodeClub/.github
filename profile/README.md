@@ -79,13 +79,13 @@ As we have some Python "newbies" starting at the next session we will have to di
 
 We suggest that you choose one of these two projects on the Raspberry Pi website. The links below take you to the project pages where you will find step by step instructions. Neither of these projects has starter code:
 
-. [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) where you code several Python turtles to race against one another
+- [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) where you code several Python turtles to race against one another
 
 Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
 
 ![Turtle Race demo](turtle_race_demo.gif "animation of turtle race")
 
-. [Secure Messages](https://projects.raspberrypi.org/en/projects/secure-messages) which uses Python to encrypt and decrypt secret messages..
+- [Secure Messages](https://projects.raspberrypi.org/en/projects/secure-messages) which uses Python to encrypt and decrypt secret messages..
 
 ```
 Special Instructions for Turtle Race and Secure Messages:
