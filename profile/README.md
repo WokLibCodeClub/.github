@@ -81,7 +81,7 @@ We have devised an "Introduction to Python" course called *Hello Python*. You ca
 
 #### For those with experience of coding in Python ####
 
-We suggest that you choose one or other of the two projects below, both on the Raspberry Pi website. The links below take you to the project pages where you will find step by step instructions. Neither of these projects has starter code:
+We suggest that you choose one or other of the two projects below - Turtle Race or Secure Messages, both on the Raspberry Pi website. The links below take you to the project pages where you will find step by step instructions. Neither of these projects has starter code:
 
 - [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) where you code several Python turtles to race against one another
 
