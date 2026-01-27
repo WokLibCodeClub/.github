@@ -79,7 +79,7 @@ As we have some Python "newbies" starting at the next session we will have to di
 
 We have devised an "Introduction to Python" course called *Hello Python*. You can follow along with the coding in the Code Club sessions, or you can look at the material on this website here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md)
 
-<details>
+<details><summary></summary>
 
 Have you had a birthday yet this year?
   
