@@ -103,7 +103,7 @@ Have you had a birthday yet this year?
 
 #### For those with experience of coding in Python ####
 
-At the last session our more experienced Python coders got stuck in with these two projects on the Raspberry Pi website:
+At the last session our more experienced Python coders got stuck in to these two projects on the Raspberry Pi website:
 
 - [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) where you code several Python turtles to race against one another
 
