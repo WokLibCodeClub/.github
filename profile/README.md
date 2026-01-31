@@ -51,7 +51,7 @@ If you don't have an account already you can create one by going to [Join Scratc
 
 Scratch has recently made some changes to the terms and conditions which require age verification by a parent or adult, for users under 16 years old. If you are making a new account this will consist of an email sent to the parent's email address with a box to click to confirm that you give permission to your child to use Scratch:
 
-
+![Email requesting parental permission](parental_permission_email.png)
 
 some accounts might need extra 
 
@@ -63,13 +63,13 @@ Scratch has produced a page of information for parents. You can find it [here](h
 
 We use a *Studio* on the Scratch website for sharing projects in the Code Club sessions. The link to this is [WLCC 2025-2026](https://scratch.mit.edu/studios/50686841)
 
-#### Don't forget *Rapid Router*
+### Don't forget *Rapid Router*
 
 If you want to keep improving your coding skills don't forget the [*Rapid Router*](https://www.codeforlife.education/rapidrouter/#) game. ***Please note:*** you need a Code for Life login to access most levels above 21. If you do not have a login please follow the instructions [below](#How-to-make-a-Code-for-Life-account) to make one. 
 
 *Rapid Router* is a lot of fun, but it's much more than a game - it is a very clever way of teaching the main elements of good coding. But, to make the most of it, you have to try and get full marks for every level. If you're don't do this you will be missing out on the learning opportunities of this game.
 
-### How to make a Code for Life account
+#### How to make a Code for Life account
 
 To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button.
 
