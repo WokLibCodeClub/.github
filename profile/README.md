@@ -83,6 +83,8 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 The next session will take place on **Saturday 7th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
+Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
+
 #### For those new to Python ####
 
 We will continue with our Python introduction sessions, and complete the Age Calculator programme, started at the last session, which will involve using the Python ```if else``` block. If there's time we will start drawing graphics patterns using *turtles!*
@@ -144,8 +146,6 @@ If you have finished both these projects then have a go at one of the more compl
 ### How to make a Trinket account
 
 You will need a trinket account for the Code Club's Python sessions. If you don't have one already you can create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to create an account. You can find a guide for using a trinket account [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/trinket_basics/using_trinket.md).
-
-Please try to arrive a little bit before 11.45am so that you have time to get logged in to your Trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
 #### Trinket is closing down in August 2026.
 
