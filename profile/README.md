@@ -90,9 +90,11 @@ As we have some Python "newbies" starting at the next session we will have to di
 
 #### For those new to Python ####
 
-We have devised an "Introduction to Python" course called *Hello Python*. You can follow along with the coding in the Code Club sessions, or you can look at the material on this website here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md)
+We will continue with our Python introduction sessions, and complete the Age Calculator programme, started at the last session, which will involve using the Python ```if else``` block. If there's time we will start drawing graphics patterns using *turtles!*
 
-During the session we will show you a website where you can practise proper keyboard typing, which will make your Python coding much more fun. The site is [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
+You can follow along with the coding in the Code Club sessions, or you can look at the material on this website here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md)
+
+Python coding is much more fun if you can type well - with two hands if possible! Here is a link to an online course which you can use to improve your typing: [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
 
 <details><summary></summary>
 
@@ -146,4 +148,6 @@ You will need a trinket account for the Code Club's Python sessions. If you don'
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your Trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-[poll_microbits.py](poll_microbits.py)
+#### Trinket is closing down in August 2026.
+
+Unfortunately the trinket website will be shutting down in August 2026, so we will need to find an alternative site to use for our Python sessions. We are currently trying out different options but luckily there are still a few months left before we have to choose. We will continue to use trinket as before, for the time being, and we will help users to save any code they've written on trinket before it closes.
