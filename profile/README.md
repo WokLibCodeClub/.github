@@ -59,11 +59,9 @@ Some users might find an extra step is required when they try to log on to their
 
 ![Scratch pop-up requiring parental permission](Scratch_parental_permission_required.png)
 
-accounts might need extra 
+This process needs to be carried out by the parent, and will need the parent or responsible adult to fill in their email address. Again, it is essential that you do this to enable your child to use Scratch properly.
 
-If you want to be able to *SHARE* your Scratch projects with the Code Club and other people you must make sure your account is *confirmed*. You do this by clicking the link on the confirmation email you recieve from Scratch when you create your account. If you don't receive this email follow  the instructions at [this link](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. The instructions show how to have Scratch resend the email.
-
-Scratch has produced a page of information for parents. You can find it [here](https://scratch.mit.edu/parents/).
+Once the Scratch user's account has been confirmed the user will be able to *SHARE* projects without any further action.
 
 **Link for the Code Club's Scratch _Studio_**
 
