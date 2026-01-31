@@ -32,8 +32,11 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 7th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-We will start our Scratch coding for 2026 by exploring how to code a game using *video motion sensing*, where we use the laptop camera to detect your body motion and cause the sprites to move accordingly. We will use starter code for this project, and you can find the starter project here: [Video Motion Sensing Starter Project](https://scratch.mit.edu/projects/1140871196/editor/). You can look at the instructions for this project in a powerpoint file here:
+After our exploration of using video sensing, with the laptop camera, in the last session we are going to extend this and introduce the important topic of Scratch ***clones*** at the next session.
 
+We will build up the code on the screen for you to follow along, or you can look at a powerpoint presentation to get you going. The link is [Clones and Cloning_WBL Code Club.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCiIX6zHqU9TZlicNbhJusRAS4VLys1d78zdWrkYwPzbjg?e=C5FiEb).
+
+If you want to revise what we did at the last session - making a game using *video motion sensing*, where we use the laptop camera to detect your body motion and cause the sprites to move accordingly, you can find the starter code for this project [Video Motion Sensing Starter Project](https://scratch.mit.edu/projects/1140871196/editor/), and you can look at the instructions for this project in a powerpoint file 
 [Video_Motion_Sensing_Scratch_Game_2026.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQC8JJyfUUmjRp3xaB4RTM5iAbX3a58Y1xTgOWWHTxiyvVQ?e=YxB1S5)
 
 <!-- 
