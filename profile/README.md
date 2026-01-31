@@ -43,17 +43,17 @@ If you want to revise what we did at the last session - making a game using *vid
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 -->
 
-If you want to share your Scratch projects with the Code Club your Scratch account needs to be *confirmed*. Instructions for doing this are [here](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*
-
-#### Don't forget *Rapid Router*
-
-If you want to keep improving your coding skills don't forget the [*Rapid Router*](https://www.codeforlife.education/rapidrouter/#) game. ***Please note:*** you need a Code for Life login to access most levels above 21. If you do not have a login please follow the instructions [below](#How-to-make-a-Code-for-Life-account) to make one. 
-
-*Rapid Router* is a lot of fun, but it's much more than a game - it is a very clever way of teaching the main elements of good coding. But, to make the most of it, you have to try and get full marks for every level. If you're don't do this you will be missing out on the learning opportunities of this game.
-
 ### How to make a Scratch account
 
 If you don't have an account already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need to use a parent's valid email address to sign up.
+
+### Important changes to Scratch user accounts
+
+Scratch has recently made some changes to the terms and conditions which require age verification by a parent or adult, for users under 16 years old. If you are making a new account this will consist of an email sent to the parent's email address with a box to click to confirm that you give permission to your child to use Scratch:
+
+
+
+some accounts might need extra 
 
 If you want to be able to *SHARE* your Scratch projects with the Code Club and other people you must make sure your account is *confirmed*. You do this by clicking the link on the confirmation email you recieve from Scratch when you create your account. If you don't receive this email follow  the instructions at [this link](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. The instructions show how to have Scratch resend the email.
 
@@ -62,6 +62,12 @@ Scratch has produced a page of information for parents. You can find it [here](h
 **Link for the Code Club's Scratch _Studio_**
 
 We use a *Studio* on the Scratch website for sharing projects in the Code Club sessions. The link to this is [WLCC 2025-2026](https://scratch.mit.edu/studios/50686841)
+
+#### Don't forget *Rapid Router*
+
+If you want to keep improving your coding skills don't forget the [*Rapid Router*](https://www.codeforlife.education/rapidrouter/#) game. ***Please note:*** you need a Code for Life login to access most levels above 21. If you do not have a login please follow the instructions [below](#How-to-make-a-Code-for-Life-account) to make one. 
+
+*Rapid Router* is a lot of fun, but it's much more than a game - it is a very clever way of teaching the main elements of good coding. But, to make the most of it, you have to try and get full marks for every level. If you're don't do this you will be missing out on the learning opportunities of this game.
 
 ### How to make a Code for Life account
 
