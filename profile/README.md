@@ -36,7 +36,7 @@ After our exploration of video sensing with the laptop camera in the last sessio
 
 We will build up the code on the screen for you to follow along, or you can look at a powerpoint presentation to get you going. The link is [Clones and Cloning_WBL Code Club.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCiIX6zHqU9TZlicNbhJusRAS4VLys1d78zdWrkYwPzbjg?e=C5FiEb).
 
-If you want to revise what we did at the last session - making a game using *video motion sensing*, where we use the laptop camera to detect your body motion and cause the sprites to move accordingly - you can find the starter code for this project [Video Motion Sensing Starter Project](https://scratch.mit.edu/projects/1140871196/editor/), and you can look at the instructions for this project in a powerpoint file 
+If you want to revise what we did at the last session - making a game using *video motion sensing*, where we use the laptop camera to detect your body motion and cause the sprites to move accordingly - here is the link to the starter code for this project [Video Motion Sensing Starter Project](https://scratch.mit.edu/projects/1140871196/editor/), and you can look at the instructions for this project in a powerpoint file 
 [Video_Motion_Sensing_Scratch_Game_2026.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQC8JJyfUUmjRp3xaB4RTM5iAbX3a58Y1xTgOWWHTxiyvVQ?e=YxB1S5)
 
 <!-- 
