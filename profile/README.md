@@ -1,8 +1,8 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Code Club has now closed for the Christmas holidays. We will return on Saturday 31st January 2026
+## Next Code Club sessions: Saturday 7th February 2026
 
-Our next sessions will take place on **Saturday 31st January 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 7th February 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -30,7 +30,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 31st January 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 7th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 We will start our Scratch coding for 2026 by exploring how to code a game using *video motion sensing*, where we use the laptop camera to detect your body motion and cause the sprites to move accordingly. We will use starter code for this project, and you can find the starter project here: [Video Motion Sensing Starter Project](https://scratch.mit.edu/projects/1140871196/editor/). You can look at the instructions for this project in a powerpoint file here:
 
@@ -68,7 +68,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 31st January 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 7th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 As we have some Python "newbies" starting at the next session we will have to divide the group into two: 
 
