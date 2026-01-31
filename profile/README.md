@@ -65,7 +65,7 @@ Once the Scratch user's account has been confirmed the user will be able to *SHA
 
 **Link for the Code Club's Scratch _Studio_**
 
-We use a *Studio* on the Scratch website for sharing projects in the Code Club sessions. The link to this is [WLCC 2025-2026](https://scratch.mit.edu/studios/50686841)
+We use a *Studio* on the Scratch website for sharing projects in the Code Club sessions. The link to this is [WLCC 2025-2026](https://scratch.mit.edu/studios/50686841). Don't forget, if you want to put a project in the Studio you must *SHARE* it first.
 
 ### Don't forget *Rapid Router*
 
