@@ -83,11 +83,6 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 The next session will take place on **Saturday 7th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-As we have some Python "newbies" starting at the next session we will have to divide the group into two: 
-
-- for those who haven't used Python before we will go through our introductory "Hello Python" coding sessions
-- for the rest of the group, who are already familiar with Python, we will ask you to work through projects on your own, using online instructions, with volunteers on hand to offer assistance if you have any problems. 
-
 #### For those new to Python ####
 
 We will continue with our Python introduction sessions, and complete the Age Calculator programme, started at the last session, which will involve using the Python ```if else``` block. If there's time we will start drawing graphics patterns using *turtles!*
@@ -95,6 +90,8 @@ We will continue with our Python introduction sessions, and complete the Age Cal
 You can follow along with the coding in the Code Club sessions, or you can look at the material on this website here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md)
 
 Python coding is much more fun if you can type well - with two hands if possible! Here is a link to an online course which you can use to improve your typing: [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
+
+[Variable names](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md#variable-names).
 
 <details><summary></summary>
 
