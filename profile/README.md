@@ -128,7 +128,7 @@ As the first line of your code in the new project insert this:
 After that you can follow the instructions on the Raspberry Pi site.
 ```
 
-If you have finished both these projects then have a go at one of themore complicated projects below:
+If you have finished both these projects then have a go at one of the more complicated projects below:
 
 #### More complicated projects for those who have done some of the beginner Python projects already:
 
