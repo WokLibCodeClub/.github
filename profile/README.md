@@ -91,7 +91,7 @@ You can follow along with the coding in the Code Club sessions, or you can look 
 
 Python coding is much more fun if you can type well - with two hands if possible! Here is a link to an online course which you can use to improve your typing: [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
 
-[Variable names](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md#variable-names).
+During the last session we discussed the rules for making Python variables. If you want to look up the rules here is the link: [Variable names](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md#variable-names).
 
 <details><summary></summary>
 
