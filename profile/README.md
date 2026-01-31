@@ -53,7 +53,13 @@ Scratch has recently made some changes to the terms and conditions which require
 
 ![Email requesting parental permission](parental_permission_email.png)
 
-some accounts might need extra 
+***IT IS ESSENTIAL THAT YOU GIVE PERMISSION OTHERWISE YOUR CHILD WILL NOT BE ABLE TO USE SCRATCH PROPERLY IN THE CODE CLUB SESSIONS!***
+
+Some users might find an extra step is required when they try to log on to their accounts. They might see a pop-up window like this:
+
+![Scratch pop-up requiring parental permission](Scratch_parental_permission_required.png)
+
+accounts might need extra 
 
 If you want to be able to *SHARE* your Scratch projects with the Code Club and other people you must make sure your account is *confirmed*. You do this by clicking the link on the confirmation email you recieve from Scratch when you create your account. If you don't receive this email follow  the instructions at [this link](https://scratch.mit.edu/faq/#accounts) in the section *How do I confirm my account?*. It seems to be quite common that people can't find the first email sent by Scratch. The instructions show how to have Scratch resend the email.
 
