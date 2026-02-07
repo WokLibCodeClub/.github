@@ -91,7 +91,7 @@ We will continue with our Python introduction sessions, and introduce the really
 
 If you want to look at the code we wrote on the screen for the *graphics* project at the last session you can find it [here](https://trinket.io/library/trinkets/a4f123da237b).
 
-You can find the list of all the allowed colour nanes for turtles and backgrounds [here](https://trinket.io/docs/colors).
+You can find the list of all the allowed colour names for turtles and backgrounds [here](https://trinket.io/docs/colors).
 
 You can follow along with the coding on the screen in the Code Club session, or you can look at the material which we will cover here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md)
 
