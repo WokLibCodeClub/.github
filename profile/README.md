@@ -1,6 +1,6 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Saturday 7th February 2026
+## Next Code Club sessions: Saturday 28th February 2026
 
 Our next sessions will take place on **Saturday 7th February 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
@@ -30,7 +30,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 7th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 28th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 After our exploration of video sensing with the laptop camera in the last session we are going to extend this and introduce the important topic of Scratch ***clones*** at the next session.
 
@@ -81,7 +81,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 7th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 28th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
