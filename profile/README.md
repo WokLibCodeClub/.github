@@ -32,12 +32,13 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 28th February 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-After our exploration of video sensing with the laptop camera in the last session we are going to extend this and introduce the important topic of Scratch ***clones*** at the next session.
+March 1st is *St David's Day* (he's the patron saint of Wales), so as the next session is only one day before this day we will be celebrating it with a special Scratch project called:
 
-We will build up the code on the screen for you to follow along, or you can look at a powerpoint presentation to get you going. The link is [Clones and Cloning_WBL Code Club.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCiIX6zHqU9TZlicNbhJusRAS4VLys1d78zdWrkYwPzbjg?e=C5FiEb).
+***The St David's Day Collecting Game***.
 
-If you want to revise what we did at the last session - making a game using *video motion sensing*, where we use the laptop camera to detect your body motion and cause the sprites to move accordingly - here is the link to the starter code for this project [Video Motion Sensing Starter Project](https://scratch.mit.edu/projects/1140871196/editor/), and you can look at the instructions for this project in a powerpoint file 
-[Video_Motion_Sensing_Scratch_Game_2026.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQC8JJyfUUmjRp3xaB4RTM5iAbX3a58Y1xTgOWWHTxiyvVQ?e=YxB1S5)
+More details to be added - keep an eye on this page.
+
+At the last session we learnt about Scratch *clones*. If you want to revise what we did you can look at our powerpoint presentation. The link is [Clones and Cloning_WBL Code Club.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCiIX6zHqU9TZlicNbhJusRAS4VLys1d78zdWrkYwPzbjg?e=C5FiEb). At the end of the session we combined our learning about clones to make a more efficient version of the Video Motion Sensing Game where we used the laptop camera to detect your body motion and cause the sprites to move accordingly. The starter code for that project is [Video Motion Sensing Starter Project](https://scratch.mit.edu/projects/1140871196/editor/), and you can look at the instructions that go with it in a powerpoint file [Video_Motion_Sensing_Scratch_Game_2026.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQC8JJyfUUmjRp3xaB4RTM5iAbX3a58Y1xTgOWWHTxiyvVQ?e=YxB1S5)
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
