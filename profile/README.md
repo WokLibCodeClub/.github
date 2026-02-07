@@ -99,12 +99,6 @@ Python coding is much more fun if you can type well - with two hands if possible
 
 During the last session we discussed the rules for making Python variables. If you want to look up the rules here is the link: [Variable names](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md#variable-names).
 
-<details><summary></summary>
-
-Have you had a birthday yet this year?
-  
-</details>
-
 #### For those with experience of coding in Python ####
 
 At the last session our more experienced Python coders got stuck in to these two projects on the Raspberry Pi website:
