@@ -87,7 +87,11 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 
 #### For those new to Python ####
 
-We will continue with our Python introduction sessions, and complete the Age Calculator programme, started at the last session, which will involve using the Python ```if else``` block. If there's time we will start drawing graphics patterns using *turtles!*
+We will continue with our Python introduction sessions, and introduce the really important topic of Python repeat loops, as we get our turtle to draw ever more complicated shapes.
+
+If you want to look at the code we wrote on the screen for the *graphics* project at the last session you can find it [here](https://trinket.io/library/trinkets/a4f123da237b).
+
+You can find the list of all the allowed colour nanes for turtles and backgrounds [here](https://trinket.io/docs/colors).
 
 You can follow along with the coding on the screen in the Code Club session, or you can look at the material which we will cover here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md)
 
