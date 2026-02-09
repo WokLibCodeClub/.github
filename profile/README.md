@@ -86,7 +86,7 @@ The next session will take place on **Saturday 28th February 2026**. We will be 
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-#### For those new to Python ####
+### For those new to Python ####
 
 We will continue with our Python introduction sessions, and introduce the really important topic of Python repeat loops, as we get our turtle to draw ever more complicated shapes.
 
@@ -100,7 +100,7 @@ Python coding is much more fun if you can type well - with two hands if possible
 
 In the first session we discussed the rules for making Python variables. If you want to look up the rules here is the link: [Variable names](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md#variable-names).
 
-#### For those with experience of coding in Python ####
+### For those with experience of coding in Python ####
 
 At the last session our more experienced Python coders got stuck in to these two projects on the Raspberry Pi website:
 
@@ -131,7 +131,7 @@ After that you can follow the instructions on the Raspberry Pi site.
 
 If you have finished both these projects then have a go at one of the more complicated projects below:
 
-#### More complicated projects for those who have done some of the beginner Python projects already:
+### More complicated projects for those who have done some of the beginner Python projects already:
 
 1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
 
