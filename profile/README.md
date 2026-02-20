@@ -34,7 +34,7 @@ The next session will take place on **Saturday 28th February 2026**. We will be 
 
 March 1st is *St David's Day* (he's the patron saint of Wales), so as the next session is only one day before this day we will be celebrating it with a special Scratch project called:
 
-***The St David's Day Collecting Game***.
+    ***The St David's Day Collecting Game***.
 
 More details to be added - keep an eye on this page.
 
