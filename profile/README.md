@@ -133,6 +133,8 @@ If you have finished both these projects then have a go at one of the more compl
 
 ### More complicated projects for those who have done some of the beginner Python projects already:
 
+**Warning***: these projects are significantly harder than the ones above, and they each run to around 200 lines of code. You will have to read the instructions carefully to make your code work!
+
 1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
 
 2. [Hangman](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) This is a very old game which people used to play using paper and pencil. In the computer version you have to guess a mystery word by suggesting letters and finding out if they are in the word or not. If you don't get the word in six guesses you will be hanged!!! This project also shows how you can import data from a text file into a Python project. We have updated the instructions to show how to import your own word list into the game.
