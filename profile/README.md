@@ -32,11 +32,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 7th March 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-March 1st is *St David's Day* (he's the patron saint of Wales), so as the next session is only one day before this day we will be celebrating it with a special Scratch project called:
+At the last session we worked on a game called *The St David's Day Collecting Game* which involved using Scratch **broadcast messages**. At the next session we will do more on broadcast messages and show how they are really useful in controlling your code. Watch this page for more details.
 
-- ***The St David's Day Collecting Game***.
-
-There is a starter project for this game, and you can find it [here](https://scratch.mit.edu/projects/1137859298/editor/). Once you've opened the starter project you should ***REMIX*** it in your own account. We will work through the project on the screen in the session, but if you want to work on your own we have made a powerpoint file with instructions which you can find at [St David’s Day Collecting Game_2.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQBhWQaLAbt8TrJ3iK56a5XoAROEN7C9-GmHLnCoD9M64OA?e=SfqCPz).
+If you want to continue working on your version of *The St David's Day Collecting Game* you can find a powerpoint file with instructions at [St David’s Day Collecting Game_2.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQBhWQaLAbt8TrJ3iK56a5XoAROEN7C9-GmHLnCoD9M64OA?e=SfqCPz). here is also a starter project for this game, and you can find it [here](https://scratch.mit.edu/projects/1137859298/editor/).
 
 At the last session we learnt about Scratch *clones*. If you want to revise what we did you can look at our powerpoint presentation [Clones and Cloning_WBL Code Club.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCiIX6zHqU9TZlicNbhJusRAS4VLys1d78zdWrkYwPzbjg?e=C5FiEb). At the end of the session we combined our learning about clones to make a more efficient version of the Video Motion Sensing Game where we used the laptop camera to detect your body motion and cause the sprites to move accordingly. The starter code for that project is [Video Motion Sensing Starter Project](https://scratch.mit.edu/projects/1140871196/editor/), and you can look at the instructions that go with it in a powerpoint file [Video_Motion_Sensing_Scratch_Game_2026.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQC8JJyfUUmjRp3xaB4RTM5iAbX3a58Y1xTgOWWHTxiyvVQ?e=YxB1S5)
 
