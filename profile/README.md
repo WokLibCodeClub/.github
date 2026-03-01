@@ -88,7 +88,7 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 
 We will continue with our Python introduction sessions, and introduce Python *lists* and the very important *for* loop. We will also discover how to use the Python ```range()``` function.
 
-We will pick up form last week with a bit more on Python *lists*, and we will do this first of all in the [Python Interactive Console](https://trinket.io/console). To get us started paste this code for an example *list* into the console and press *Enter*:
+We will pick up from last week with a bit more on Python *lists*, and we will do this first of all in the [Python Interactive Console](https://trinket.io/console). To get us started paste this code for an example *list* into the console and press *Enter*:
 
 ```houses = ['Hufflepuff', 'Slytherin', 'Gryffindor', 'Ravenclaw']```
 
