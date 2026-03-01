@@ -86,9 +86,13 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 
 ### For those new to Python ####
 
-We will continue with our Python introduction sessions, and introduce the really important topic of Python repeat loops, as we get our turtle to draw ever more complicated shapes.
+We will continue with our Python introduction sessions, and introduce Python *lists* and the very important *for* loop. We will also discover how to use the Python ```range()``` function.
 
-If you want to look at the code we wrote on the screen for the *graphics* project at the last session you can find it [here](https://trinket.io/library/trinkets/a4f123da237b).
+We will pick up form last week with a bit more on Python *lists*, and we will do this first of all in the [Python Interactive Console](https://trinket.io/console). To get us started paste this code for an example *list* into the console and press *Enter*:
+
+```houses = ['Hufflepuff', 'Slytherin', 'Gryffindor', 'Ravenclaw']```
+
+If you want to look at the finished code for the *graphics* project at the last session you can find it [here](https://trinket.io/library/trinkets/6355da82e418).
 
 You can find the list of all the allowed colour names for turtles and backgrounds [here](https://trinket.io/docs/colors) or [here](https://1drv.ms/x/c/0ea54730735a1344/IQBcF_xVc0zqQYhIqH7kAhg_AfrTyYgcXUvD8MmvpGGf578?e=G3YgVk).
 
