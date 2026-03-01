@@ -133,6 +133,12 @@ After that you can follow the instructions on the Raspberry Pi site.
 
 If you have finished both these projects then have a go at one of the more complicated projects below:
 
+### Challenges for more experienced Python coders:
+
+We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
+
+&nbsp;&nbsp;[https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
+
 ### More complicated projects for those who have done some of the beginner Python projects already:
 
 **Warning**: these projects are significantly harder than the ones above, and most of them run to around 200 lines of code. You will have to read the instructions carefully to make your code work!
