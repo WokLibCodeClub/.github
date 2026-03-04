@@ -34,7 +34,7 @@ The next session will take place on **Saturday 7th March 2026**. We will be codi
 
 At the last session we worked on a game called *The St David's Day Collecting Game* which involved using Scratch **broadcast messages**. At the next session we will learn more about broadcast messages and show how they are really useful in controlling your code.
 
-There is a starter project for Broadcasting and you can find it [here](https://scratch.mit.edu/projects/1286070474/editor/). We have made a powerpoint presentation which you can work through by yourself, and the link is here: [Broadcasting in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQDgI8NWVgxNRLavszyTdvnTAWVjhWu40CdgVJeSuyBEBFg?e=ifXwPZ)
+There is a starter project for **Broadcasting** and you can find it [here](https://scratch.mit.edu/projects/1286070474/). We have made a powerpoint presentation which you can work through by yourself, and the link is here: [Broadcasting in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQDgI8NWVgxNRLavszyTdvnTAWVjhWu40CdgVJeSuyBEBFg?e=ifXwPZ)
 
 If you want to continue working on your version of *The St David's Day Collecting Game* you can find a powerpoint file with instructions at [St David’s Day Collecting Game_2.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQBhWQaLAbt8TrJ3iK56a5XoAROEN7C9-GmHLnCoD9M64OA?e=SfqCPz). There is also a starter project for this game, and you can find it [here](https://scratch.mit.edu/projects/1137859298/editor/).
 
