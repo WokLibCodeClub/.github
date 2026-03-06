@@ -94,7 +94,7 @@ We will pick up from last week with a bit more on Python *lists*, and we will do
 
 ```houses = ['Hufflepuff', 'Slytherin', 'Gryffindor', 'Ravenclaw']```
 
-You can follow along with the coding on the screen in the Code Club session, or you can look at the material which we will cover here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md)
+You can follow along with the coding on the screen in the Code Club session, but if you want to work on your own, or catch up on sessions you might have missed, you can find all the material which we cover in these introductory sessions in a section of this website called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
 - If we have time at the end of the session we will code a simple turtle game called *Catch the Ball*. There is some starter code for this project and you can find it here: [Catch the Ball starter code](https://trinket.io/python/0e429f731b).
 
