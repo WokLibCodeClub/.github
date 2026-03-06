@@ -102,11 +102,9 @@ You can follow along with the coding on the screen in the Code Club session, or 
 
 - You can find the list of all the allowed colour names for turtles and backgrounds [here](https://trinket.io/docs/colors) or [here](https://1drv.ms/x/c/0ea54730735a1344/IQBcF_xVc0zqQYhIqH7kAhg_AfrTyYgcXUvD8MmvpGGf578?e=G3YgVk).
 
-
+- In the first session we discussed the rules for making Python variables. If you want to look up the rules here is the link: [Variable names](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md#variable-names).
 
 - Python coding is much more fun if you can type well - with two hands if possible! Here is a link to an online course which you can use to improve your typing: [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
-
-- In the first session we discussed the rules for making Python variables. If you want to look up the rules here is the link: [Variable names](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md#variable-names).
 
 ### For those with experience of coding in Python ####
 
