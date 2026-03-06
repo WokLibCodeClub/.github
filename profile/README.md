@@ -94,7 +94,7 @@ We will pick up from last week with a bit more on Python *lists*, and we will do
 
 ```houses = ['Hufflepuff', 'Slytherin', 'Gryffindor', 'Ravenclaw']```
 
-If we have time we will code a simple turtle game called *Catch the Ball*. There is some starter code for this project and you can find it here: [Catch the Ball starter code](https://trinket.io/python/0e429f731b).
+If we have time at the end of the session we will code a simple turtle game called *Catch the Ball*. There is some starter code for this project and you can find it here: [Catch the Ball starter code](https://trinket.io/python/0e429f731b).
 
 If you want to look at the finished code for the *graphics* project at the last session you can find it [here](https://trinket.io/library/trinkets/6355da82e418).
 
