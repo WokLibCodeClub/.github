@@ -102,6 +102,7 @@ OR
 
 Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
 
+![turtle race demo](turtle_race_demo.gif)
 
 ```
 Special Instructions for Turtle Race:
