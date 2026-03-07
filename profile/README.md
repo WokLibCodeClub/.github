@@ -92,11 +92,11 @@ We have now finished out quick *Introduction to Python* course. In the last sess
 
 If you want to review any of the material shown in the last four sessions, or catch up on sessions you might have missed, you can look at a part of this website called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
-At the next session you will have a choice of projects:
+At the next session you will have two options:
 
-Option 1. Follow along with the screen as we build up a little turtle game called *Catch the Ball*. There is some starter code for this project and you can find it here: [Catch the Ball starter code](https://trinket.io/python/0e429f731b).
+1. Follow along with the screen as we build up a little turtle game called *Catch the Ball*. There is some starter code for this project and you can find it here: [Catch the Ball starter code](https://trinket.io/python/0e429f731b).
 
-Option 2. Code on your own and use instructions on the Raspberry Pi website. We suggest you try the *Turtle Race* game:
+2. Code on your own and use instructions on the Raspberry Pi website. We suggest you try the *Turtle Race* game:
 
 [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) where you code several Python turtles to race against one another
 
