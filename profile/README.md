@@ -90,7 +90,7 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 
 We have now finished out quick *Introduction to Python* course. In the last session we introduced *lists* with a *sorting hat* project, and showed how lists are used in a type of repeat loop called a ```for``` loop. You can find the code for the sorting hat, and the example ```for``` loops [here](https://trinket.io/library/trinkets/f453cbf66dca). We also used the ```for``` loop to print out a *times table*. The code for that project is [here](https://trinket.io/library/trinkets/1eb68fd0e518).
 
-If you want to review any of the material shown in the last four sessions, or catch up on sessions you might have missed, you can look at a part of this website called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
+If you want to review any of the material shown in the last four sessions, or catch up on sessions you might have missed, you can look at the part of this website called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
 At the next session you will have two options:
 
