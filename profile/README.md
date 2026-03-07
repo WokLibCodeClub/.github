@@ -98,9 +98,7 @@ At the next session you will have two options:
 
 OR
 
-2. Code on your own and use instructions on the Raspberry Pi website. We suggest you try the *Turtle Race* game:
-
-[Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) where you code several Python turtles to race against one another
+2. Code on your own and use instructions on the Raspberry Pi website. We suggest you try the *Turtle Race* game  where you code several Python turtles to race against one another. The link to the project is [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race).
 
 Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
 
