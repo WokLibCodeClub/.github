@@ -88,6 +88,8 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 
 ### For those new to Python ####
 
+We have now finished out quick *Introduction to Python* course. In the last session we introduced *lists* with a *sorting hat* project, and showed how these are used in a type of repeat loop called a ```for``` loop. You can find the code for the sorting hat, and the example ```for``` loops [here](https://trinket.io/library/trinkets/f453cbf66dca). We also used the ```for``` loop to print out a *times table*. The code for that project is [here](https://trinket.io/library/trinkets/1eb68fd0e518).
+
 We will continue with our Python introduction sessions, and introduce Python *lists* and the very important *for* loop. We will also discover how to use the Python ```range()``` function.
 
 We will pick up from last week with a bit more on Python *lists*, and we will do this first of all in the [Python Interactive Console](https://trinket.io/console). To get us started paste this code for an example *list* into the console and press *Enter*:
