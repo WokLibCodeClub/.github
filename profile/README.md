@@ -1,8 +1,8 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Saturday 7th March 2026
+## Next Code Club sessions: Saturday 28th March 2026
 
-Our next sessions will take place on **Saturday 7th March 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 28th March 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -30,7 +30,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 7th March 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 28th March 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 At the last session we worked on a game called *The St David's Day Collecting Game* which involved using Scratch **broadcast messages**. At the next session we will learn more about broadcast messages and show how they are really useful in controlling your code.
 
@@ -82,7 +82,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 7th March 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 28th March 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
