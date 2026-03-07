@@ -92,7 +92,7 @@ We have now finished out quick *Introduction to Python* course. In the last sess
 
 If you want to review any of the material shown in the last four sessions, or catch up on sessions you might have missed, you can look at the part of this website called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
-At the next session you will have two options:
+At the next session, on 28th March 2026, you will have two options:
 
 1. Follow along with the screen as we build up a little turtle game called *Catch the Ball*. There is some starter code for this project and you can find it here: [Catch the Ball starter code](https://trinket.io/python/0e429f731b).
 
