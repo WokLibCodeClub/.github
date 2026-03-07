@@ -90,39 +90,22 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 
 We have now finished out quick *Introduction to Python* course. In the last session we introduced *lists* with a *sorting hat* project, and showed how these are used in a type of repeat loop called a ```for``` loop. You can find the code for the sorting hat, and the example ```for``` loops [here](https://trinket.io/library/trinkets/f453cbf66dca). We also used the ```for``` loop to print out a *times table*. The code for that project is [here](https://trinket.io/library/trinkets/1eb68fd0e518).
 
-We will continue with our Python introduction sessions, and introduce Python *lists* and the very important *for* loop. We will also discover how to use the Python ```range()``` function.
+If you want to review any of the material shown in the last four sessions, or catch up on sessions you might have missed, you can look at a part of this website called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
 
-We will pick up from last week with a bit more on Python *lists*, and we will do this first of all in the [Python Interactive Console](https://trinket.io/console). To get us started paste this code for an example *list* into the console and press *Enter*:
+At the next session you will have a choice of projects:
 
-```houses = ['Hufflepuff', 'Slytherin', 'Gryffindor', 'Ravenclaw']```
+Option 1. Follow along with the screen as we build up a little turtle game called *Catch the Ball*. There is some starter code for this project and you can find it here: [Catch the Ball starter code](https://trinket.io/python/0e429f731b).
 
-You can code along with the projects on the screen during the Code Club sessions, but if you want to work on your own, or catch up on sessions you might have missed, you can find all the material which we cover in these introductory sessions in a part of this website called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
+Option 2. Code on your own and use instructions on the Raspberry Pi website. We suggest you try the *Turtle Race* game:
 
-- If we have time at the end of the session we will code a simple turtle game called *Catch the Ball*. There is some starter code for this project and you can find it here: [Catch the Ball starter code](https://trinket.io/python/0e429f731b).
-
-- If you want to look at the finished code for the *graphics* project at the last session you can find it [here](https://trinket.io/library/trinkets/6355da82e418).
-
-- You can find the list of all the allowed colour names for turtles and backgrounds [here](https://trinket.io/docs/colors) or [here](https://1drv.ms/x/c/0ea54730735a1344/IQBcF_xVc0zqQYhIqH7kAhg_AfrTyYgcXUvD8MmvpGGf578?e=G3YgVk).
-
-- In the first session we discussed the rules for making Python variables. If you want to look up the rules here is the link: [Variable names](https://github.com/WokLibCodeClub/Hello-Python/blob/main/step1/step1.md#variable-names).
-
-- Python coding is much more fun if you can type well - with two hands if possible! Here is a link to an online course which you can use to improve your typing: [Dance Mat Typing](https://www.bbc.co.uk/bitesize/articles/z3c6tfr).
-
-### For those with experience of coding in Python ####
-
-At the last session our more experienced Python coders got stuck in to these two projects on the Raspberry Pi website:
-
-- [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) where you code several Python turtles to race against one another
+[Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race) where you code several Python turtles to race against one another
 
 Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
 
-![Turtle Race demo](turtle_race_demo.gif "animation of turtle race")
-
-- [Secure Messages](https://projects.raspberrypi.org/en/projects/secure-messages) which uses Python to encrypt and decrypt secret messages..
 
 ```
-Special Instructions for Turtle Race and Secure Messages:
-========================================================
+Special Instructions for Turtle Race:
+====================================
 
 DON'T follow the link to the starter project on the Raspberry Pi website
 as this will take you to a different Python editor where you won't be able
@@ -136,8 +119,6 @@ As the first line of your code in the new project insert this:
 
 After that you can follow the instructions on the Raspberry Pi site.
 ```
-
-If you have finished both these projects then have a go at one of the more complicated projects below:
 
 ### Challenges for more experienced Python coders:
 
