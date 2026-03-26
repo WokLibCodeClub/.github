@@ -34,7 +34,7 @@ The next session will take place on **Saturday 28th March 2026**. We will be cod
 
 At the last session we learnt about using Scratch **broadcast messages** to control the flow of the project. In this session we will extend this and introduce a special type of variable called a *list*.  We will discover what *Lists* are, how they can be created and exploring some of the Scratch blocks that are specific to *Lists*   We will then code a long conversation between two sprites without needing too many different messages.
 
-Here is the powerpoint presentation for the project [Using Lists in Scratch.pptx]() and this is the link to the starter project that we'll be using - [https://scratch.mit.edu/projects/1295520154/](https://scratch.mit.edu/projects/1295520154/).
+Here is the powerpoint presentation for the project [Using Lists in Scratch.pptx](https://onedrive.live.com/:p:/g/personal/0EA54730735A1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?resid=EA54730735A1344!s18ed0eac53c74269aa3f490064b87452&ithint=file%2Cpptx&e=2gjLE2&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy8wZWE1NDczMDczNWExMzQ0L0lRQ3NEdTBZeDFOcFFxb19TUUJrdUhSU0FXUTUzR2RWeVZVcGtZbUZVaFUwNEZRP2U9MmdqTEUy) and this is the link to the starter project that we'll be using - [https://scratch.mit.edu/projects/1295520154/](https://scratch.mit.edu/projects/1295520154/).
 
 
 If you want to review what we learnt at the last session (or you didn't make it to the session) you can find a powerpoint presentation with the instructions at: [Broadcasting in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQDgI8NWVgxNRLavszyTdvnTAWVjhWu40CdgVJeSuyBEBFg?e=ifXwPZ). There is some starter code for the project which you can find [here](https://scratch.mit.edu/projects/1286070474/).
