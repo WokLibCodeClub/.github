@@ -32,7 +32,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 28th March 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the last session we learnt about using Scratch **broadcast messages** to control the flow of the project. In this session we will extend this and introduce a special type of variable called a *list*.  We will discover what *Lists* are, how they can be created and exploring some of the Scratch blocks that are specific to *Lists*   We will then code a long conversation between two sprites without needing too many different messages.
+At the last session we learnt about using Scratch **broadcast messages** to control the flow of the project. In this session we will extend this and introduce a special type of variable called a *list*.  We will discover what *Lists* are, how they can be created and explore some of the Scratch blocks that are specific to *Lists*   We will then code a long conversation between two sprites without needing too many different messages.
 
 Here is the powerpoint presentation for the project [Using Lists in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?e=2gjLE2) and this is the link to the starter project that we'll be using - [https://scratch.mit.edu/projects/1295520154/](https://scratch.mit.edu/projects/1295520154/).
 
