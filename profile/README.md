@@ -1,8 +1,8 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Saturday 28th March 2026
+## Next Code Club sessions: Saturday 25th April 2026
 
-Our next sessions will take place on **Saturday 28th March 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+We are taking a break for Easter, and our next sessions will take place on **Saturday 25th April 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -30,15 +30,11 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 28th March 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 25th April 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the last session we learnt about using Scratch **broadcast messages** to control the flow of the project. In this session we will extend this and introduce a special type of variable called a *list*.  We will discover what *Lists* are, how they can be created and explore some of the Scratch blocks that are specific to *Lists*   We will then code a long conversation between two sprites without needing too many different messages.
+At the last session we learnt about using Scratch **Lists** and learned how to code a conversation between two sprites where we only needed a few code blocks to make a dialogue of any length. For those wanting to keep going with this project the instruactions are in this powerpoint [Using Lists in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?e=2gjLE2). The starter code is [here](https://scratch.mit.edu/projects/1295520154/).
 
-Here is the powerpoint presentation for the project [Using Lists in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?e=2gjLE2) and this is the link to the starter project that we'll be using - [https://scratch.mit.edu/projects/1295520154/](https://scratch.mit.edu/projects/1295520154/).
-
-
-If you want to review what we learnt at the last session (or you didn't make it to the session) you can find a powerpoint presentation with the instructions at: [Broadcasting in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQDgI8NWVgxNRLavszyTdvnTAWVjhWu40CdgVJeSuyBEBFg?e=ifXwPZ). There is some starter code for the project which you can find [here](https://scratch.mit.edu/projects/1286070474/).
-
+After Easter we may be continuing to learn a bit more about lists ... or we may decide to do something completely different! Keep an eye on this page for the latest information.
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
@@ -82,23 +78,13 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 28th March 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 25th April 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-### For those new to Python ####
+After Easter we will be looking at an ***improved Turtle Race*** project where you can make as many turtles as you want, with less code than the original game! If you have not tried the basic Turtle Race project you might like to have a go during the holidays, as the improved version will make more sense then.
 
-We have now finished out quick *Introduction to Python* course. In the last session we introduced *lists* with a *sorting hat* project, and showed how lists are used in a type of repeat loop called a ```for``` loop. You can find the code for the sorting hat, and the example ```for``` loops [here](https://trinket.io/library/trinkets/f453cbf66dca). We also used the ```for``` loop to print out a *times table*. The code for that project is [here](https://trinket.io/library/trinkets/1eb68fd0e518).
-
-If you want to review any of the material shown in the last four sessions, or catch up on sessions you might have missed, you can look at the part of this website called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
-
-At the next session, on 28th March 2026, you will have two options:
-
-1. Follow along with the screen as we build up a little turtle game called *Catch the Ball*. There is some starter code for this project and you can find it here: [Catch the Ball starter code](https://trinket.io/python/0e429f731b).
-
-OR
-
-2. Code on your own and use instructions on the Raspberry Pi website. We suggest you try the *Turtle Race* game  where you code several Python turtles to race against one another. The link to the project is [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race).
+The basic instructions are on the Raspberry Pi website at [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race).
 
 Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
 
