@@ -32,9 +32,13 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 25th April 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the last session we learnt about using Scratch **Lists** and learned how to code a conversation between two sprites where we only needed a few code blocks to make a dialogue of any length. For those wanting to keep going with this project the instruactions are in this powerpoint [Using Lists in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?e=2gjLE2). The starter code is [here](https://scratch.mit.edu/projects/1295520154/).
+At next Saturday's session we will be coding a version of the well-known *Flappy Parrot* game which makes clever use of Scratch **clones**. The instructions are in a powerpoint file which you can open from this link:
 
-After Easter we may be continuing to learn a bit more about lists ... or we may decide to do something completely different! Keep an eye on this page for the latest information.
+[Using_CLONES_FlappyParrot_3.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCSMpeGtKOLQ5IwOkAavbnAAWWQXdqh5EALTOp5QYl4DV8?e=3GiHdI)
+
+There is also a starter project which you can find here [STARTER PROJECT_FlappyParrot](https://scratch.mit.edu/projects/1167247767/).
+
+At the last session we learnt about using Scratch **Lists** and learned how to code a conversation between two sprites where we only needed a few code blocks to make a dialogue of any length. For those wanting to keep going with this project the instruactions are in this powerpoint [Using Lists in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?e=2gjLE2). The starter code is [here](https://scratch.mit.edu/projects/1295520154/).
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
