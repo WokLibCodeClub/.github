@@ -38,7 +38,7 @@ At next Saturday's session we will be coding a version of the well-known *Flappy
 
 There is also a starter project which you can find here [STARTER PROJECT_FlappyParrot](https://scratch.mit.edu/projects/1167247767/).
 
-At the last session we learnt about using Scratch **Lists** and learned how to code a conversation between two sprites where we only needed a few code blocks to make a dialogue of any length. For those wanting to keep going with this project the instruactions are in this powerpoint [Using Lists in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?e=2gjLE2). The starter code is [here](https://scratch.mit.edu/projects/1295520154/).
+Before Easter we learnt about using Scratch **Lists** and coded a conversation between two sprites where we only needed a few code blocks to make a dialogue of any length. If you would like to keep going with this project the instructions are in this powerpoint [Using Lists in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?e=2gjLE2). The starter code is [here](https://scratch.mit.edu/projects/1295520154/).
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
