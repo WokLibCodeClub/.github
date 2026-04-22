@@ -36,7 +36,7 @@ At next Saturday's session we will be coding a version of the well-known *Flappy
 
 [Using_CLONES_FlappyParrot_3.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCSMpeGtKOLQ5IwOkAavbnAAWWQXdqh5EALTOp5QYl4DV8?e=3GiHdI)
 
-There is also a starter project which you can find here [STARTER PROJECT_FlappyParrot](https://scratch.mit.edu/projects/1167247767/).
+There is also a starter project which you can find here: [STARTER PROJECT_FlappyParrot](https://scratch.mit.edu/projects/1167247767/).
 
 Before Easter we learnt about using Scratch **Lists** and coded a conversation between two sprites where we only needed a few code blocks to make a dialogue of any length. If you would like to keep going with this project the instructions are in this powerpoint [Using Lists in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?e=2gjLE2). The starter code is [here](https://scratch.mit.edu/projects/1295520154/).
 
@@ -86,11 +86,11 @@ The next session will take place on **Saturday 25th April 2026**. We will be cod
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-After Easter we will be looking at an ***improved Turtle Race*** project where you can make as many turtles as you want, with less code than the original game! If you have not tried the basic Turtle Race project you might like to have a go during the holidays, as the improved version will make more sense then.
+After Easter we will be looking at an ***improved Turtle Race*** project where you can make as many turtles as you want, with less code than the original game!
 
-The basic instructions are on the Raspberry Pi website at [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race).
+We will use a version of the basic turtle race as our starting point. You can either use this [starter project](https://trinket.io/library/trinkets/116be44a2f) or use your own personal version of the *Turtle Race* (as long as it's not too different from the Raspberry Pi version).
 
-Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
+If you have not yet tried coding the basic Turtle Race project you might like to have a go during the holidays, as the improved version will make more sense then. The instructions are on the Raspberry Pi website at [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race). Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
 
 ![turtle race demo](turtle_race_demo.gif)
 
