@@ -1,6 +1,6 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Saturday 25th April 2026
+## Next Code Club sessions: Saturday 2nd May 2026
 
 We are taking a break for Easter, and our next sessions will take place on **Saturday 25th April 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
@@ -30,7 +30,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 25th April 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 2nd May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 At next Saturday's session we will be coding a version of the well-known *Flappy Parrot* game which makes clever use of Scratch **clones**. The instructions are in a powerpoint file which you can open from this link:
 
@@ -82,7 +82,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 25th April 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 2nd May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
