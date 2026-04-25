@@ -90,7 +90,7 @@ At the next session we will finish off our ***improved Turtle Race*** project wh
 
 We started last time using this [starter project](https://trinket.io/library/trinkets/116be44a2f). (You could also use your own personal version of the *Turtle Race* as long as it's not too different from the Raspberry Pi version).
 
-At the end of the last session the code we wrote looked like this: [link waiting to be added]().
+At the end of the last session the code we wrote looked like this: [https://trinket.io/library/trinkets/8c898dc82ed9](https://trinket.io/library/trinkets/8c898dc82ed9).
 
 If you have not yet tried coding the basic Turtle Race project you might like to have a go during the holidays, as the improved version will make more sense then. The instructions are on the Raspberry Pi website at [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race). Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
 
