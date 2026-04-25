@@ -32,7 +32,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 2nd May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At next Saturday's session we will be coding a version of the well-known *Flappy Parrot* game which makes clever use of Scratch **clones**. The instructions are in a powerpoint file which you can open from this link:
+At the last session we coded a version of the well-known *Flappy Bird* game which makes clever use of Scratch **clones**. The instructions are in a powerpoint file which you can open from this link:
 
 [Using_CLONES_FlappyParrot_3.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCSMpeGtKOLQ5IwOkAavbnAAWWQXdqh5EALTOp5QYl4DV8?e=3GiHdI)
 
