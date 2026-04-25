@@ -86,9 +86,11 @@ The next session will take place on **Saturday 2nd May 2026**. We will be coding
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-After Easter we will be looking at an ***improved Turtle Race*** project where you can make as many turtles as you want, with less code than the original game!
+At the next session we will finish off our ***improved Turtle Race*** project where you can make as many turtles as you want, with less code than the original game!
 
-We will use a version of the basic turtle race as our starting point. You can either use this [starter project](https://trinket.io/library/trinkets/116be44a2f) or use your own personal version of the *Turtle Race* (as long as it's not too different from the Raspberry Pi version).
+We started last time using this [starter project](https://trinket.io/library/trinkets/116be44a2f). (You could also use your own personal version of the *Turtle Race* as long as it's not too different from the Raspberry Pi version).
+
+At the end of the last session the code we wrote looked like this: []().
 
 If you have not yet tried coding the basic Turtle Race project you might like to have a go during the holidays, as the improved version will make more sense then. The instructions are on the Raspberry Pi website at [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race). Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
 
