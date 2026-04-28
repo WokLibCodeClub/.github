@@ -34,7 +34,7 @@ The next session will take place on **Saturday 2nd May 2026**. We will be coding
 
 Next week we will write code to create your own *interactive shop* where you can decide what you want to sell, set your own prices, and even manage your shop accounts with a few extra variables! We will follow the instructions from this Raspberry Pi website: [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please/0). If you want to look at an example of a music shop see [here](https://scratch.mit.edu/projects/974819805).
 
-When we ran this project before we found there was a useful website for removing the background from images you might find on the internet of things which you might want to sell in your shop. The website is [https://www.erase.bg/](https://www.erase.bg/).
+When we ran this project before we found there was a useful website for removing the background from images on the internet of things which you might want to sell in your shop. The website is [https://www.erase.bg/](https://www.erase.bg/).
 
 At the last session we coded a version of the well-known *Flappy Bird* game which makes clever use of Scratch **clones**. The instructions are in a powerpoint file which you can open from this link:
 
