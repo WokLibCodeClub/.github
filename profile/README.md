@@ -32,13 +32,13 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 2nd May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
+Next week we will write code to create your own *interactive shop* where you can decide what you want to sell, set your own prices, and even manage your shop accounts with a few extra variables! We will follow the instructions from this Raspberry Pi website: [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please/0). If you want to look at an example of a music shop see [here](https://scratch.mit.edu/projects/974819805).
+
 At the last session we coded a version of the well-known *Flappy Bird* game which makes clever use of Scratch **clones**. The instructions are in a powerpoint file which you can open from this link:
 
 [Using_CLONES_FlappyParrot_3.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCSMpeGtKOLQ5IwOkAavbnAAWWQXdqh5EALTOp5QYl4DV8?e=3GiHdI)
 
 There is also a starter project which you can find here: [STARTER PROJECT_FlappyParrot](https://scratch.mit.edu/projects/1167247767/).
-
-Before Easter we learnt about using Scratch **Lists** and coded a conversation between two sprites where we only needed a few code blocks to make a dialogue of any length. If you would like to keep going with this project the instructions are in this powerpoint [Using Lists in Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCsDu0Yx1NpQqo_SQBkuHRSAWQ53GdVyVUpkYmFUhU04FQ?e=2gjLE2). The starter code is [here](https://scratch.mit.edu/projects/1295520154/).
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
