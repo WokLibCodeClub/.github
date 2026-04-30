@@ -94,6 +94,8 @@ We started last time using this [starter project](https://trinket.io/library/tri
 
 At the end of the last session the code we wrote looked like this: [https://trinket.io/library/trinkets/8c898dc82ed9](https://trinket.io/library/trinkets/8c898dc82ed9).
 
+We will look at writing a sophisticated ```input()``` routine for the game and we will develop this code using a simple programme [here](https://trinket.io/library/trinkets/ac4b9865fd2e).
+
 If you have not yet tried coding the basic Turtle Race project you might like to have a go during the holidays, as the improved version will make more sense then. The instructions are on the Raspberry Pi website at [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race). Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
 
 ![turtle race demo](turtle_race_demo.gif)
