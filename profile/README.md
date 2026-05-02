@@ -1,8 +1,8 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Saturday 2nd May 2026
+## Next Code Club sessions: Saturday 30th May 2026
 
-We are taking a break for Easter, and our next sessions will take place on **Saturday 2nd May 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 30th May 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -30,7 +30,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 2nd May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 30th May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 Next week we will write code to create your own *interactive shop* where you can decide what you want to sell, set your own prices, and even manage your shop accounts with a few extra variables! We will follow the instructions from this Raspberry Pi website: [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please/0). If you want to look at an example of a music shop see [here](https://scratch.mit.edu/projects/974819805).
 
@@ -84,7 +84,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 2nd May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 30th May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
