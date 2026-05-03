@@ -36,6 +36,8 @@ At the next session we will be writing code for the BBC microbit:
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
+The coding is very similar to Scratch, and we will be making a Rock-Paper-Scissors game.
+
 Last time we wrote code to create an *interactive shop* with various goods to sell, using instructions from the Raspberry Pi website: [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please/0). If you want to look at an example of a music shop see [here](https://scratch.mit.edu/projects/974819805).
 
 We found there was a useful website for removing the background from internet images of things which you might want to sell in your shop. The website is [https://www.erase.bg/](https://www.erase.bg/). If you remove the background from images they make much more effective costumes for Scratch sprites. In next Saturday's session we will show you how to use an internet image as a costume for a sprite.
