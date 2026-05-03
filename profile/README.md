@@ -96,6 +96,8 @@ We will be discovering the basic functions in Python, and exploring some of the 
 
 At the last session we finished off our ***improved Turtle Race*** project where you can make as many turtles as you want. We added refinements to have the game show which turtle had won, to ask the user how many turtles but make sure the answer was a sensible number and to adjust the grid lines to match the number of turtles. The code for the final project is [here](https://trinket.io/library/trinkets/bbae8e830ef5).
 
+As part of the ```input()``` function in the final code we learnt a useful technique for restricting the inputs which would be accepted. We adapted a simple input routine in [this](https://trinket.io/library/trinkets/ac4b9865fd2e) project and added some additional restrictions to end up with [this](https://trinket.io/library/trinkets/5bee99646aad) code.
+
 ### Challenges for more experienced Python coders:
 
 We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
