@@ -32,7 +32,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 30th May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the next session we will be writing code for the BBC microbit:
+At the next session we will be writing code for the BBC micro:bit:
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
@@ -94,34 +94,13 @@ The next session will take place on **Saturday 30th May 2026**. We will be codin
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-At the next session we will finish off our ***improved Turtle Race*** project where you can make as many turtles as you want, with less code than the original game!
+At the next session we will be writing Python code for the BBC micro:bit:
 
-We started last time using this [starter project](https://trinket.io/library/trinkets/116be44a2f). (You could also use your own personal version of the *Turtle Race* as long as it's not too different from the Raspberry Pi version).
+![bbc micro:bit v2](microbit_v2-removebg.png)
 
-At the end of the last session the code we wrote looked like this: [https://trinket.io/library/trinkets/8c898dc82ed9](https://trinket.io/library/trinkets/8c898dc82ed9).
+We will be discovering the basic functions in Python, and exploring some of the sensors which the micro:bit includes. We will start coding a simple game to test your hand control.
 
-We will look at writing a sophisticated ```input()``` routine for the game and we will develop this code using a simple programme [here](https://trinket.io/library/trinkets/ac4b9865fd2e).
-
-If you have not yet tried coding the basic Turtle Race project you might like to have a go during the holidays, as the improved version will make more sense then. The instructions are on the Raspberry Pi website at [Turtle Race](https://projects.raspberrypi.org/en/projects/turtle-race). Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
-
-![turtle race demo](turtle_race_demo.gif)
-
-```
-Special Instructions for Turtle Race:
-====================================
-
-DON'T follow the link to the starter project on the Raspberry Pi website
-as this will take you to a different Python editor where you won't be able
-to save your code.
-
-Instead, create a New Project in your trinket account and give it a name.
-
-As the first line of your code in the new project insert this:
-
-#!/bin/python3
-
-After that you can follow the instructions on the Raspberry Pi site.
-```
+At the last session we finished off our ***improved Turtle Race*** project where you can make as many turtles as you want. We added refinements to have the game show which turtle had won, to ask the user how many turtles but make sure the answer was a sensible number and to adjust the grid lines to match the number of turtles. The code for the final project is [here](https://trinket.io/library/trinkets/bbae8e830ef5).
 
 ### Challenges for more experienced Python coders:
 
