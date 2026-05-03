@@ -42,12 +42,6 @@ Last time we wrote code to create an *interactive shop* with various goods to se
 
 We found there was a useful website for removing the background from internet images of things which you might want to sell in your shop. The website is [https://www.erase.bg/](https://www.erase.bg/). If you remove the background from images they make much more effective costumes for Scratch sprites. We showed how to use an internet image as a costume for a sprite.
 
-At the last session we coded a version of the well-known *Flappy Bird* game which makes clever use of Scratch **clones**. The instructions are in a powerpoint file which you can open from this link:
-
-[Using_CLONES_FlappyParrot_3.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQCSMpeGtKOLQ5IwOkAavbnAAWWQXdqh5EALTOp5QYl4DV8?e=3GiHdI)
-
-There is also a starter project which you can find here: [STARTER PROJECT_FlappyParrot](https://scratch.mit.edu/projects/1167247767/).
-
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 -->
