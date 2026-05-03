@@ -34,7 +34,7 @@ The next session will take place on **Saturday 30th May 2026**. We will be codin
 
 At the next session we will be writing code for the BBC microbit:
 
-
+![bbc micro:bit v2](microbit_v2-removebg.png)
 
 Last time we wrote code to create an *interactive shop* with various goods to sell, using instructions from the Raspberry Pi website: [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please/0). If you want to look at an example of a music shop see [here](https://scratch.mit.edu/projects/974819805).
 
