@@ -32,9 +32,13 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 30th May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-Next week we will write code to create your own *interactive shop* where you can decide what you want to sell, set your own prices, and even manage your shop accounts with a few extra variables! We will follow the instructions from this Raspberry Pi website: [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please/0). If you want to look at an example of a music shop see [here](https://scratch.mit.edu/projects/974819805).
+At the next session we will be writing code for the BBC microbit:
 
-When we ran this project before we found there was a useful website for removing the background from internet images of things which you might want to sell in your shop. The website is [https://www.erase.bg/](https://www.erase.bg/). If you remove the background from images they make much more effective costumes for Scratch sprites. In next Saturday's session we will show you how to use an internet image as a costume for a sprite.
+
+
+Last time we wrote code to create an *interactive shop* with various goods to sell, using instructions from the Raspberry Pi website: [Next customer please](https://projects.raspberrypi.org/en/projects/next-customer-please/0). If you want to look at an example of a music shop see [here](https://scratch.mit.edu/projects/974819805).
+
+We found there was a useful website for removing the background from internet images of things which you might want to sell in your shop. The website is [https://www.erase.bg/](https://www.erase.bg/). If you remove the background from images they make much more effective costumes for Scratch sprites. In next Saturday's session we will show you how to use an internet image as a costume for a sprite.
 
 At the last session we coded a version of the well-known *Flappy Bird* game which makes clever use of Scratch **clones**. The instructions are in a powerpoint file which you can open from this link:
 
