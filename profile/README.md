@@ -92,7 +92,7 @@ At the next session we will be writing Python code for the BBC micro:bit:
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
-We will be discovering the basic functions in Python, and exploring some of the sensors which the micro:bit includes. We will start coding a simple game to test your hand control.
+We will be discovering (or in some cases revising) the basic functions in Python, and exploring some of the sensors which the micro:bit includes. We will start coding a simple game to test your hand control.
 
 At the last session we finished off our ***improved Turtle Race*** project where you can make as many turtles as you want. We added refinements to have the game show which turtle had won, to ask the user how many turtles but make sure the answer was a sensible number and to adjust the grid lines to match the number of turtles. The code for the final project is [here](https://trinket.io/library/trinkets/bbae8e830ef5).
 
