@@ -116,11 +116,6 @@ We have devised a series of Python coding challenges to test your abilities. You
 
 4. [Space Race](https://github.com/WokLibCodeClub/SpaceRace/blob/master/README.md). Move your rocket from the bottom to the top of the screen - but if you get hit by an asteroid on the way you will be instantly transported back to the start! This is a re-creation of an arcade game which was first invented in the 1970s. The instructions will show you how to build the game, but they don't give a complete explanation of how the code is actually working. You will have to look at your code as you write it and figure this out for yourself.
 
-
-### How to make a Trinket account
-
-You will need a trinket account for the Code Club's Python sessions. If you don't have one already you can create one by going to [trinket.io/signup](https://trinket.io/signup). You will need a valid email address to create an account. You can find a guide for using a trinket account [here](https://github.com/WokLibCodeClub/Hello-Python/blob/main/trinket_basics/using_trinket.md).
-
 #### Trinket is closing down in August 2026.
 
 Unfortunately the trinket website will be shutting down in August 2026, so we will need to find an alternative site to use for our Python sessions. We are currently trying out different options but luckily there are still a few months left before we have to choose. We will continue to use trinket as before, for the time being, and we will help users to save any code they've written on trinket before it closes.
