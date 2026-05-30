@@ -1,8 +1,8 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Saturday 30th May 2026
+## Next Code Club sessions: Saturday 6th June 2026
 
-Our next sessions will take place on **Saturday 30th May 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 6th June 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -30,7 +30,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 30th May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 6th June 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 At the next session we will be writing code for the BBC micro:bit:
 
@@ -84,23 +84,15 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 30th May 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 6th June 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-At the next session we will be writing Python code for the BBC micro:bit:
+At the next session we will finish coding the *Tilting Game* for the BBC micro:bit:
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
-We will be discovering (or in some cases revising) the basic functions in Python, and exploring some of the sensors which the micro:bit includes. We will start coding a simple game to test your hand control.
-
-Here is a line of code you might want to copy, to avoid you having to do a lot of typing:
-
-```Image('00500:05750:57975:05750:00500')```
-
-At the last session we finished off our ***improved Turtle Race*** project where you can make as many turtles as you want. We added refinements to have the game show which turtle had won, to ask the user how many turtles but make sure the answer was a sensible number and to adjust the grid lines to match the number of turtles. The code for the final project is [here](https://trinket.io/library/trinkets/bbae8e830ef5).
-
-As part of the ```input()``` function in the final code we learnt a useful technique for restricting the inputs which would be accepted. We adapted a simple input routine in [this](https://trinket.io/library/trinkets/ac4b9865fd2e) project and added some additional restrictions to end up with [this](https://trinket.io/library/trinkets/5bee99646aad) code.
+We need to add code to 1)start the game; 2) finish the game; 3) time how long it took to get all the pixels illuminated.
 
 ### Challenges for more experienced Python coders:
 
