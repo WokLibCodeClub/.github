@@ -90,6 +90,8 @@ At the next session we will finish coding the *Tilting Game* for the BBC micro:b
 
 We need to add code to 1)start the game; 2) finish the game; 3) time how long it took to get all the pixels illuminated.
 
+You can find the code we wrote for the game so far [here](tilt_game_microbit.py).
+
 ### Challenges for more experienced Python coders:
 
 We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
