@@ -36,7 +36,7 @@ At the next session we will be writing code for the BBC micro:bit:
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
-This week we are going to use the micro:bit to make and *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. The instructions are on a video and the link is
+This week we are going to use the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. The instructions are on a video and the link is
 
 [Apple Catcher Game](https://www.youtube.com/watch?v=amh9SMzyf80).
 
