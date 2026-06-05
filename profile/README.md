@@ -36,11 +36,11 @@ At the next session we will be writing code for the BBC micro:bit:
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
-This week we are going to use the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. The instructions are on a video and the link is
+This week we are going to use the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. This will be an interesting project as it uses blocks from the Advanced *Game* set of blocks.
 
-[Apple Catcher Game](https://www.youtube.com/watch?v=amh9SMzyf80).
-
-You can either work your own way through the video or watch as we build up the project on the screen. This will be an interesting project as it uses blocks from the Advanced *Game* set of blocks.
+This PowerPoint file 
+[Apple Catcher Game](https://docs.google.com/presentation/d/1ZkbG4B5GBoNTQCQ7aiXyluyf0LMRHlWk/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true)
+shows the steps for building the project.
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
