@@ -88,13 +88,11 @@ The next session will take place on **Saturday 27th June 2026**. We will be codi
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-At the next session we will finish coding the *Tilting Game* for the BBC micro:bit:
-
 ![bbc micro:bit v2](microbit_v2-removebg.png)![Robo:bit buggy](buggy.png)
 
-We need to add code to 1)start the game; 2) finish the game; 3) time how long it took to get all the pixels illuminated.
+At the last session we finished coding the *Tilting Game* for the BBC micro:bit by adding code to 1)start the game; 2) finish the game; 3) time how long it took to get all the pixels illuminated.
 
-You can find the code we wrote for the game so far [here](tilt_game_microbit.py).
+You can find the final code we wrote for the game [here](tilt_game_microbit.py).
 
 ### Challenges for more experienced Python coders:
 
