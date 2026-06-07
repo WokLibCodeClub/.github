@@ -36,7 +36,7 @@ At the next session we will be writing code for the BBC micro:bit:
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
-This week we are going to use the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. This will be an interesting project as it uses blocks from the Advanced *Game* set of blocks.
+Last week week we used the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. This used blocks from the Advanced *Game* set of blocks.
 
 This PowerPoint file 
 [Apple Catcher Game](https://docs.google.com/presentation/d/1ZkbG4B5GBoNTQCQ7aiXyluyf0LMRHlWk/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true)
