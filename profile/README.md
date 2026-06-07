@@ -88,6 +88,8 @@ The next session will take place on **Saturday 27th June 2026**. We will be codi
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
+We are going to write code for microbit: buggies, and finish by using a second micro:bit to control these remotely. Maybe we can have races on the floor of the meeting room!
+
 ![bbc micro:bit v2](microbit_v2-removebg.png)![Robo:bit buggy](buggy.png)
 
 At the last session we finished coding the *Tilting Game* for the BBC micro:bit by adding code to 1)start the game; 2) finish the game; 3) time how long it took to get all the pixels illuminated.
