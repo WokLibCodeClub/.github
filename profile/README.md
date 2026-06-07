@@ -90,7 +90,7 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 
 At the next session we will finish coding the *Tilting Game* for the BBC micro:bit:
 
-![bbc micro:bit v2](microbit_v2-removebg.png)
+![bbc micro:bit v2](microbit_v2-removebg.png)![Robo:bit buggy]()buggy.png
 
 We need to add code to 1)start the game; 2) finish the game; 3) time how long it took to get all the pixels illuminated.
 
