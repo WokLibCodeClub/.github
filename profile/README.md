@@ -32,9 +32,14 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 27th June 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the next session we will be writing code for the BBC micro:bit:
+At the next session we will be writing another program for the BBC micro:bit.  
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
+
+We will create a 2-player game to see who has the fastest reactions.  We will start by creating a simple game that shows an image after a random amount of time - then whoever presses their button first is the winner.   We will then extend the program to make a timed game that will count how may times each player clicks their button first before the time runs out.
+
+_PowerPoint file to follow._
+
 
 Last week week we used the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. This used blocks from the Advanced *Game* set of blocks.
 
