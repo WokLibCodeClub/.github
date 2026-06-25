@@ -40,12 +40,10 @@ We will create a 2-player game to see who has the fastest reactions.  We will st
 
 This PowerPoint file [Quick Reaction Game](https://docs.google.com/presentation/d/1A_yYni3wPlvpQjE0PzA4IlrCi02OqVHw/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true) shows steps for building the project.
 
-          
-
-Last week week we used the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. This used blocks from the Advanced *Game* set of blocks.
-
-This PowerPoint file
-[Apple Catcher Game](https://docs.google.com/presentation/d/1ZkbG4B5GBoNTQCQ7aiXyluyf0LMRHlWk/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true)
+<br>
+Last time we used the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. This used blocks from the Advanced *Game* set of blocks.  
+This PowerPoint file 
+[Apple Catcher Game](https://docs.google.com/presentation/d/1ZkbG4B5GBoNTQCQ7aiXyluyf0LMRHlWk/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true) 
 shows the steps for building the project.
 
 <!-- 
