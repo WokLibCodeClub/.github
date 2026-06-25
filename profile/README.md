@@ -36,15 +36,15 @@ At the next session we will be writing another program for the BBC micro:bit.
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
-We will create a 2-player game to see who has the fastest reactions.  We will start by creating a simple game that shows an image after a random amount of time - then whoever presses their button first is the winner.   We will then extend the program to make a timed game that will count how may times each player clicks their button first before the time runs out.
+We will create a 2-player game to see who has the fastest reactions.  We will start by creating a simple game that shows an image after a random amount of time - then whoever presses their button first is the winner.   We will then extend the program to count as each player wins a round.  The first player to reach a pre-defined number of rounds will be the winner!
 
 This PowerPoint file [Quick Reaction Game](https://docs.google.com/presentation/d/1A_yYni3wPlvpQjE0PzA4IlrCi02OqVHw/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true) shows steps for building the project.
 
-
+          
 
 Last week week we used the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. This used blocks from the Advanced *Game* set of blocks.
 
-This PowerPoint file 
+This PowerPoint file
 [Apple Catcher Game](https://docs.google.com/presentation/d/1ZkbG4B5GBoNTQCQ7aiXyluyf0LMRHlWk/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true)
 shows the steps for building the project.
 
