@@ -1,8 +1,8 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Saturday 27th June 2026
+## Next Code Club sessions: Saturday Saturday 4th July 2026
 
-Our next sessions will take place on **Saturday 27th June 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF.
+Our next sessions will take place on **Saturday 4th July 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF. This will be the last session before our summer break.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -30,15 +30,15 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 27th June 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 4th July 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the next session we will be writing another program for the BBC micro:bit.  
+At the next session, the last before the summer break, we will either be writing another program for the BBC micro:bit or find an interesting Scratch project. Keep a look out on this page to see!
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
-We will create a 2-player game to see which player has the fastest reactions.  We will start by creating a simple game that shows an image after a random amount of time - then whoever presses their button first is the winner.   We will then extend the program to count as each player wins a round.  The first player to reach a pre-defined number of rounds will be the winner!
+last time We made a 2-player game to see which player has the fastest reactions.  The game showed an image after a random amount of time - then whoever presses their button first was the winner.   
 
-This PowerPoint file [Quick Reaction Game](https://docs.google.com/presentation/d/1A_yYni3wPlvpQjE0PzA4IlrCi02OqVHw/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true) shows the steps for building the project.
+If you want to catch up on this game there is a PowerPoint file [Quick Reaction Game](https://docs.google.com/presentation/d/1A_yYni3wPlvpQjE0PzA4IlrCi02OqVHw/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true) shows the steps for building the project.
 
 
 Last time we used the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. This used blocks from the Advanced *Game* set of blocks.  
@@ -87,17 +87,15 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 27th June 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place on **Saturday 4th July 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-We are going to write code for micro:bit buggies, and hopefully end by using a second micro:bit to control these remotely. Maybe we can have races on the floor of the meeting room!
+At our last session before the summer break we are going to complete the code for radio controlled micro:bit buggies. Maybe we can have races on the floor of the meeting room!
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)![Robo:bit buggy](buggy.png)
 
-At the last session we finished coding the *Tilting Game* for the BBC micro:bit by adding code to 1)start the game; 2) finish the game; 3) time how long it took to get all the pixels illuminated.
-
-You can find the final code we wrote for the game [here](tilt_game_microbit.py).
+We wrote code for the buggy last time, and we will adjust this so the buggy con be controlled by radio signals. We will then write code for a second microbit - the "controller" - which will send commands to the buggy.
 
 ### Challenges for more experienced Python coders:
 
