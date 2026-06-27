@@ -36,7 +36,7 @@ At the next session, the last before the summer break, we will either be writing
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)
 
-Last time We made a 2-player game to see which player has the fastest reactions.  The game showed an image after a random amount of time - then whoever presses their button first was the winner.   
+Last time we made a 2-player game to see which player has the fastest reactions.  The game showed an image after a random amount of time - then whoever presses their button first was the winner.   
 
 If you want to catch up on this game there is a PowerPoint file [Quick Reaction Game](https://docs.google.com/presentation/d/1A_yYni3wPlvpQjE0PzA4IlrCi02OqVHw/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true) shows the steps for building the project.
 
