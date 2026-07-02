@@ -32,9 +32,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 4th July 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the next session, the last before the summer break, we will either be writing another program for the BBC micro:bit or find an interesting Scratch project. Keep a look out on this page to see!
-
-![bbc micro:bit v2](microbit_v2-removebg.png)
+At the next session, the last before the summer break, we will return to Scratch to make a virtual pet.. 
 
 Last time we made a 2-player game to see which player has the fastest reactions.  The game showed an image after a random amount of time - then whoever presses their button first was the winner.   
 
