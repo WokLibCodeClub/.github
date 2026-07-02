@@ -32,9 +32,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 The next session will take place on **Saturday 4th July 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
 
-At the next session, the last before the summer break, we will return to Scratch to make a virtual pet.. 
+At the next session, the last before the summer break, we will return to Scratch to code up a *virtual pet*. You can find instructions for this project at [Virtual_Pet_Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQAE3YQRs-boQLcJwMt7GyQaAaHd1Cgf8fyCOf3ywZT6bqo?e=pm3YgP). The Powerpoint file includes links to other Scratch projects, and to a tutorial on making virtual pets which you can find at [Virtual Pet](https://www.scratchfoundation.org/learn/learning-library/virtual-pet).
 
-Last time we made a 2-player game to see which player has the fastest reactions.  The game showed an image after a random amount of time - then whoever presses their button first was the winner.   
+At the last session we used BBC micro:bits to make a 2-player game to see which player has the fastest reactions.  The game showed an image after a random amount of time - then whoever presses their button first was the winner.   
 
 If you want to catch up on this game there is a PowerPoint file [Quick Reaction Game](https://docs.google.com/presentation/d/1A_yYni3wPlvpQjE0PzA4IlrCi02OqVHw/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true) which shows the steps for building the project.
 
