@@ -95,7 +95,7 @@ At our last session before the summer break we are going to complete the code fo
 
 ![bbc micro:bit v2](microbit_v2-removebg.png)![Robo:bit buggy](buggy.png)
 
-We wrote code for the buggy last time, and we will adjust this so the buggy con be controlled by radio signals. We will then write code for a second microbit - the "controller" - which will send commands to the buggy.
+We wrote code for the buggy last time, and we will adjust this so the buggy can be controlled by radio signals. We will then write code for a second microbit - the "controller" - which will send commands to the buggy.
 
 ### Challenges for more experienced Python coders:
 
