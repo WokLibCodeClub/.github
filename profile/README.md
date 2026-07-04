@@ -1,8 +1,8 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: Saturday Saturday 4th July 2026
+## Next Code Club sessions: September 2026 - check later for the starting date.
 
-Our next sessions will take place on **Saturday 4th July 2026** in the *small meeting room* at Wokingham Library, Carnival Hub, Wellington Road, RG40 2AF. This will be the last session before our summer break.
+Code Club has now finished and we are taking a summer break. We will be restarting in September.
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -30,20 +30,9 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place on **Saturday 4th July 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place in **September 2026**. Check here later for more details. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
 
-At the next session, the last before the summer break, we will return to Scratch to code up a *virtual pet*. You can find instructions for this project at [Virtual_Pet_Scratch.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQAE3YQRs-boQLcJwMt7GyQaAaHd1Cgf8fyCOf3ywZT6bqo?e=pm3YgP). The Powerpoint file includes links to other Scratch projects, and to a tutorial on making virtual pets which you can find at [Virtual Pet](https://www.scratchfoundation.org/learn/learning-library/virtual-pet).
-
-When you have finished your project why not share it and put the link in the Code Club's Scratch Studio which you can find at [WLCC 2025-2026](https://scratch.mit.edu/studios/50686841).
-
-At the last session we used BBC micro:bits to make a 2-player game to see which player has the fastest reactions.  The game showed an image after a random amount of time - then whoever presses their button first was the winner.   
-
-If you want to catch up on this game there is a PowerPoint file [Quick Reaction Game](https://docs.google.com/presentation/d/1A_yYni3wPlvpQjE0PzA4IlrCi02OqVHw/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true) which shows the steps for building the project.
-
-
-In previous sessions we used the micro:bit to make an *Apple Catcher* game where you have to catch as many falling apples as you can in 30 seconds. This used blocks from the Advanced *Game* set of blocks.  
-This PowerPoint file [Apple Catcher Game](https://docs.google.com/presentation/d/1ZkbG4B5GBoNTQCQ7aiXyluyf0LMRHlWk/edit?usp=drive_link&ouid=116750909637562215455&rtpof=true&sd=true) 
-shows the steps for building the project.
+We write code on the library's laptops, so you do not need to bring your own computer.
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
@@ -53,33 +42,13 @@ Please try to arrive a little bit before 10.30am so that you have time to get lo
 
 If you don't have an account already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need to use a parent's valid email address to sign up.
 
-### Important changes to Scratch user accounts
+#### Parental consent for Scratch accounts
 
-Scratch has recently made some changes to the terms and conditions which require age verification by a parent or adult, for users under 16 years old. If you are making a new account this will consist of an email sent to the parent's email address with a box to click to confirm that you give permission to your child to use Scratch:
-
-![Email requesting parental permission](parental_permission_email.png)
+Scratch has recently made some changes to the terms and conditions which require age verification by a parent or adult, for users under 16 years old. This will consist of an email sent to the parent's email address with a box to click to confirm that you give permission to your child to use Scratch.
 
 ***IT IS ESSENTIAL THAT YOU GIVE PERMISSION OTHERWISE YOUR CHILD WILL NOT BE ABLE TO USE SCRATCH PROPERLY IN THE CODE CLUB SESSIONS!***
 
-Some users might find an extra step is required when they try to log on to their accounts. They might see a pop-up window like this:
-
-![Scratch pop-up requiring parental permission](Scratch_parental_permission_required.png)
-
-This process needs to be carried out by the parent, and will need the parent or responsible adult to fill in their email address. Again, it is essential that you do this to enable your child to use Scratch properly.
-
-Once the Scratch user's account has been confirmed the user will be able to *SHARE* projects without any further action.
-
-**Link for the Code Club's Scratch _Studio_**
-
-We use a *Studio* on the Scratch website for sharing projects in the Code Club sessions. The link to this is [WLCC 2025-2026](https://scratch.mit.edu/studios/50686841). Don't forget, if you want to put a project in the Studio you must *SHARE* it first.
-
-### Don't forget *Rapid Router*
-
-If you want to keep improving your coding skills don't forget the [*Rapid Router*](https://www.codeforlife.education/rapidrouter/#) game. ***Please note:*** you need a Code for Life login to access most levels above 21. If you do not have a login please follow the instructions [below](#How-to-make-a-Code-for-Life-account) to make one. 
-
-*Rapid Router* is a lot of fun, but it's much more than a game - it is a very clever way of teaching the main elements of good coding. But, to make the most of it, you have to try and get full marks for every level. If you're don't do this you will be missing out on the learning opportunities of this game.
-
-#### How to make a Code for Life account
+### How to make a Code for Life account
 
 To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button.
 
@@ -87,34 +56,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place on **Saturday 4th July 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer.
+The next session will take place in **September 2026**. Check back here later for the dates. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need accounts with Raspberry Pi - details below.
 
-Please try to arrive a little bit before 11.45am so that you have time to get logged in to your trinket account and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
+Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-At our last session before the summer break we are going to complete the code for radio controlled micro:bit buggies. Maybe we can have races on the floor of the meeting room!
-
-![bbc micro:bit v2](microbit_v2-removebg.png)![Robo:bit buggy](buggy.png)
-
-We wrote code for the buggy last time, and we will adjust this so the buggy can be controlled by radio signals. We will then write code for a second microbit - the "controller" - which will send commands to the buggy.
-
-### Challenges for more experienced Python coders:
-
-We have devised a series of Python coding challenges to test your abilities. You can find the challenges at
-
-&nbsp;&nbsp;[https://woklibcodeclub.github.io/site/coding_challenges/index.html](https://woklibcodeclub.github.io/site/coding_challenges/index.html)
-
-### More complicated projects for those who have done some of the beginner Python projects already:
-
-**Warning**: these projects are significantly harder than the ones above, and most of them run to around 200 lines of code. You will have to read the instructions carefully to make your code work!
-
-1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
-
-2. [Hangman](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) This is a very old game which people used to play using paper and pencil. In the computer version you have to guess a mystery word by suggesting letters and finding out if they are in the word or not. If you don't get the word in six guesses you will be hanged!!! This project also shows how you can import data from a text file into a Python project. We have updated the instructions to show how to import your own word list into the game.
-
-3. [Python clock](https://github.com/WokLibCodeClub/Python-Clock/blob/master/README.md). We made this project when the classroom clock broke, and we needed to be able to tell the time to know when to go home. You will make a digital clock with Python first, then extend it to make a round clock with hands, using Python turtles.
-
-4. [Space Race](https://github.com/WokLibCodeClub/SpaceRace/blob/master/README.md). Move your rocket from the bottom to the top of the screen - but if you get hit by an asteroid on the way you will be instantly transported back to the start! This is a re-creation of an arcade game which was first invented in the 1970s. The instructions will show you how to build the game, but they don't give a complete explanation of how the code is actually working. You will have to look at your code as you write it and figure this out for yourself.
-
-#### Trinket is closing down in August 2026.
-
-Unfortunately the trinket website will be shutting down in August 2026, so we will need to find an alternative site to use for our Python sessions. We are currently trying out different options but luckily there are still a few months left before we have to choose. We will continue to use trinket as before, for the time being, and we will help users to save any code they've written on trinket before it closes.
