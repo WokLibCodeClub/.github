@@ -56,7 +56,10 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place in **September 2026**. Check back here later for the dates. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need accounts with Raspberry Pi - details below.
+The next session will take place in **September 2026**. Check back here later for the dates. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need accounts with Raspberry Pi Foundation - details below.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
+### How to make a Raspberry Pi Foundation account
+
+To make a *Raspberry Pi Foundation* account go to [my.raspberrypi.org/signup](https://my.raspberrypi.org/signup) and click on *Create a free account*. If you are 12 or under you will need to use a parent's email address. Otherwise you can use your own email address. Enter the details and create your account. Once you have made an account you can go to [editor.raspberrypi.org/en/](https://editor.raspberrypi.org/en/) and log in.
