@@ -70,6 +70,6 @@ If you have written code using the trinket.io website your account will disappea
 
 ### Standalone installation of Python on your own computer
 
-The best option for working on your trinket code after the site has closed is to download Python to your own computer in what is called a "standalone installation". Get the download file from [/www.python.org/downloads](https://www.python.org/downloads/) and  get the standalone installer. 
+The best option for working on your trinket code after the site has closed is to download Python to your own computer in what is called a "standalone installation". Open the download page at [/www.python.org/downloads](https://www.python.org/downloads/) and  get the standalone installer. 
 
 To edit code in a standalone installation open the application called **Idle***. This opens a Python console and has a File menu where you can open and create .py Python code files. You write or paste in your Python code into the code window, save it, and run it by choosing Run from the menu and selecting Run Module. The output appears in the console if it is text output, or in a separate graphics window for graphics output (eg a turtle programme).
