@@ -63,3 +63,13 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 ### How to make a Raspberry Pi Foundation account
 
 To make a *Raspberry Pi Foundation* account go to [my.raspberrypi.org/signup](https://my.raspberrypi.org/signup) and click on *Create a free account*. If you are 12 or under you will need to use a parent's email address. Otherwise you can use your own email address. Enter the details and create your account. Once you have made an account you can go to [editor.raspberrypi.org/en/](https://editor.raspberrypi.org/en/) and log in.
+
+### Closure of trinket
+
+If you have written code using the trinket.io website your account will disappear in "early August 2026". Look at the trinket website and follow the link to [trinket.io/announcement](https://trinket.io/announcement) for instructions for downloading all your projects before this site closes.
+
+### Standalone installation of Python on your own computer
+
+The best option for working on your trinket code is to download Python to your own computer in what is called a "standalone installation". Get the download file from [/www.python.org/downloads](https://www.python.org/downloads/) and  get the standalone installer. 
+
+To edit code in a standalone installation open the application called **Idle***. This opens a Python console and has a File menu where you can open and create .py Python code files. You write or paste in your Python code into the code window, save it, and run it by choosing Run from the menu and selecting Run Module. The output appears in the console if it is text output, or in a separate graphics window for graphics output (eg a turtle programme).
