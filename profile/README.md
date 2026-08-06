@@ -66,7 +66,7 @@ To make a *trinket* account go to [trinket.strivemath.org/signup](https://trinke
 
 ### Closure of original trinket website
 
-If you have written code using the trinket.io website your account will disappear on 31 August 2026 when Trinket will be shutting down. Look at the trinket website and follow the link to [trinket.io/announcement](https://trinket.io/announcement) for instructions for downloading all your projects before this site closes.
+If you have previously written code using the [trinket.io](https://trinket.io/) website your account will disappear on 31 August 2026 when this site will be shutting down. Look at the trinket website and follow the link to [trinket.io/announcement](https://trinket.io/announcement) for instructions for downloading all your projects before this site closes. If you have made a new trinket account at [trinket.strivemath.org](https://trinket.strivemath.org) you will see instructions at this site for copying all your original trinket code across to the new platform.
 
 ### Standalone installation of Python on your own computer
 
