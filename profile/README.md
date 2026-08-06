@@ -56,15 +56,15 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-The next session will take place in **September 2026**. Check back here later for the dates. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need an account with Raspberry Pi Foundation - details below.
+The next session will take place in **September 2026**. Check back here later for the dates. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-### How to make a Raspberry Pi Foundation account
+### How to make a trinket account
 
-To make a *Raspberry Pi Foundation* account go to [my.raspberrypi.org/signup](https://my.raspberrypi.org/signup) and click on *Create a free account*. If you are 12 or under you will need to use a parent's email address. Otherwise you can use your own email address. Enter the details and create your account. Once you have made an account you can go to [editor.raspberrypi.org/en/](https://editor.raspberrypi.org/en/) and log in.
+To make a *trinket* account go to [trinket.strivemath.org/signup](https://trinket.strivemath.org/signup) and fill in your email address and password. If you are 12 or under you should use a parent's email address. Otherwise you can use your own email address. Enter the details and create your account. Once you have made an account you can go to [strivemath.org/auth/login](https://strivemath.org/auth/login) and log in.
 
-### Closure of trinket
+### Closure of original trinket website
 
 If you have written code using the trinket.io website your account will disappear on 31 August 2026 when Trinket will be shutting down. Look at the trinket website and follow the link to [trinket.io/announcement](https://trinket.io/announcement) for instructions for downloading all your projects before this site closes.
 
