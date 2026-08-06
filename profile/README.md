@@ -66,7 +66,7 @@ To make a *Raspberry Pi Foundation* account go to [my.raspberrypi.org/signup](ht
 
 ### Closure of trinket
 
-If you have written code using the trinket.io website your account will disappear in "early August 2026". Look at the trinket website and follow the link to [trinket.io/announcement](https://trinket.io/announcement) for instructions for downloading all your projects before this site closes.
+If you have written code using the trinket.io website your account will disappear on 31 August 2026 when Trinket will be shutting down. Look at the trinket website and follow the link to [trinket.io/announcement](https://trinket.io/announcement) for instructions for downloading all your projects before this site closes.
 
 ### Standalone installation of Python on your own computer
 
