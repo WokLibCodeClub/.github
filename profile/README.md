@@ -1,8 +1,6 @@
 # Wokingham Library Code Club
 
-## Next Code Club sessions: September 2026 - check later for the starting date.
-
-Code Club has now finished and we are taking a summer break. We will be restarting in September.
+## Next Code Club sessions: Saturday 26th September 2026
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -14,9 +12,9 @@ These are the github pages of the **Wokingham Library Code Club**, located in Wo
 
 The club is for children aged 9 to 13, and we run twice a month in Wokingham Library, on the first and last Saturday of each month, with an early session mostly for Scratch coding followed by a later session for Python coding.
 
-These pages contain information for students about forthcoming sessions, detailed information for lots of the projects we have developed in the past, as well as background information.
-
 Students wishing to join the Code Club will need to register with Wokingham library. For information about registering and any other enquiries about the Code Club please contact Wokingham library: libraryevents@wokingham.gov.uk
+
+These pages contain information for students about forthcoming sessions, detailed information for lots of the projects we have developed in the past, as well as background information.
 
 ---
 
@@ -30,7 +28,7 @@ For a summary of the contents of all the repositories see [here](https://github.
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The next session will take place in **September 2026**. Check here later for more details. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
+The first session of the new term will take place on **Saturday 26th September 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
 
 We write code on the library's laptops, so you do not need to bring your own computer.
 
@@ -58,7 +56,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-The next session will take place in **September 2026**. Check back here later for the dates. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
+The first session of the new term will take place on **Saturday 26th September 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
 
 ### How to make a trinket account
 
