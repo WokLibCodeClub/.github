@@ -42,7 +42,7 @@ If you don't have an account already you can create one by going to [Join Scratc
 
 #### Parental consent for Scratch accounts
 
-Scratch has recently made some changes to the terms and conditions which require age verification by a parent or adult, for users under 16 years old. This will consist of an email sent to the parent's email address with a box to click to confirm that you give permission to your child to use Scratch.
+Scratch has recently made some changes to the terms and conditions which require age verification by a parent or adult, for users under 16 years old. This will consist of **an email sent to the parent's email address with a box to click to confirm that you give permission to your child to use Scratch**.
 
 ***PARENTS: IT IS ESSENTIAL THAT YOU GIVE PERMISSION OTHERWISE YOUR CHILD WILL NOT BE ABLE TO USE SCRATCH PROPERLY IN THE CODE CLUB SESSIONS!***
 
