@@ -54,9 +54,9 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 ## Python (second session 11.45am to 12.45pm)
 
-Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
-
 The first session of the new term will take place on **Saturday 26th September 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
+
+Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
 ### How to make a trinket account
 
