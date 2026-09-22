@@ -58,6 +58,12 @@ The first session of the new term will take place on **Saturday 26th September 2
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
+#### For Python beginners, or those with only a little experience of Python
+
+We will be teaching a beginner course over the next four sessions which will take in the basic commands, and cover different types of Python objects. It will also include some graphics coding where we programme Python turtles to move around the screen.
+
+At the end of each session we will post a link to the code written during the session on this web page.
+
 #### Projects for those who are already familiar with the basic Python commands
 
 We recommend you try one or other of these two projects from the Raspberry Pi Code Club website:
