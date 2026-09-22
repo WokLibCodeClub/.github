@@ -58,6 +58,45 @@ The first session of the new term will take place on **Saturday 26th September 2
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
+#### Projects for those who are already familiar with the basic Python commands
+
+We recommend you try one or other of these two projects from the Raspberry Pi Code Club website:
+
+- [**Turtle Race**](https://projects.raspberrypi.org/en/projects/turtle-race)
+
+Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
+
+![Turtle Race demo](turtle_race_demo.gif "animation of turtle race")
+
+- [**Secure Messages**](https://projects.raspberrypi.org/en/projects/secure-messages)
+
+```
+Special Instructions for Turtle Race and Secure Messages:
+========================================================
+
+DON'T follow the link to the starter project on the Raspberry Pi website
+as this will take you to a different Python editor where you won't be able
+to save your code.
+
+Instead, create a New Project in your trinket account and give it a name.
+
+As the first line of your code in the new project insert this:
+
+#!/bin/python3
+
+After that you can follow the instructions on the Raspberry Pi site.
+```
+
+#### Projects for those who have done some of the beginner Python projects already:
+
+1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
+
+2. [Hangman](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) This is a very old game which people used to play using paper and pencil. In the computer version you have to guess a mystery word by suggesting letters and finding out if they are in the word or not. If you don't get the word in six guesses you will be hanged!!! This project also shows how you can import data from a text file into a Python project. We have updated the instructions to show how to import your own word list into the game.
+
+3. [Python clock](https://github.com/WokLibCodeClub/Python-Clock/blob/master/README.md). We made this project when the classroom clock broke, and we needed to be able to tell the time to know when to go home. You will make a digital clock with Python first, then extend it to make a round clock with hands, using Python turtles.
+
+4. [Space Race](https://github.com/WokLibCodeClub/SpaceRace/blob/master/README.md). Move your rocket from the bottom to the top of the screen - but if you get hit by an asteroid on the way you will be instantly transported back to the start! This is a re-creation of an arcade game which was first invented in the 1970s. The instructions will show you how to build the game, but they don't give a complete explanation of how the code is actually working. You will have to look at your code as you write it and figure this out for yourself.
+
 ### How to make a trinket account
 
 To make a *trinket* account go to [trinket.strivemath.org/signup](https://trinket.strivemath.org/signup) and fill in your email address and password. If you are 12 or under you should use a parent's email address. Otherwise you can use your own email address. Enter the details and create your account. Once you have made an account you can go to [strivemath.org/auth/login](https://strivemath.org/auth/login) and log in.
