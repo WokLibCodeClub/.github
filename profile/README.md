@@ -93,7 +93,7 @@ As the first line of your code in the new project insert this:
 After that you can follow the instructions on the Raspberry Pi site.
 ```
 
-#### Projects for those who have done some of the beginner Python projects already:
+#### Projects for those who know Python coding and are looking for some more difficult and challenging projects:
 
 1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
 
