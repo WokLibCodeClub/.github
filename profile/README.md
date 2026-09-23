@@ -54,6 +54,12 @@ Scratch has recently made some changes to the terms and conditions which require
 
 To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button.
 
+### Code Club Scratch Studio
+
+We encourage our coders to share their code with others in the group which they can do by uploading projects to the Code Club's *Scratch Studio*. This is a page on the Scratch website for sharing projects. The link is [WLCC 2026-27](https://scratch.mit.edu/studios/51996147). **Note** if you want to load one of your projects to the studio you must ***share*** it first. We will show you how to add projects to the studio at the next session.
+
+The studio is only open for adding projects during Code Club sessions at the library. At other times you can't add projects but you can look at the projects which are already there.
+
 ---
 
 ## Python (second session 11.45am to 12.45pm)
