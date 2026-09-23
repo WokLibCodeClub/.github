@@ -36,6 +36,10 @@ We write code on the library's laptops, so you do not need to bring your own com
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 -->
 
+In our first session this term we will start off using Rapid Router, which is a block coding game.  There are several levels in the game.  The goal on each level is to safely navigate a delivery van driver from a warehouse to a customer's house.  Unlike a traditional computer game that uses keyboard arrow keys to control the van we will use code blocks to create a sequence of instructions to guide the van instead.
+
+During the second half of the session we will look at the Scratch program and explore the different parts of the interface. Then we will begin to create an animated space-scene project in which alien characters ("sprites") react with sounds, dialogue and visual effects when clicked.  
+
 ### How to make a Scratch account
 
 If you don't have an account already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need to use a parent's valid email address to sign up.
