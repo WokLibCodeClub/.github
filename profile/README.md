@@ -74,6 +74,12 @@ We will be teaching a beginner course over the next four sessions which will tak
 
 At the end of each session we will post a link to the code written during the session on this web page.
 
+<details><summary> </summary>
+  
+```birthday = input('Have you had a birthday yet this year (y or n)?')```
+
+</details>
+
 #### Projects for those who are already familiar with the basic Python commands
 
 We recommend you try one or other of these two projects from the Raspberry Pi Code Club website:
