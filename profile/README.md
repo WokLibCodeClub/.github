@@ -38,10 +38,8 @@ Please try to arrive a little bit before 10.30am so that you have time to get lo
 
 In our first session this term we will start off using Rapid Router, which is a block coding game.  There are several levels in the game.  The goal on each level is to safely navigate a delivery van driver from a warehouse to a customer's house.  Unlike a traditional computer game that uses keyboard arrow keys to control the van we will use code blocks to create a sequence of instructions to guide the van instead.
 
-<details><summary></summary>
-  
-```(https://www.bebras.uk/index.php?action=anon_join&grp_id=28132)```
-
+<details><summary></summary> 
+```https://www.bebras.uk/index.php?action=anon_join&grp_id=28132```
 </details>
 
 During the second half of the session we will look at the Scratch program and explore the different parts of the interface. Then we will begin to create an animated space-scene project in which alien characters ("sprites") react with sounds, dialogue and visual effects when clicked.  
