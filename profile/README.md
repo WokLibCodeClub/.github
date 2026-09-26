@@ -72,11 +72,13 @@ The first session of the new term will take place on **Saturday 3rd October 2026
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
+If you had problems signing in to trinket last Saturday PLEASE test your login details out at home ***before*** next week so that we don't waste time at the beginning of the session. 
+
 #### For Python beginners, or those with only a little experience of Python
 
-We will be teaching a beginner course over the next four sessions which will take in the basic commands, and cover different types of Python objects. It will also include some graphics coding where we programme Python turtles to move around the screen.
+We will be continue with our beginner course by writing a small programme to calculate your age. After that we will create some Python graphics by getting a *turtle* object to move around the screen.
 
-At the end of each session we will post a link to the code written during the session on this web page.
+You can check on the code which we wrote at the last session by following this link: [trinket.strivemath.org/library/trinkets/c5a3a6f46b61](https://trinket.strivemath.org/library/trinkets/c5a3a6f46b61).
 
 <details><summary> </summary>
   
