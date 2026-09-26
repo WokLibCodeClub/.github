@@ -28,7 +28,7 @@ For a summary of the contents of all the repositories see the [complete list of 
 
 ## Scratch (first session 10.30am to 11.30am)
 
-The first session of the new term will take place on **Saturday 3rd October 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
+The next session will take place on **Saturday 3rd October 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
 
 We write code on the library's laptops, so you do not need to bring your own computer.
 
@@ -68,7 +68,7 @@ The studio is only open for adding projects during Code Club sessions at the lib
 
 ## Python (second session 11.45am to 12.45pm)
 
-The first session of the new term will take place on **Saturday 3rd October 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
+The next session will take place on **Saturday 3rd October 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
