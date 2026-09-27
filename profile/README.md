@@ -1,5 +1,7 @@
 # Wokingham Library Code Club
 
+[About the Code Club](https://github.com/WokLibCodeClub/woklibcodeclub.github.io)
+
 ## Next Code Club sessions: Saturday 3rd October 2026
 
 <h2>
