@@ -32,7 +32,7 @@ We encourage our coders to share their code with others in the group, which they
 
 The studio is only open for adding projects during Code Club sessions at the library. At other times you can't add projects but you can look at the projects which are already there.
 
-### How to make a Scratch account
+## How to make a Scratch account
 
 If you don't have an account already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need to use a parent's valid email address to sign up.
 
