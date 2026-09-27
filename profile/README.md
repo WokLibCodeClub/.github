@@ -18,7 +18,7 @@ The next session will take place on **Saturday 3rd October 2026**. If you are go
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 -->
 
-In the next session we will start by solving some more levels of the Rapid Router game which we started last week.  We encourage you to keep going with this at home, and see how far you can get. [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
+In the next session we will start by solving some more levels of the Rapid Router game which we started last week.  We encourage you to keep going with this at home, and see how far you can get. Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
 
 After that we will continue with the Scratch project *Space Talk*. If you want to try this at home the instructions are here: [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk).
 
