@@ -27,6 +27,12 @@ https://www.bebras.uk/index.php?action=anon_join&grp_id=28132
 
 During the second half of the session we will look at the Scratch program and explore the different parts of the interface. Then we will begin to create an animated space-scene project in which alien characters ("sprites") react with sounds, dialogue and visual effects when clicked.  
 
+### Code Club Scratch Studio
+
+We encourage our coders to share their code with others in the group, which they can do by uploading projects to the Code Club's *Scratch Studio*. This is a page on the Scratch website for sharing projects. The link is [WLCC 2026-27](https://scratch.mit.edu/studios/51996147). **Note** if you want to load one of your projects to the studio you must ***share*** it first. We will show you how to add projects to the studio at the next session.
+
+The studio is only open for adding projects during Code Club sessions at the library. At other times you can't add projects but you can look at the projects which are already there.
+
 ### How to make a Scratch account
 
 If you don't have an account already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need to use a parent's valid email address to sign up.
@@ -40,12 +46,6 @@ Scratch has recently made some changes to the terms and conditions which require
 ### How to make a Code for Life account
 
 To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button.
-
-### Code Club Scratch Studio
-
-We encourage our coders to share their code with others in the group, which they can do by uploading projects to the Code Club's *Scratch Studio*. This is a page on the Scratch website for sharing projects. The link is [WLCC 2026-27](https://scratch.mit.edu/studios/51996147). **Note** if you want to load one of your projects to the studio you must ***share*** it first. We will show you how to add projects to the studio at the next session.
-
-The studio is only open for adding projects during Code Club sessions at the library. At other times you can't add projects but you can look at the projects which are already there.
 
 ---
 
