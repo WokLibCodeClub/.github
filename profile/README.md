@@ -8,12 +8,11 @@
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
 </h2>
 
+---
 
 # Information for Scratch session (10.30am to 11.30am)
 
 The next session will take place on **Saturday 3rd October 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
-
-We write code on the library's laptops, so you do not need to bring your own computer.
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
@@ -51,13 +50,13 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 # Information for Python session (11.45am to 12.45pm)
 
-The next session will take place on **Saturday 3rd October 2026**. We will be coding on the library's own laptops, so you don't need to bring your own computer. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
+The next session will take place on **Saturday 3rd October 2026**. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
 If you had problems signing in to trinket last Saturday PLEASE test your login details out at home ***before*** next week so that we don't waste time at the beginning of the session. It looks as if you have to put your full email address into the box marked "Email or username". At the moment it doesn't seem to accept usernames.
 
-#### For Python beginners, or those with only a little experience of Python
+## For Python beginners, or those with only a little experience of Python
 
 We will continue with our beginner course by writing a small programme to calculate your age. After that we will create some Python graphics by getting a *turtle* object to move around the screen.
 
@@ -69,7 +68,7 @@ You can check on the code which we wrote at the last session by following this l
 
 </details>
 
-#### Projects for those who are already familiar with the basic Python commands
+## Projects for those who are already familiar with the basic Python commands
 
 We recommend you try one or other of these two projects from the Raspberry Pi Code Club website:
 
@@ -98,7 +97,7 @@ As the first line of your code in the new project insert this:
 After that you can follow the instructions on the Raspberry Pi site.
 ```
 
-#### Projects for those who know Python coding and are looking for some more difficult and challenging projects:
+## Projects for those who know Python coding and are looking for some more difficult and challenging projects:
 
 1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
 
@@ -108,7 +107,7 @@ After that you can follow the instructions on the Raspberry Pi site.
 
 4. [Space Race](https://github.com/WokLibCodeClub/SpaceRace/blob/master/README.md). Move your rocket from the bottom to the top of the screen - but if you get hit by an asteroid on the way you will be instantly transported back to the start! This is a re-creation of an arcade game which was first invented in the 1970s. The instructions will show you how to build the game, but they don't give a complete explanation of how the code is actually working. You will have to look at your code as you write it and figure this out for yourself.
 
-### How to make a trinket account
+## How to make a trinket account
 
 To make a *trinket* account go to [trinket.strivemath.org/signup](https://trinket.strivemath.org/signup) and fill in your email address and password. If you are 12 or under you should use a parent's email address. Otherwise you can use your own email address. Enter the details and create your account. Once you have made an account you can go to [strivemath.org/auth/login](https://strivemath.org/auth/login) and log in.
 
@@ -116,7 +115,7 @@ To make a *trinket* account go to [trinket.strivemath.org/signup](https://trinke
 
 The original trinket site *trinket.io* closed on 31 August 2026. If you had previously written code on this site and not downloaded it to your computer this code will unfortunately have been lost.
 
-### Standalone installation of Python on your own computer
+## Standalone installation of Python on your own computer
 
 If you don't want to use an online editor for writing Python code you can download Python to your own computer in what is called a "standalone installation". Open the download page at [www.python.org/downloads](https://www.python.org/downloads/) and  get the standalone installer. One advantage of doing this is that you have access to all Python functions, rather than the limited set provided by trinket.
 
