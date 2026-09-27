@@ -19,15 +19,15 @@ We write code on the library's laptops, so you do not need to bring your own com
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 -->
 
-In our first session this term we will start off using Rapid Router, which is a block coding game.  There are several levels in the game.  The goal on each level is to safely navigate a delivery van driver from a warehouse to a customer's house.  Unlike a traditional computer game that uses keyboard arrow keys to control the van we will use code blocks to create a sequence of instructions to guide the van instead.
+In the next session we will start by solving some more levels of the Rapid Router game which we started last week.  We encourage you to keep going with this at home, and see how far you can get. [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
+
+After that we will continue with the Scratch project *Space Talk*. If you want to try this at home the instructions are here: [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk).
 
 <details><summary></summary> 
 https://www.bebras.uk/index.php?action=anon_join&grp_id=28132
 </details>
 
-During the second half of the session we will look at the Scratch program and explore the different parts of the interface. Then we will begin to create an animated space-scene project in which alien characters ("sprites") react with sounds, dialogue and visual effects when clicked.  
-
-### Code Club Scratch Studio
+## Code Club Scratch Studio
 
 We encourage our coders to share their code with others in the group, which they can do by uploading projects to the Code Club's *Scratch Studio*. This is a page on the Scratch website for sharing projects. The link is [WLCC 2026-27](https://scratch.mit.edu/studios/51996147). **Note** if you want to load one of your projects to the studio you must ***share*** it first. We will show you how to add projects to the studio at the next session.
 
@@ -37,15 +37,15 @@ The studio is only open for adding projects during Code Club sessions at the lib
 
 If you don't have an account already you can create one by going to [Join Scratch](https://scratch.mit.edu/join). You will need to use a parent's valid email address to sign up.
 
-#### Parental consent for Scratch accounts
+### Parental consent for Scratch accounts
 
 Scratch has recently made some changes to the terms and conditions which require age verification by a parent or adult, for users under 16 years old. This will consist of **an email sent to the parent's email address with a box to click to confirm that you give permission to your child to use Scratch**.
 
 ***PARENTS: IT IS ESSENTIAL THAT YOU GIVE PERMISSION OTHERWISE YOUR CHILD WILL NOT BE ABLE TO USE SCRATCH PROPERLY IN THE CODE CLUB SESSIONS!***
 
-### How to make a Code for Life account
+## How to make a Code for Life account
 
-To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button.
+To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button and choosing the option Independent.
 
 ---
 
