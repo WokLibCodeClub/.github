@@ -109,7 +109,7 @@ After that you can follow the instructions on the Raspberry Pi site.
 
 ## How to make a trinket account
 
-To make a *trinket* account go to [trinket.strivemath.org/signup](https://trinket.strivemath.org/signup) and fill in your email address and password. If you are 12 or under you should use a parent's email address. Otherwise you can use your own email address. Enter the details and create your account. Once you have made an account you can go to [strivemath.org/auth/login](https://strivemath.org/auth/login) and log in.
+To make a *trinket* account go to [trinket.strivemath.org/signup](https://trinket.strivemath.org/signup) and fill in your email address and password. If you are 12 or under you should use a parent's email address. Otherwise you can use your own email address. Enter the details and create your account. Once you have made an account you can go to [strivemath.org/auth/login](https://strivemath.org/auth/login) and log in using either your email address or username. Once in your account you can go to *My settings* and change your username to something which is easier to remember.
 
 ### Closure of original trinket website
 
