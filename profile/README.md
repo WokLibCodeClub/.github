@@ -54,7 +54,7 @@ The next session will take place on **Saturday 3rd October 2026**. If you are go
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-If you had problems signing in to trinket last Saturday PLEASE test your login details out at home ***before*** next week so that we don't waste time at the beginning of the session. It looks as if you have to put your full email address into the box marked "Email or username". At the moment it doesn't seem to accept usernames.
+If you had problems signing in to trinket last Saturday PLEASE test your login details out at home ***before*** next week so that we don't waste time at the beginning of the session. You can log in with either your email address or username, and you can change the username to something which is easy to remember.
 
 ## For Python beginners, or those with only a little experience of Python
 
