@@ -2,7 +2,11 @@
 
 [About the Code Club](https://github.com/WokLibCodeClub/woklibcodeclub.github.io/blob/master/README.md)
 
-## Next Code Club sessions: Saturday 3rd October 2026
+# CODE CLUB SESSIONS SCHEDULED FOR 3RD OCTOBER 2026 HAVE UNFORTUNATELY HAD TO BE **CANCELLED**.
+
+This is due to sickness among the volunteers. We are very sorry for this.
+
+## Next Code Club sessions: Saturday 31st October 2026
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -12,7 +16,7 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO 
 
 # Information for Scratch session (10.30am to 11.30am)
 
-The next session will take place on **Saturday 3rd October 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
+The next session will take place on **Saturday 31st October 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
@@ -50,7 +54,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 # Information for Python session (11.45am to 12.45pm)
 
-The next session will take place on **Saturday 3rd October 2026**. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
+The next session will take place on **Saturday 31st October 2026**. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
