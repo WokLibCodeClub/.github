@@ -2,10 +2,6 @@
 
 [About the Code Club](https://github.com/WokLibCodeClub/woklibcodeclub.github.io/blob/master/README.md)
 
-# CODE CLUB SESSIONS SCHEDULED FOR 3RD OCTOBER 2026 HAVE UNFORTUNATELY HAD TO BE **CANCELLED**.
-
-This is due to sickness among the volunteers. We are very sorry for this.
-
 ## Next Code Club sessions: Saturday 31st October 2026
 
 <h2>
@@ -22,7 +18,7 @@ The next session will take place on **Saturday 31st October 2026**. If you are g
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 -->
 
-In the next session we will start by solving some more levels of the Rapid Router game which we started last week.  We encourage you to keep going with this at home, and see how far you can get. Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
+In the next session we will start by solving some more levels of the Rapid Router game which we started at the last session in September.  We encourage you to keep going with this at home, and see how far you can get. Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
 
 After that we will continue with the Scratch project *Space Talk*. If you want to try this at home the instructions are here: [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk).
 
@@ -58,7 +54,7 @@ The next session will take place on **Saturday 31st October 2026**. If you are g
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-If you had problems signing in to trinket last Saturday PLEASE test your login details out at home ***before*** next week so that we don't waste time at the beginning of the session. You can log in with either your email address or username, and you can change the username to something which is easy to remember.
+If you had problems signing in to trinket at the last session PLEASE test your login details out at home ***before*** 31st October so that we don't waste time at the beginning of the session. You can log in with either your email address or username, and you can change the username to something which is easy to remember.
 
 ## For Python beginners, or those with only a little experience of Python
 
