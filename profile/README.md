@@ -2,7 +2,7 @@
 
 [About the Code Club](https://github.com/WokLibCodeClub/woklibcodeclub.github.io/blob/master/README.md)
 
-## Next Code Club sessions: Saturday 31st October 2026
+## Next Code Club sessions: Saturday 7th November 2026
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -12,15 +12,17 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO 
 
 # Information for Scratch session (10.30am to 11.30am)
 
-The next session will take place on **Saturday 31st October 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
+The next session will take place on **Saturday 7th November 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 -->
 
-In the next session we will start by solving some more levels of the Rapid Router game which we started at the last session in September.  We encourage you to keep going with this at home, and see how far you can get. Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
+At the next session we will start, as before, by solving some more levels of the Rapid Router game which we started in September.  We encourage you to keep going with this at home, and see how far you can get. Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
 
-After that we will continue with the Scratch project *Space Talk*. If you want to try this at home the instructions are here: [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk).
+After that we will continue with a new Scratch project called *Catch the Bus*. If you want to try this at home the instructions are here: [Catch the Bus](https://projects.raspberrypi.org/en/projects/catch-the-bus).
+
+If you didn't quite finish the *Space Talk* project and want to continue with this at home the instructions are in [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk).
 
 <details><summary></summary> 
 https://www.bebras.uk/index.php?action=anon_join&grp_id=28132
@@ -50,23 +52,19 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 # Information for Python session (11.45am to 12.45pm)
 
-The next session will take place on **Saturday 31st October 2026**. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
+The next session will take place on **Saturday 7th November 2026**. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
-If you had problems signing in to trinket at the last session PLEASE test your login details out at home ***before*** 31st October so that we don't waste time at the beginning of the session. You can log in with either your email address or username, and you can change the username to something which is easy to remember.
+If you had problems signing in to trinket at the last session PLEASE test your login details out at home ***before*** the next session so that we don't waste time at the beginning of the session. You can log in with either your email address or username, and you can change the username to something which is easy to remember.
 
 ## For Python beginners, or those with only a little experience of Python
 
-We will continue with our beginner course by writing a small programme to calculate your age. After that we will create some Python graphics by getting a *turtle* object to move around the screen.
+We will continue with our beginner course by writing learning how to code a Python repeat loop to control our *turtle* object.
 
-You can check on the code which we wrote at the last session by following this link: [trinket.strivemath.org/library/trinkets/c5a3a6f46b61](https://trinket.strivemath.org/library/trinkets/c5a3a6f46b61).
+At the last session we wrote an *Age Calculator* programme to show the use of the Python ```input()``` function and the Python ```if...else``` block. You can find the code we wrote on the screen here: [Age Calculator](https://trinket.strivemath.org/library/trinkets/71bfb7b5dd6e). We also started learning about Python *turtle graphics* and wrote some simple code which you can find here: [graphics](https://trinket.strivemath.org/library/trinkets/d82fc8c0e5e3)
 
-<details><summary> </summary>
-  
-```birthday = input('Have you had a birthday yet this year (y or n)?')```
-
-</details>
+The complete list of Python colours, which we can use to colour turtle backgrounds or turtles can be found here: [colors](https://trinket.strivemath.org/docs/colors). Hover your mouse over the square of colour and the name of that colour will appear. Remember, when you use a colour in your code you need to enclose it in either single or double quote marks.
 
 ## Projects for those who are already familiar with the basic Python commands
 
