@@ -60,7 +60,7 @@ If you had problems signing in to trinket at the last session PLEASE test your l
 
 ## For Python beginners, or those with only a little experience of Python
 
-We will continue with our beginner course by writing learning how to code a Python repeat loop to control our *turtle* object.
+We will continue with our beginner course by learning how to code a Python repeat loop to control our *turtle* object.
 
 At the last session we wrote an *Age Calculator* programme to show the use of the Python ```input()``` function and the Python ```if...else``` block. You can find the code we wrote on the screen here: [Age Calculator](https://trinket.strivemath.org/library/trinkets/71bfb7b5dd6e). We also started learning about Python *turtle graphics* and wrote some simple code which you can find here: [graphics](https://trinket.strivemath.org/library/trinkets/d82fc8c0e5e3)
 
