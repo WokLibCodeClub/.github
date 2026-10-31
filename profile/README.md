@@ -64,7 +64,7 @@ We will continue with our beginner course by learning how to code a Python repea
 
 At the last session we wrote an *Age Calculator* programme to show the use of the Python ```input()``` function and the Python ```if...else``` block. You can find the code we wrote on the screen here: [Age Calculator](https://trinket.strivemath.org/library/trinkets/71bfb7b5dd6e). We also started learning about Python *turtle graphics* and wrote some simple code which you can find here: [graphics](https://trinket.strivemath.org/library/trinkets/d82fc8c0e5e3)
 
-The complete list of Python colours, which we can use to colour turtle backgrounds or turtles can be found here: [colors](https://trinket.strivemath.org/docs/colors). Hover your mouse over the square of colour and the name of that colour will appear. Remember, when you use a colour in your code you need to enclose it in either single or double quote marks.
+The complete list of Python turtle colours, which we can use to colour turtle backgrounds or turtles can be found here: [colors](https://trinket.strivemath.org/docs/colors). Hover your mouse over the square of colour and the name of that colour will appear. Remember, when you use a colour in your code you need to enclose it in either single or double quote marks.
 
 ## Projects for those who are already familiar with the basic Python commands
 
