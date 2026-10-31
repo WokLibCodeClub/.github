@@ -52,7 +52,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 # Information for Python session (11.45am to 12.45pm)
 
-The next session will take place on **Saturday 7th November 2026**. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by [Strive Math](https://www.strivemath.org/) - details below.
+The next session will take place on **Saturday 7th November 2026**. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by *Strive Math*. The home page, where you log in to your account is [trinket.strivemath.org/](https://trinket.strivemath.org/).
 
 Please try to arrive a little bit before 11.45am so that you have time to get logged in and be ready to start at 11.45am. **MAKE SURE YOU KNOW THE PASSWORD FOR YOUR ACCOUNT!!!!**
 
