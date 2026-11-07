@@ -48,7 +48,9 @@ Scratch has recently made some changes to the terms and conditions which require
 
 ## How to make a Code for Life account
 
-To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button and choosing the option Independent.
+To make a *Code for Life* account you will need to use a parent's email address. Go to [www.codeforlife.education/register_form](https://www.codeforlife.education/register_form): enter your date of birth in the **Independent learner** section then fill in the rest of the details, including your parent's email address. *YOU DO NOT NEED A COMPLICATED PASSWORD FOR A TRINKET ACCOUNT - a mix of capital letters, lower-case letters and numbers will be good enough.*  Choose something which is easy to type in when you are at Code Club sessions.   ***NEVER USE YOUR EMAIL PASSWORD FOR YOUR TRINKET ACCOUNT!!***
+
+Once you have made an account you can login by going to [www.codeforlife.education/play/](https://www.codeforlife.education/play/) and clicking on the *Log in* button and choosing the option Independent.
 
 ---
 
