@@ -66,67 +66,14 @@ Please try to arrive a little bit before 11.45am so that you have time to get lo
 
 If you had problems signing in to trinket at the last session PLEASE test your login details out at home ***before*** the next session so that we don't waste time at the beginning of the session. You can log in with either your email address or username, and you can change the username to something which is easy to remember.
 
-## For Python beginners, or those with only a little experience of Python
+![BBC microbit](microbit_v2-removebg.png)
 
-We will continue with our beginner course by learning how to code a Python repeat loop to control our *turtle* object.
+At the next session we will be writing Python code for the BBC micro:bit computer, which you might have seen at school. We will explore some of the basic functions including displaying custom made images and sending messages by radio from one micro:bit to another.
 
-At the last session we wrote an *Age Calculator* programme to show the use of the Python ```input()``` function and the Python ```if...else``` block. You can find the code we wrote on the screen here: [Age Calculator](https://trinket.strivemath.org/library/trinkets/71bfb7b5dd6e). We also started learning about Python *turtle graphics* and wrote some simple code which you can find here: [graphics](https://trinket.strivemath.org/library/trinkets/d82fc8c0e5e3)
+<details><summary></summary> 
+Here is some code you can use to make a custom image on your micro:bit:
 
-The complete list of Python turtle colours, which we can use to colour turtle backgrounds or turtles can be found here: [colors](https://trinket.strivemath.org/docs/colors). Hover your mouse over the square of colour and the name of that colour will appear. Remember, when you use a colour in your code you need to enclose it in either single or double quote marks.
-
-If you missed some of our introductory Python course, or you want to refresh your memory, you can find the material we are covering here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
-
-## Projects for those who are already familiar with the basic Python commands
-
-We recommend you try one or other of these two projects from the Raspberry Pi Code Club website:
-
-- [**Turtle Race**](https://projects.raspberrypi.org/en/projects/turtle-race)
-
-Here is a demo of the basic Turtle Race (click Play to start it if the animation doesn't start automatically):
-
-![Turtle Race demo](turtle_race_demo.gif "animation of turtle race")
-
-- [**Secure Messages**](https://projects.raspberrypi.org/en/projects/secure-messages)
-
+```python
+display.show(Image('00500:05750:57975:05750:00500'))
 ```
-Special Instructions for Turtle Race and Secure Messages:
-========================================================
-
-DON'T follow the link to the starter project on the Raspberry Pi website
-as this will take you to a different Python editor where you won't be able
-to save your code.
-
-Instead, create a New Project in your trinket account and give it a name.
-
-As the first line of your code in the new project insert this:
-
-#!/bin/python3
-
-After that you can follow the instructions on the Raspberry Pi site.
-```
-
-## Projects for those who know Python coding and are looking for some more difficult and challenging projects:
-
-1. [Rock, Paper Scissors with turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles/blob/master/README.md). This is an animated version of Rock, Paper Scissors with You versus The Computer and uses turtle images to show the different hand shapes. The project uses a lot of Python lists, and some very clever logic for working out who has won.
-
-2. [Hangman](https://github.com/WokLibCodeClub/Hangman/blob/master/README.md) This is a very old game which people used to play using paper and pencil. In the computer version you have to guess a mystery word by suggesting letters and finding out if they are in the word or not. If you don't get the word in six guesses you will be hanged!!! This project also shows how you can import data from a text file into a Python project. We have updated the instructions to show how to import your own word list into the game.
-
-3. [Python clock](https://github.com/WokLibCodeClub/Python-Clock/blob/master/README.md). We made this project when the classroom clock broke, and we needed to be able to tell the time to know when to go home. You will make a digital clock with Python first, then extend it to make a round clock with hands, using Python turtles.
-
-4. [Space Race](https://github.com/WokLibCodeClub/SpaceRace/blob/master/README.md). Move your rocket from the bottom to the top of the screen - but if you get hit by an asteroid on the way you will be instantly transported back to the start! This is a re-creation of an arcade game which was first invented in the 1970s. The instructions will show you how to build the game, but they don't give a complete explanation of how the code is actually working. You will have to look at your code as you write it and figure this out for yourself.
-
-## How to make a trinket account
-
-To make a *trinket* account go to [trinket.strivemath.org/signup](https://trinket.strivemath.org/signup) and fill in your email address and password. If you are 12 or under you should use a parent's email address. Otherwise you can use your own email address. Enter the details and create your account. *YOU DO NOT NEED A COMPLICATED PASSWORD FOR A TRINKET ACCOUNT.*  Choose something which is easy to type in when you are at Code Club sessions.   ***NEVER USE YOUR EMAIL PASSWORD FOR YOUR TRINKET ACCOUNT!!***
-
-Once you have made an account you can go to [strivemath.org/auth/login](https://strivemath.org/auth/login) and log in using either your email address or username. Once in your account you can go to *My settings* and change your username to something which is easier to remember.
-
-### Closure of original trinket website
-
-The original trinket site *trinket.io* closed on 31 August 2026. If you had previously written code on this site and not downloaded it to your computer this code will unfortunately have been lost.
-
-## Standalone installation of Python on your own computer
-
-If you don't want to use an online editor for writing Python code you can download Python to your own computer in what is called a "standalone installation". Open the download page at [www.python.org/downloads](https://www.python.org/downloads/) and  get the standalone installer. One advantage of doing this is that you have access to all Python functions, rather than the limited set provided by trinket.
-
-To edit code in a standalone installation open the application called **IDLE**. This opens a Python console which has a **File** menu where you can open or create .py Python code files. You write or paste in your Python code into the code window, save it, and run it by going to the **Run** menu and selecting *Run Module*. The output appears in the console if it is text output, or in a separate graphics window for graphics output (eg a turtle programme). You can find more help at [wiki.python.org/moin/BeginnersGuide](https://wiki.python.org/moin/BeginnersGuide). You can find out more about using the IDLE editor at [realpython.com/python-idle/](https://realpython.com/python-idle/).
+</details>
