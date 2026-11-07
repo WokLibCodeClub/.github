@@ -2,7 +2,7 @@
 
 [About the Code Club](https://github.com/WokLibCodeClub/woklibcodeclub.github.io/blob/master/README.md)
 
-## Next Code Club sessions: Saturday 7th November 2026
+## Next Code Club sessions: Saturday 28th November 2026
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -12,11 +12,13 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO 
 
 # Information for Scratch session (10.30am to 11.30am)
 
-The next session will take place on **Saturday 7th November 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
+The next session will take place on **Saturday 28th November 2026**. If you are going to take part in this session you will need accounts with Scratch, and Code for Life - details below.
 
 <!-- 
 Please try to arrive a little bit before 10.30am so that you have time to get logged in to your Code for Life and Scratch accounts and be ready to start at 10.30am. **MAKE SURE YOU KNOW THE PASSWORDS FOR YOUR ACCOUNTS!!!!**
 -->
+
+![BBC microbit](BBC_microbit.png)
 
 At the next session we will start, as before, by solving some more levels of the Rapid Router game which we started in September.  We encourage you to keep going with this at home, and see how far you can get. Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
 
@@ -52,7 +54,7 @@ To make a *Code for Life* account you will need to use a parent's email address.
 
 # Information for Python session (11.45am to 12.45pm)
 
-The next session will take place on **Saturday 7th November 2026**. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by *Strive Math*. The home page, where you log in to your account, is [trinket.strivemath.org/](https://trinket.strivemath.org/).
+The next session will take place on **Saturday 28th November 2026**. If you are going to take part in this session you will need an account with ***trinket***, which is a community-hosted coding website, run by *Strive Math*. The home page, where you log in to your account, is [trinket.strivemath.org/](https://trinket.strivemath.org/).
 
 The **Interactive Python Console**, which we often use to test out code, is here: [Interactive Python Console](https://trinket.strivemath.org/console).
 
