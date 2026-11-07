@@ -68,6 +68,8 @@ At the last session we wrote an *Age Calculator* programme to show the use of th
 
 The complete list of Python turtle colours, which we can use to colour turtle backgrounds or turtles can be found here: [colors](https://trinket.strivemath.org/docs/colors). Hover your mouse over the square of colour and the name of that colour will appear. Remember, when you use a colour in your code you need to enclose it in either single or double quote marks.
 
+If you missed some of our introductory Python course, or you want to refresh your memory you can find the material we are covering here: [Hello Python](https://github.com/WokLibCodeClub/Hello-Python/blob/main/README.md).
+
 ## Projects for those who are already familiar with the basic Python commands
 
 We recommend you try one or other of these two projects from the Raspberry Pi Code Club website:
