@@ -65,3 +65,7 @@ Here is some code you can use to make a custom image on your micro:bit:
 display.show(Image('00500:05750:57975:05750:00500'))
 ```
 </details>
+
+At the last Python session we completed code for getting a turtle to draw shapes of many sides. You can find the completed code for this project here: [graphics](https://trinket.strivemath.org/library/trinkets/69dd155abf91).
+
+We also wrote a Sorting Hat programme to show how useful *lists* are in Python. You can find the code for this project here: [Sorting Hat](https://trinket.strivemath.org/library/trinkets/efb1348b57b8)
