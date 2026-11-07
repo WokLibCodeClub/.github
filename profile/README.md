@@ -20,11 +20,11 @@ Please try to arrive a little bit before 10.30am so that you have time to get lo
 
 ![BBC microbit](microbit_v2-removebg.png)
 
-At the next session we will start, as before, by solving some more levels of the Rapid Router game which we started in September.  We encourage you to keep going with this at home, and see how far you can get. Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
+At the next session we will be meeting the BBC micro:bit - a very sophisticated microprocessor which is popular in schools across the country. We will learn some basic functions and start coding a seasonal project.
 
-After that we will continue with a new Scratch project called *Catch the Bus*. If you want to try this at home the instructions are here: [Catch the Bus](https://projects.raspberrypi.org/en/projects/catch-the-bus).
+We hope you will continue progressing at home with the Rapid Router game. See how far you can get! Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
 
-If you didn't quite finish the *Space Talk* project and want to continue with this at home the instructions are in [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk).
+If you didn't quite finish the *Catch the Bus* project at the last session you can work on it at home. The instructions are here: [Catch the Bus](https://projects.raspberrypi.org/en/projects/catch-the-bus).
 
 <details><summary></summary> 
 https://www.bebras.uk/index.php?action=anon_join&grp_id=28132
