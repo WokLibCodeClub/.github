@@ -16,6 +16,8 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO 
 
 At the next session we will be meeting the BBC micro:bit - a very sophisticated microprocessor which is popular in schools across the country. We will learn some basic functions and start coding a seasonal project.
 
+We have made a powerpoint presentation to introduce some of the features of the microbit. You can open this file here: [Fun_with_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQBJX9BJvgjwQrdRciR31UqDAQbm8uG_52PNV06depQ2rOg?e=3Ed6mu).
+
 We hope you will continue progressing at home with the Rapid Router game. See how far you can get! Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
 
 If you didn't quite finish the *Catch the Bus* project at the last session you can work on it at home. The instructions are here: [Catch the Bus](https://projects.raspberrypi.org/en/projects/catch-the-bus).
