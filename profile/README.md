@@ -18,7 +18,7 @@ At the next session we will be meeting the BBC micro:bit - a very sophisticated 
 
 We have made a powerpoint presentation to introduce some of the features of the microbit. You can open this file here: [Fun_with_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQBJX9BJvgjwQrdRciR31UqDAQbm8uG_52PNV06depQ2rOg?e=3Ed6mu).
 
-You do not need to log in to *Scratch* or *Rapid Router* for this session.
+We will do coding on the [Makecode Microbit](https://makecode.microbit.org/) site. You do not need to log in to *Scratch* or *Rapid Router* for this session.
 
 We hope you will continue progressing at home with the Rapid Router game. See how far you can get! Go to [Rapid Router](https://www.codeforlife.education/rapidrouter/). If you have an account you can log in and check your progress.
 
