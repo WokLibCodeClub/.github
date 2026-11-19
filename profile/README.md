@@ -60,6 +60,8 @@ The next session will take place on **Saturday 28th November 2026**.
 
 At the next session we will be writing Python code for the BBC micro:bit computer, which you might have seen at school. We will explore some of the basic functions including displaying custom made images and sending messages by radio from one micro:bit to another.
 
+We will do our coding through Microbit Classroom, which allows us to share code with all the students. Everybody's code is stored with the Classroom session, and you don't need to log in to any online account.
+
 <details><summary></summary> 
 Here is some code you can use to make a custom image on your micro:bit:
 
