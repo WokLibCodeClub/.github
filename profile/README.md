@@ -64,11 +64,17 @@ At the next session we will be writing Python code for the BBC micro:bit compute
 
 We will do our coding through Microbit Classroom, which allows us to share code with all the students. Everybody's code is stored with the Classroom session, and you don't need to log in to any online account.
 
+You do not need to log in to *trinket* for this session.
+
 <details><summary></summary> 
 Here is some code you can use to make a custom image on your micro:bit:
 
 ```python
-display.show(Image('00500:05750:57975:05750:00500'))
+Image('00500:'
+      '05750:'
+      '57975:'
+      '05750:'
+      '00500')
 ```
 </details>
 
