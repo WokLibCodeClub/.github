@@ -70,11 +70,11 @@ You do not need to log in to *trinket* for this session.
 Here is some code you can use to make a custom image on your micro:bit:
 
 ```python
-Image('00500:'
-      '05750:'
-      '57975:'
-      '05750:'
-      '00500')
+mystery_pic = Image('00500:'
+                    '05750:'
+                    '57975:'
+                    '05750:'
+                    '00500')
 ```
 </details>
 
