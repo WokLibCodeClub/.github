@@ -78,7 +78,7 @@ candle_lit3 = Image('00600:04940:04850:99999:99999')
 ```
 </details>
 
-At the last Python session we completed code for getting a turtle to draw shapes of many sides. You can find the completed code for this project here: [graphics](https://trinket.strivemath.org/library/trinkets/69dd155abf91).
+At a previous Python session on 31st October 2026 we completed code for getting a turtle to draw shapes of many sides. You can find the completed code for this project here: [graphics](https://trinket.strivemath.org/library/trinkets/69dd155abf91).
 
 We also wrote a Sorting Hat programme to show how useful *lists* are in Python. You can find the code for this project here: [Sorting Hat](https://trinket.strivemath.org/library/trinkets/efb1348b57b8).
 
