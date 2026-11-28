@@ -12,6 +12,8 @@ $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO 
 
 # Information for Scratch session (10.30am to 11.30am)
 
+The next session will take place on **Saturday 5th December 2026**.
+
 ![BBC microbit](microbit_v2-removebg.png)
 
 At the next session we will be meeting the BBC micro:bit - a very sophisticated microprocessor which is popular in schools across the country. We will learn some basic functions and start coding a seasonal project.
