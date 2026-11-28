@@ -16,9 +16,9 @@ The next session will take place on **Saturday 5th December 2026**.
 
 ![BBC microbit](microbit_v2-removebg.png)
 
-At the next session we will be meeting the BBC micro:bit - a very sophisticated microprocessor which is popular in schools across the country. We will learn some basic functions and start coding a seasonal project.
+At the next session we will be using the BBC micro:bits to create a *Festive Decoration* for the festive season. This will give you a chance to be creative with your own screen design and sound.
 
-We have made a powerpoint presentation to introduce some of the features of the microbit. You can open this file here: [Fun_with_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQBJX9BJvgjwQrdRciR31UqDAQbm8uG_52PNV06depQ2rOg?e=3Ed6mu).
+We have made a powerpoint presentation to introduce some of the features of the micro:bit which will help you to catch up if you missed the last session. You can open this file here: [Fun_with_Microbits.pptx](https://1drv.ms/p/c/0ea54730735a1344/IQBJX9BJvgjwQrdRciR31UqDAQbm8uG_52PNV06depQ2rOg?e=3Ed6mu).
 
 We will do coding on the [Makecode Microbit](https://makecode.microbit.org/) site. You do not need to log in to *Scratch* or *Rapid Router* for this session.
 
