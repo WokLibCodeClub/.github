@@ -2,7 +2,7 @@
 
 [About the Code Club](https://github.com/WokLibCodeClub/woklibcodeclub.github.io/blob/master/README.md)
 
-## Next Code Club sessions: Saturday 28th November 2026
+## Next Code Club sessions: Saturday 5th December 2026
 
 <h2>
 $\color{#f00}{\textsf{PLEASE MAKE SURE YOU KNOW YOUR PASSWORD FOR LOGGING IN TO YOUR ACCOUNT(S)!!!!!!!}}$
@@ -56,7 +56,7 @@ Once you have made an account you can login by going to [www.codeforlife.educati
 
 # Information for Python session (11.45am to 12.45pm)
 
-The next session will take place on **Saturday 28th November 2026**.
+The next session will take place on **Saturday 5th December 2026**.
 
 ![BBC microbit](microbit_v2-removebg.png)
 
