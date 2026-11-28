@@ -62,21 +62,19 @@ The next session will take place on **Saturday 5th December 2026**.
 
 ![BBC microbit](microbit_v2-removebg.png)
 
-At the next session we will be writing Python code for the BBC micro:bit computer, which you might have seen at school. We will explore some of the basic functions including displaying custom made images and sending messages by radio from one micro:bit to another.
+At the next session we will code up the BBC micro:bit to become a festive candle. We will use clever coding methods to light the candle and then blow it out!
 
 We will do our coding through Microbit Classroom, which allows us to share code with all the students. Everybody's code is stored with the Classroom session, and you don't need to log in to any online account.
 
 You do not need to log in to *trinket* for this session.
 
 <details><summary></summary> 
-Here is some code you can use to make a custom image on your micro:bit:
+Here is some code you can use to make the candle appear to be alight:
 
 ```python
-mystery_pic = Image('00500:'
-                    '05750:'
-                    '57975:'
-                    '05750:'
-                    '00500')
+candle_lit1 = Image('00800:07900:06960:99999:99999')
+candle_lit2 = Image('00700:06870:05960:99999:99999')
+candle_lit3 = Image('00600:04940:04850:99999:99999')
 ```
 </details>
 
